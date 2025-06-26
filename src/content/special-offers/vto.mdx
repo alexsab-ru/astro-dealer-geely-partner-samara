@@ -12,14 +12,9 @@ import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
 import Timer from '@/components/Timer/Timer.astro';
 import FeedbackForm from '@/components/FeedbackForm/FeedbackForm.astro';
 import settings from '@/data/settings.json';
-export const { site_name, phone_common, legal_city_where } = settings;
+export const { site_name, phone_common } = settings;
 import { phoneFormat } from '@/js/utils/numbers.format';
-import { LAST_DAY, FIRST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
-
-export const dateFrom = '01.07.2024';
-export const dateTo = `${LAST_DAY}.${MONTH}.${YEAR}`;
-export const dateToGenitive = `${LAST_DAY} ${MONTH_GENITIVE} ${YEAR}`;
-export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
+import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 
 <picture>
     <source media="(min-width: 1200px)" srcset="https://cdn.alexsab.ru/main-sliders/geely/vto/vto-1921x638.webp" />
@@ -40,46 +35,16 @@ export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
 
 Одновременно с ТО скидка предоставляется на все сопутствующие работы и запчасти.
 
-<h2 class="mt-14 !mb-10 text-center">Условия программы выгодное техническое обслуживание</h2>
+Подробности предложения уточняйте у мастера-консультанта по телефону <a href={`tel:${phoneFormat(phone_common)}`}>{phone_common}</a>
 
-### Внесите предоплату 1 000 рублей за каждое ТО - получите скидку до 30%
-
-<div class="overflow-auto min-w-full mb-14">
-	<table border="1">
-		<thead>
-			<tr>
-				<th>Количество ТО</th>
-				<th>Предоплата</th>
-				<th colspan="2">Скидка</th>
-			</tr>
-			<tr>
-				<th></th>
-				<th></th>
-				<th>на УСЛУГИ</th>
-				<th>на ЗАПЧАСТИ</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>2ТО</td>
-				<td>2000 руб</td>
-				<td>10%</td>
-				<td>10%</td>
-			</tr>
-			<tr>
-				<td>3ТО</td>
-				<td>3000 руб</td>
-				<td>15%</td>
-				<td>10%</td>
-			</tr>
-			<tr>
-				<td>4ТО и более</td>
-				<td>От 4000 руб</td>
-				<td>20%</td>
-				<td>10%</td>
-			</tr>
-		</tbody>
-	</table>
+<div class="flex justify-center mt-10 mb-5">
+    <Button 
+        classes="popup-link block !px-4 xl:!px-8 !py-2 xl:!py-3 !text-white !no-underline" 
+        url="#common-modal" 
+        title="Подробнее"
+        dataTitle="Заказать обратный звонок"
+        dataFormName={`Подробнее. Выгодное Техническое Обслуживание`}
+    />
 </div>
 
 ### Особые условия: если Вы приобрели пакет ТО, в котором присутствует ТО-50 и выше, то по таким ТО действуют специальные скидки:

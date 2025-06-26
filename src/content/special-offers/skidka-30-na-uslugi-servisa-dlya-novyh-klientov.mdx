@@ -12,14 +12,10 @@ import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
 import Timer from '@/components/Timer/Timer.astro';
 import FeedbackForm from '@/components/FeedbackForm/FeedbackForm.astro';
 import settings from '@/data/settings.json';
-export const { site_name, phone_common, legal_city_where } = settings;
-import { phoneFormat } from '@/js/utils/numbers.format';
-import { LAST_DAY, FIRST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
+export const { site_name, legal_city } = settings;
 
-export const dateFrom = '01.07.2024';
-export const dateTo = `${LAST_DAY}.${MONTH}.${YEAR}`;
-export const dateToGenitive = `${LAST_DAY} ${MONTH_GENITIVE} ${YEAR}`;
-export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
+export const from = '01.07.2024';
+export const to = '30 января 2025';
 
 <picture>
     <source media="(min-width: 1200px)" srcset="https://cdn.alexsab.ru/specials/geely/skidka-30-na-uslugi-servisa-dlya-novyh-klientov/geely-service30-1200x600.webp" />
@@ -39,7 +35,7 @@ export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
 - — Шиномонтаж
 - — Установка дополнительного оборудования
 
-Скидка действует только до {dateTo} года! Не упустите свой шанс!
+Скидка действует только до {to} года! Не упустите свой шанс!
 
 <SpecialSalonsInfo dataFormName="Узнать подробнее. Скидка 30% на услуги сервиса Geely" />
 
