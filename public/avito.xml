@@ -512,7 +512,9 @@ Geely Cityray – современный технологичный кроссо
 		<InsuranceDiscount>100000</InsuranceDiscount>
 		<MaxDiscount>470000</MaxDiscount>
 		<Color>Серый</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB3G43S97RX308826/49d58ff72eb0323a4dd48c2d2f971cc9.jpeg" />
+		</Images>
 		<Make>Geely</Make>
 		<Model>Cityray</Model>
 		<GenerationId>22127398</GenerationId>
