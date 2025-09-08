@@ -172,7 +172,6 @@ export default defineConfig({
 				'/about-geely/brand-geely/': '/models/',
 				'/about-geely/dealer/': '/contacts/',
 				'/about-geely/news/': '/news/',
-				'/models/geely-okavango/': '/models/okavango/',
 				'/team/': '/contacts/',
 			}),
 			...legacyNews.map((p) => [p, '/news/']),
