@@ -825,79 +825,6 @@ Geely Партнер-Авто — автосалон, который забот�
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
-		<Id>39aa4c47e67f35cbe5d32d11c6538559</Id>
-		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
-
-Фиксированная скидка по трейд-ин — получи 420 000 ₽ просто за обмен авто!
-Выгодная рассрочка до 96 месяцев — без переплат! 
-Банковская ставка — от 0,01% годовых
-Срок — до 8 лет. Никаких скрытых комиссий! 
-
-Подарок за покупку за 1 день!
-Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
-
-А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
-
-- Гарантированную выгоду до 560 000.00 ₽
-- Дополнительную выгоду при покупке в кредит — до 450 000₽
-- Персональные скидки до 600 000₽ для тех, кто платит наличными!
-
-Сверх того: 
- Доставка авто под заказ срок до 1 месяца
-
-Гарантия 5 лет или 150 000 км — на все автомобили Geely! 
-
-Круглосуточная помощь на дороге 24/7 с программой Geely Assistance
-
-Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
-Звоните прямо сейчас — количество машин по акции ограничено.
-Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description>
-		<Price>5052190</Price>
-		<TradeinDiscount>420000</TradeinDiscount>
-		<CreditDiscount>450000</CreditDiscount>
-		<InsuranceDiscount>150000</InsuranceDiscount>
-		<MaxDiscount>1317000</MaxDiscount>
-		<Color>Серый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/LB37852D6RS254825/f07ebc0c6631e3a0fd90433b2ba97f12.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D6RS254825/2b5ad0cad458f81e6370359056f337ca.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D6RS254825/b983d598acaa3e92ae12560b80840e83.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D6RS254825/31ca07d7ea8767d48465d2ab686066e3.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D6RS254825/613bad075327e4766f1f8eab17eb8fd5.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D6RS254825/e3e009146e6429c5951fa019898b25db.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D6RS254825/62a9e45f39e171c29fc40d42b9e8fb3c.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D6RS254825/4939501c131fdaf471f88f217d73a343.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D6RS254825/3859ac85faa3bef75130ec4bb38cd554.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D6RS254825/a9f5a4c0188c9e40e38ab0e96b1130ef.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D6RS254825/572bab7e4f05d6899ede580624bf6e0e.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D6RS254825/8f43e873ff99854683a5816cc5c14ec0.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D6RS254825/09f00733f45119d0676c11dc08129996.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D6RS254825/a475c1f044eb544995e59ac94564ab39.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D6RS254825/2a4b43cb9ef1d7abc05185d974a23e5b.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D6RS254825/69148d88ad08fc6f11b4cd5db00ea404.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D6RS254825/5aa776bdd2af5d25aefb9bfab5a74a88.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D6RS254825/4e2387caa6b07cb9b75bdf63c44231f2.jpg" />
-		</Images>
-		<Make>Geely</Make>
-		<Model>Monjaro</Model>
-		<GenerationId>17481670</GenerationId>
-		<ModificationId>17481675</ModificationId>
-		<ComplectationId>18491658</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Автомат</Transmission>
-		<Year>2024</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Полный</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>LB37852D6RS254825</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-	</Ad>
-	<Ad>
 		<Id>b183bf883c336e5ca9b578daa70f7fdd</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
@@ -968,6 +895,79 @@ Geely Партнер-Авто — автосалон, который забот�
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>LB37852D9RS255807</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
+		<Id>39aa4c47e67f35cbe5d32d11c6538559</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
+
+Фиксированная скидка по трейд-ин — получи 420 000 ₽ просто за обмен авто!
+Выгодная рассрочка до 96 месяцев — без переплат! 
+Банковская ставка — от 0,01% годовых
+Срок — до 8 лет. Никаких скрытых комиссий! 
+
+Подарок за покупку за 1 день!
+Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
+
+А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
+
+- Гарантированную выгоду до 560 000.00 ₽
+- Дополнительную выгоду при покупке в кредит — до 450 000₽
+- Персональные скидки до 600 000₽ для тех, кто платит наличными!
+
+Сверх того: 
+ Доставка авто под заказ срок до 1 месяца
+
+Гарантия 5 лет или 150 000 км — на все автомобили Geely! 
+
+Круглосуточная помощь на дороге 24/7 с программой Geely Assistance
+
+Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
+Звоните прямо сейчас — количество машин по акции ограничено.
+Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description>
+		<Price>5052190</Price>
+		<TradeinDiscount>420000</TradeinDiscount>
+		<CreditDiscount>450000</CreditDiscount>
+		<InsuranceDiscount>150000</InsuranceDiscount>
+		<MaxDiscount>1317000</MaxDiscount>
+		<Color>Серый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB37852D6RS254825/f07ebc0c6631e3a0fd90433b2ba97f12.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6RS254825/2b5ad0cad458f81e6370359056f337ca.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6RS254825/b983d598acaa3e92ae12560b80840e83.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6RS254825/31ca07d7ea8767d48465d2ab686066e3.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6RS254825/613bad075327e4766f1f8eab17eb8fd5.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6RS254825/e3e009146e6429c5951fa019898b25db.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6RS254825/62a9e45f39e171c29fc40d42b9e8fb3c.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6RS254825/4939501c131fdaf471f88f217d73a343.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6RS254825/3859ac85faa3bef75130ec4bb38cd554.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6RS254825/a9f5a4c0188c9e40e38ab0e96b1130ef.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6RS254825/572bab7e4f05d6899ede580624bf6e0e.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6RS254825/8f43e873ff99854683a5816cc5c14ec0.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6RS254825/09f00733f45119d0676c11dc08129996.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6RS254825/a475c1f044eb544995e59ac94564ab39.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6RS254825/2a4b43cb9ef1d7abc05185d974a23e5b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6RS254825/69148d88ad08fc6f11b4cd5db00ea404.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6RS254825/5aa776bdd2af5d25aefb9bfab5a74a88.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D6RS254825/4e2387caa6b07cb9b75bdf63c44231f2.jpg" />
+		</Images>
+		<Make>Geely</Make>
+		<Model>Monjaro</Model>
+		<GenerationId>17481670</GenerationId>
+		<ModificationId>17481675</ModificationId>
+		<ComplectationId>18491658</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LB37852D6RS254825</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
