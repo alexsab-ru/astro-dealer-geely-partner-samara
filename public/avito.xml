@@ -1117,6 +1117,79 @@ Geely Партнер-Авто — автосалон, который забот�
 		<OnlyOnAvito>нет</OnlyOnAvito>
 	</Ad>
 	<Ad>
+		<Id>113e776f3f2bf612e8117c17b0994ec9</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
+
+Фиксированная скидка по трейд-ин — получи 420 000 ₽ просто за обмен авто!
+Выгодная рассрочка до 96 месяцев — без переплат! 
+Банковская ставка — от 0,01% годовых
+Срок — до 8 лет. Никаких скрытых комиссий! 
+
+Подарок за покупку за 1 день!
+Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
+
+А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
+
+- Гарантированную выгоду до 460 000.00 ₽
+- Дополнительную выгоду при покупке в кредит — до 450 000₽
+- Персональные скидки до 420 000₽ для тех, кто платит наличными!
+
+Сверх того: 
+ Доставка авто под заказ срок до 1 месяца
+
+Гарантия 5 лет или 150 000 км — на все автомобили Geely! 
+
+Круглосуточная помощь на дороге 24/7 с программой Geely Assistance
+
+Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
+Звоните прямо сейчас — количество машин по акции ограничено.
+Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description>
+		<Price>4852190</Price>
+		<TradeinDiscount>420000</TradeinDiscount>
+		<CreditDiscount>450000</CreditDiscount>
+		<InsuranceDiscount>150000</InsuranceDiscount>
+		<MaxDiscount>1280000</MaxDiscount>
+		<Color>Серый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB37852D3SS156826/4b60d7b4883a220d6caf1b74de20e290.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D3SS156826/0d6878d6a6e06131478c40072db23949.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D3SS156826/2a2d4864a52db32e09a111eff611dd01.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D3SS156826/13084b031e32b0fa41d4773773606cd7.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D3SS156826/b13f8e72bc3339a50d8df519929769f9.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D3SS156826/637bc92c4abae3f17dc833d1a423161d.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D3SS156826/1e6ad9c8057c1771850ca54526c90228.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D3SS156826/f15c6a427918edbc32a79aa60ff992da.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D3SS156826/e024bec59af58eabed38fc7416dbf781.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D3SS156826/7e9750cf467d4266a1e115fe3c031d0d.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D3SS156826/ac541dd6795cdce99fbb7ebc8b3312ce.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D3SS156826/4735e34870ba60c193d805fe5bfe5249.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D3SS156826/a615b9f53baf27e36f2354461671d3fa.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D3SS156826/baebd6921d91406a52e510f999495d11.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D3SS156826/5b823de75a722ac71ad5e86b1f6204fc.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D3SS156826/8e0f8bc6b3869416afd237fea14d4060.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D3SS156826/69c6d8e9d829adbe762b0af88e3122b1.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D3SS156826/5c7b380b5127b951ea42967b6ed1cefd.jpeg" />
+		</Images>
+		<Make>Geely</Make>
+		<Model>Monjaro</Model>
+		<GenerationId>17481670</GenerationId>
+		<ModificationId>17481675</ModificationId>
+		<ComplectationId>18491657</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2025</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LB37852D3SS156826</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+	</Ad>
+	<Ad>
 		<Id>70ed5e792c65c56eee2a3b796de5aec0</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
