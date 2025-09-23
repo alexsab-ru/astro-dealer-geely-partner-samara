@@ -7,7 +7,7 @@
 		<Category>Автомобили</Category>
 		<Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
 
-Фиксированная скидка по трейд-ин — получи 380 000 ₽ просто за обмен авто!
+Фиксированная скидка по трейд-ин — получи 263 000 ₽ просто за обмен авто!
 Выгодная рассрочка до 96 месяцев — без переплат! 
 Банковская ставка — от 0,01% годовых
 Срок — до 8 лет. Никаких скрытых комиссий! 
@@ -17,9 +17,9 @@
 
 А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
 
-- Гарантированную выгоду до 460 000.00 ₽
-- Дополнительную выгоду при покупке в кредит — до 400 000₽
-- Персональные скидки до 420 000₽ для тех, кто платит наличными!
+- Гарантированную выгоду до 718 000.00 ₽
+- Дополнительную выгоду при покупке в кредит — до 255 000₽
+- Персональные скидки до 250 000₽ для тех, кто платит наличными!
 
 Сверх того: 
  Доставка авто под заказ срок до 1 месяца
@@ -32,10 +32,10 @@
 Звоните прямо сейчас — количество машин по акции ограничено.
 Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description>
 		<Price>3717190</Price>
-		<TradeinDiscount>380000</TradeinDiscount>
-		<CreditDiscount>350000</CreditDiscount>
-		<InsuranceDiscount>150000</InsuranceDiscount>
-		<MaxDiscount>1116440</MaxDiscount>
+		<TradeinDiscount>263000</TradeinDiscount>
+		<CreditDiscount>255000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>718000</MaxDiscount>
 		<Color>Серебряный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LB3FX1S64RB152514/2942f4bcbdb59e5ed943ae1a38e5293f.jpg" />
@@ -101,10 +101,10 @@ Geely Партнер-Авто — автосалон, который забот�
 Звоните прямо сейчас — количество машин по акции ограничено.
 Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description>
 		<Price>3917190</Price>
-		<TradeinDiscount>380000</TradeinDiscount>
-		<CreditDiscount>400000</CreditDiscount>
-		<InsuranceDiscount>150000</InsuranceDiscount>
-		<MaxDiscount>1176240</MaxDiscount>
+		<TradeinDiscount>163000</TradeinDiscount>
+		<CreditDiscount>355000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>718000</MaxDiscount>
 		<Color>Серый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LB3FX1S18RB167277/d2844aff132e8b885b6c0d6858ac8200.jpg" />
@@ -233,10 +233,10 @@ Geely Партнер-Авто — автосалон, который забот�
 Звоните прямо сейчас — количество машин по акции ограничено.
 Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description>
 		<Price>3214190</Price>
-		<TradeinDiscount>350000</TradeinDiscount>
-		<CreditDiscount>250000</CreditDiscount>
-		<InsuranceDiscount>100000</InsuranceDiscount>
-		<MaxDiscount>750000</MaxDiscount>
+		<TradeinDiscount>150000</TradeinDiscount>
+		<CreditDiscount>275190</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>475190</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LB3G43S99SX303004/8045a0cff9c4976d8d6c4b6967abd090.jpg" />
@@ -307,10 +307,10 @@ Geely Партнер-Авто — автосалон, который забот�
 Звоните прямо сейчас — количество машин по акции ограничено.
 Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description>
 		<Price>3214190</Price>
-		<TradeinDiscount>350000</TradeinDiscount>
-		<CreditDiscount>250000</CreditDiscount>
-		<InsuranceDiscount>100000</InsuranceDiscount>
-		<MaxDiscount>750000</MaxDiscount>
+		<TradeinDiscount>150000</TradeinDiscount>
+		<CreditDiscount>275190</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>475190</MaxDiscount>
 		<Color>Голубой</Color>
 		<Images />
 		<Make>Geely</Make>
