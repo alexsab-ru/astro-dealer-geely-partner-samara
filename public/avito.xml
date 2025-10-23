@@ -1038,62 +1038,6 @@ Geely Партнер-Авто — автосалон, который забот�
 		<VideoFileURL />
 	</Ad>
 	<Ad>
-		<Id>2c139056df7921d5824863abd723d1ef</Id>
-		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
-
-Фиксированная скидка по трейд-ин — получи 258 000 ₽ просто за обмен авто!
-Выгодная рассрочка до 96 месяцев — без переплат! 
-Банковская ставка — от 0,01% годовых
-Срок — до 8 лет. Никаких скрытых комиссий! 
-
-Подарок за покупку за 1 день!
-Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
-
-А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
-
-- Гарантированную выгоду до 558 000.00 ₽
-- Дополнительную выгоду при покупке в кредит — до 300 000₽
-- Персональные скидки до 300 000₽ для тех, кто платит наличными!
-
-Сверх того: 
- Доставка авто под заказ срок до 1 месяца
-
-Гарантия 5 лет или 150 000 км — на все автомобили Geely! 
-
-Круглосуточная помощь на дороге 24/7 с программой Geely Assistance
-
-Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
-Звоните прямо сейчас — количество машин по акции ограничено.
-Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description>
-		<Price>3567190</Price>
-		<TradeinDiscount>258000</TradeinDiscount>
-		<CreditDiscount>300000</CreditDiscount>
-		<InsuranceDiscount>89190</InsuranceDiscount>
-		<MaxDiscount>867190</MaxDiscount>
-		<Color>Белый</Color>
-		<Images />
-		<Make>Geely</Make>
-		<Model>Preface</Model>
-		<GenerationId>22072566</GenerationId>
-		<ModificationId>22072567</ModificationId>
-		<ComplectationId>22072569</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Робот</Transmission>
-		<Year>2024</Year>
-		<Doors>4</Doors>
-		<BodyType>Седан</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>L6TFS1S85RD151663</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
 		<Id>374cce5c3ce5e9eab46191c0c7c63efc</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
@@ -1163,6 +1107,62 @@ Geely Партнер-Авто — автосалон, который забот�
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>L6TFS1S84RD166588</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>2c139056df7921d5824863abd723d1ef</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
+
+Фиксированная скидка по трейд-ин — получи 258 000 ₽ просто за обмен авто!
+Выгодная рассрочка до 96 месяцев — без переплат! 
+Банковская ставка — от 0,01% годовых
+Срок — до 8 лет. Никаких скрытых комиссий! 
+
+Подарок за покупку за 1 день!
+Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
+
+А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
+
+- Гарантированную выгоду до 558 000.00 ₽
+- Дополнительную выгоду при покупке в кредит — до 300 000₽
+- Персональные скидки до 300 000₽ для тех, кто платит наличными!
+
+Сверх того: 
+ Доставка авто под заказ срок до 1 месяца
+
+Гарантия 5 лет или 150 000 км — на все автомобили Geely! 
+
+Круглосуточная помощь на дороге 24/7 с программой Geely Assistance
+
+Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
+Звоните прямо сейчас — количество машин по акции ограничено.
+Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description>
+		<Price>3567190</Price>
+		<TradeinDiscount>258000</TradeinDiscount>
+		<CreditDiscount>300000</CreditDiscount>
+		<InsuranceDiscount>89190</InsuranceDiscount>
+		<MaxDiscount>867190</MaxDiscount>
+		<Color>Белый</Color>
+		<Images />
+		<Make>Geely</Make>
+		<Model>Preface</Model>
+		<GenerationId>22072566</GenerationId>
+		<ModificationId>22072567</ModificationId>
+		<ComplectationId>22072569</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2024</Year>
+		<Doors>4</Doors>
+		<BodyType>Седан</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>L6TFS1S85RD151663</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<VideoURL />
 		<VideoFileURL />
@@ -2427,61 +2427,6 @@ Geely Партнер-Авто — автосалон, который забот�
 		
 		
 		
-	<Id>b8c63745e51ebb287073ab487d733b5e</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
-
-Фиксированная скидка по трейд-ин — получи 258 000 ₽ просто за обмен авто!
-Выгодная рассрочка до 96 месяцев — без переплат! 
-Банковская ставка — от 0,01% годовых
-Срок — до 8 лет. Никаких скрытых комиссий! 
-
-Подарок за покупку за 1 день!
-Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
-
-А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
-
-- Гарантированную выгоду до 558 000.00 ₽
-- Дополнительную выгоду при покупке в кредит — до 300 000₽
-- Персональные скидки до 300 000₽ для тех, кто платит наличными!
-
-Сверх того: 
- Доставка авто под заказ срок до 1 месяца
-
-Гарантия 5 лет или 150 000 км — на все автомобили Geely! 
-
-Круглосуточная помощь на дороге 24/7 с программой Geely Assistance
-
-Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
-Звоните прямо сейчас — количество машин по акции ограничено.
-Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>3567190</Price><TradeinDiscount>258000</TradeinDiscount><CreditDiscount>300000</CreditDiscount><InsuranceDiscount>89190</InsuranceDiscount><MaxDiscount>867190</MaxDiscount><Color>Белый</Color><Images /><Make>Geely</Make><Model>Preface</Model><GenerationId>22072566</GenerationId><ModificationId>22072567</ModificationId><ComplectationId>22072569</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2024</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>L6TFS1S85RD151664</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	<Id>3162b7b8478991e29d838ae3b98ddc3f</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
 
 Фиксированная скидка по трейд-ин — получи 258 000 ₽ просто за обмен авто!
@@ -2526,6 +2471,61 @@ Geely Партнер-Авто — автосалон, который забот�
 			
 			
 		<Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/276113699c1dfb40accfdd67bebb211d.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/34ee22f7c7dfffbadf7abb37cf47747d.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/dc5363b8dddf9af452bb8faf2ae70330.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/4ab2f384b7aa1dda3b0479b59ac2b1bf.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/a65cea30f6cbd6bf19eaabf177ae745d.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/683bf01041de18186d90642ea02ffe71.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/aeac7b5a43f5fc3119ff9163ffb835a6.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/e30296b3afc0a2e65462d8a67512f353.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/7504394c0cab990d8dbbc67bd7044243.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/aa0f0bab2fc01963eb0484b7da80a264.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/61b8927f344fb058576afef1852bb600.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/ae52a056e0b0565b2c90449bb2ed314b.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/30f14e8ecb664e5eb10cd82f398a3d57.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/b96bdc5cfd9892be14baf4d7040a5e79.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/96bcd2346c4459821c76b4b5ed56b8af.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/75e0436ddf007647d270f3c89d8928e0.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/542e9db87b501a80bac2adb5c8a72ce0.jpeg" /></Images><Make>Geely</Make><Model>Preface</Model><GenerationId>22072566</GenerationId><ModificationId>22072567</ModificationId><ComplectationId>22072569</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2024</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>L6TFS1S84RD166589</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>b8c63745e51ebb287073ab487d733b5e</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
+
+Фиксированная скидка по трейд-ин — получи 258 000 ₽ просто за обмен авто!
+Выгодная рассрочка до 96 месяцев — без переплат! 
+Банковская ставка — от 0,01% годовых
+Срок — до 8 лет. Никаких скрытых комиссий! 
+
+Подарок за покупку за 1 день!
+Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
+
+А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
+
+- Гарантированную выгоду до 558 000.00 ₽
+- Дополнительную выгоду при покупке в кредит — до 300 000₽
+- Персональные скидки до 300 000₽ для тех, кто платит наличными!
+
+Сверх того: 
+ Доставка авто под заказ срок до 1 месяца
+
+Гарантия 5 лет или 150 000 км — на все автомобили Geely! 
+
+Круглосуточная помощь на дороге 24/7 с программой Geely Assistance
+
+Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
+Звоните прямо сейчас — количество машин по акции ограничено.
+Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>3567190</Price><TradeinDiscount>258000</TradeinDiscount><CreditDiscount>300000</CreditDiscount><InsuranceDiscount>89190</InsuranceDiscount><MaxDiscount>867190</MaxDiscount><Color>Белый</Color><Images /><Make>Geely</Make><Model>Preface</Model><GenerationId>22072566</GenerationId><ModificationId>22072567</ModificationId><ComplectationId>22072569</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2024</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>L6TFS1S85RD151664</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -3782,61 +3782,6 @@ Geely Партнер-Авто — автосалон, который забот�
 		
 		
 		
-	<Id>26c147ba6e623b283d647a84c88ffafb</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
-
-Фиксированная скидка по трейд-ин — получи 258 000 ₽ просто за обмен авто!
-Выгодная рассрочка до 96 месяцев — без переплат! 
-Банковская ставка — от 0,01% годовых
-Срок — до 8 лет. Никаких скрытых комиссий! 
-
-Подарок за покупку за 1 день!
-Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
-
-А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
-
-- Гарантированную выгоду до 558 000.00 ₽
-- Дополнительную выгоду при покупке в кредит — до 300 000₽
-- Персональные скидки до 300 000₽ для тех, кто платит наличными!
-
-Сверх того: 
- Доставка авто под заказ срок до 1 месяца
-
-Гарантия 5 лет или 150 000 км — на все автомобили Geely! 
-
-Круглосуточная помощь на дороге 24/7 с программой Geely Assistance
-
-Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
-Звоните прямо сейчас — количество машин по акции ограничено.
-Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>3567190</Price><TradeinDiscount>258000</TradeinDiscount><CreditDiscount>300000</CreditDiscount><InsuranceDiscount>89190</InsuranceDiscount><MaxDiscount>867190</MaxDiscount><Color>Белый</Color><Images /><Make>Geely</Make><Model>Preface</Model><GenerationId>22072566</GenerationId><ModificationId>22072567</ModificationId><ComplectationId>22072569</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2024</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>L6TFS1S85RD151665</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	<Id>a522d5b853203a199f067ab085513750</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
 
 Фиксированная скидка по трейд-ин — получи 258 000 ₽ просто за обмен авто!
@@ -3881,6 +3826,61 @@ Geely Партнер-Авто — автосалон, который забот�
 			
 			
 		<Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/276113699c1dfb40accfdd67bebb211d.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/34ee22f7c7dfffbadf7abb37cf47747d.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/dc5363b8dddf9af452bb8faf2ae70330.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/4ab2f384b7aa1dda3b0479b59ac2b1bf.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/a65cea30f6cbd6bf19eaabf177ae745d.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/683bf01041de18186d90642ea02ffe71.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/aeac7b5a43f5fc3119ff9163ffb835a6.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/e30296b3afc0a2e65462d8a67512f353.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/7504394c0cab990d8dbbc67bd7044243.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/aa0f0bab2fc01963eb0484b7da80a264.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/61b8927f344fb058576afef1852bb600.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/ae52a056e0b0565b2c90449bb2ed314b.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/30f14e8ecb664e5eb10cd82f398a3d57.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/b96bdc5cfd9892be14baf4d7040a5e79.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/96bcd2346c4459821c76b4b5ed56b8af.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/75e0436ddf007647d270f3c89d8928e0.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/542e9db87b501a80bac2adb5c8a72ce0.jpeg" /></Images><Make>Geely</Make><Model>Preface</Model><GenerationId>22072566</GenerationId><ModificationId>22072567</ModificationId><ComplectationId>22072569</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2024</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>L6TFS1S84RD166590</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>26c147ba6e623b283d647a84c88ffafb</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
+
+Фиксированная скидка по трейд-ин — получи 258 000 ₽ просто за обмен авто!
+Выгодная рассрочка до 96 месяцев — без переплат! 
+Банковская ставка — от 0,01% годовых
+Срок — до 8 лет. Никаких скрытых комиссий! 
+
+Подарок за покупку за 1 день!
+Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
+
+А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
+
+- Гарантированную выгоду до 558 000.00 ₽
+- Дополнительную выгоду при покупке в кредит — до 300 000₽
+- Персональные скидки до 300 000₽ для тех, кто платит наличными!
+
+Сверх того: 
+ Доставка авто под заказ срок до 1 месяца
+
+Гарантия 5 лет или 150 000 км — на все автомобили Geely! 
+
+Круглосуточная помощь на дороге 24/7 с программой Geely Assistance
+
+Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
+Звоните прямо сейчас — количество машин по акции ограничено.
+Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>3567190</Price><TradeinDiscount>258000</TradeinDiscount><CreditDiscount>300000</CreditDiscount><InsuranceDiscount>89190</InsuranceDiscount><MaxDiscount>867190</MaxDiscount><Color>Белый</Color><Images /><Make>Geely</Make><Model>Preface</Model><GenerationId>22072566</GenerationId><ModificationId>22072567</ModificationId><ComplectationId>22072569</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2024</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>L6TFS1S85RD151665</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -5137,61 +5137,6 @@ Geely Партнер-Авто — автосалон, который забот�
 		
 		
 		
-	<Id>46ea5b772bcb4e7a5a5c1bbba036d03a</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
-
-Фиксированная скидка по трейд-ин — получи 258 000 ₽ просто за обмен авто!
-Выгодная рассрочка до 96 месяцев — без переплат! 
-Банковская ставка — от 0,01% годовых
-Срок — до 8 лет. Никаких скрытых комиссий! 
-
-Подарок за покупку за 1 день!
-Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
-
-А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
-
-- Гарантированную выгоду до 558 000.00 ₽
-- Дополнительную выгоду при покупке в кредит — до 300 000₽
-- Персональные скидки до 300 000₽ для тех, кто платит наличными!
-
-Сверх того: 
- Доставка авто под заказ срок до 1 месяца
-
-Гарантия 5 лет или 150 000 км — на все автомобили Geely! 
-
-Круглосуточная помощь на дороге 24/7 с программой Geely Assistance
-
-Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
-Звоните прямо сейчас — количество машин по акции ограничено.
-Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>3567190</Price><TradeinDiscount>258000</TradeinDiscount><CreditDiscount>300000</CreditDiscount><InsuranceDiscount>89190</InsuranceDiscount><MaxDiscount>867190</MaxDiscount><Color>Белый</Color><Images /><Make>Geely</Make><Model>Preface</Model><GenerationId>22072566</GenerationId><ModificationId>22072567</ModificationId><ComplectationId>22072569</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2024</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>L6TFS1S85RD151666</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	<Id>fe2b3342b7604dc605610276265c8cf2</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
 
 Фиксированная скидка по трейд-ин — получи 258 000 ₽ просто за обмен авто!
@@ -5236,6 +5181,61 @@ Geely Партнер-Авто — автосалон, который забот�
 			
 			
 		<Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/276113699c1dfb40accfdd67bebb211d.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/34ee22f7c7dfffbadf7abb37cf47747d.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/dc5363b8dddf9af452bb8faf2ae70330.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/4ab2f384b7aa1dda3b0479b59ac2b1bf.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/a65cea30f6cbd6bf19eaabf177ae745d.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/683bf01041de18186d90642ea02ffe71.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/aeac7b5a43f5fc3119ff9163ffb835a6.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/e30296b3afc0a2e65462d8a67512f353.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/7504394c0cab990d8dbbc67bd7044243.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/aa0f0bab2fc01963eb0484b7da80a264.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/61b8927f344fb058576afef1852bb600.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/ae52a056e0b0565b2c90449bb2ed314b.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/30f14e8ecb664e5eb10cd82f398a3d57.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/b96bdc5cfd9892be14baf4d7040a5e79.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/96bcd2346c4459821c76b4b5ed56b8af.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/75e0436ddf007647d270f3c89d8928e0.jpeg" /><Image url="https://photo.toyotasever.ru/L6TFS1S84RD166588/542e9db87b501a80bac2adb5c8a72ce0.jpeg" /></Images><Make>Geely</Make><Model>Preface</Model><GenerationId>22072566</GenerationId><ModificationId>22072567</ModificationId><ComplectationId>22072569</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2024</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>L6TFS1S84RD166591</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>46ea5b772bcb4e7a5a5c1bbba036d03a</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
+
+Фиксированная скидка по трейд-ин — получи 258 000 ₽ просто за обмен авто!
+Выгодная рассрочка до 96 месяцев — без переплат! 
+Банковская ставка — от 0,01% годовых
+Срок — до 8 лет. Никаких скрытых комиссий! 
+
+Подарок за покупку за 1 день!
+Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
+
+А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
+
+- Гарантированную выгоду до 558 000.00 ₽
+- Дополнительную выгоду при покупке в кредит — до 300 000₽
+- Персональные скидки до 300 000₽ для тех, кто платит наличными!
+
+Сверх того: 
+ Доставка авто под заказ срок до 1 месяца
+
+Гарантия 5 лет или 150 000 км — на все автомобили Geely! 
+
+Круглосуточная помощь на дороге 24/7 с программой Geely Assistance
+
+Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
+Звоните прямо сейчас — количество машин по акции ограничено.
+Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>3567190</Price><TradeinDiscount>258000</TradeinDiscount><CreditDiscount>300000</CreditDiscount><InsuranceDiscount>89190</InsuranceDiscount><MaxDiscount>867190</MaxDiscount><Color>Белый</Color><Images /><Make>Geely</Make><Model>Preface</Model><GenerationId>22072566</GenerationId><ModificationId>22072567</ModificationId><ComplectationId>22072569</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2024</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>L6TFS1S85RD151666</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
