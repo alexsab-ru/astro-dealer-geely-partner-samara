@@ -37,18 +37,37 @@ Geely Партнер-Авто — автосалон, который забот�
 		<InsuranceDiscount />
 		<MaxDiscount>718000</MaxDiscount>
 		<Color>Зеленый</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/da4f17850f2835b9decdea0ae6e1d3b0.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/55dc223703fdd10faf0d67649b0b0a86.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/f6873ccc3115574fec65fbea3b1cdc42.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/a41bae45a9e87027193a491c3f594a2f.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/2e53a06159ed140716dc076585607b04.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/1406a6266b9420ffa3523f80ea88bed4.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/cd7b4cd7faa63f46f2787c7e2c34b267.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/95ab79d356744b800ef976ed31fe6985.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/2c2fa7557e73018163f6d683aebeca6e.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/2a28457d69925f20a23709a5170681f2.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/3ad5cfb6b0e465853ee778385c8096b7.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/487bcc0b6b0914bf3bc3cb098f3ee9d0.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/3c02253e6341cd2cb5f9394a7369f849.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/be832fed882b9e9ed2da69636d5c2bd7.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/58e8be4fd961749d6c00814dc0925c6b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/fa9c936a315cd6fbefa0c32dd246793a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/ade7baa478c3ca7189c3bba2560f5045.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/03ceb065d9a3c4d122f659e1347bfe0b.jpg" />
+		</Images>
 		<Make>Geely</Make>
 		<Model>Atlas</Model>
 		<GenerationId>18767585</GenerationId>
-		<ModificationId>18791860</ModificationId>
-		<ComplectationId>18791861</ComplectationId>
+		<ModificationId>22045603</ModificationId>
+		<ComplectationId>22045604</ComplectationId>
 		<FuelType>Бензин</FuelType>
-		<Transmission>Робот</Transmission>
+		<Transmission>Автомат</Transmission>
 		<Year>2025</Year>
 		<Doors>5</Doors>
 		<BodyType>Внедорожник</BodyType>
-		<DriveType>Передний</DriveType>
+		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>LB3FX1S14SB152393</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
@@ -117,14 +136,14 @@ Geely Партнер-Авто — автосалон, который забот�
 		<Make>Geely</Make>
 		<Model>Atlas</Model>
 		<GenerationId>18767585</GenerationId>
-		<ModificationId>18791860</ModificationId>
-		<ComplectationId>18791861</ComplectationId>
+		<ModificationId>22045603</ModificationId>
+		<ComplectationId>22045604</ComplectationId>
 		<FuelType>Бензин</FuelType>
-		<Transmission>Робот</Transmission>
+		<Transmission>Автомат</Transmission>
 		<Year>2025</Year>
 		<Doors>5</Doors>
 		<BodyType>Внедорожник</BodyType>
-		<DriveType>Передний</DriveType>
+		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>LB3FX1S18SB151649</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
@@ -193,14 +212,14 @@ Geely Партнер-Авто — автосалон, который забот�
 		<Make>Geely</Make>
 		<Model>Atlas</Model>
 		<GenerationId>18767585</GenerationId>
-		<ModificationId>18791860</ModificationId>
-		<ComplectationId>18791863</ComplectationId>
+		<ModificationId>22045603</ModificationId>
+		<ComplectationId>22045606</ComplectationId>
 		<FuelType>Бензин</FuelType>
-		<Transmission>Робот</Transmission>
+		<Transmission>Автомат</Transmission>
 		<Year>2025</Year>
 		<Doors>5</Doors>
 		<BodyType>Внедорожник</BodyType>
-		<DriveType>Передний</DriveType>
+		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>LB3FX1S13SB127811</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
@@ -249,14 +268,14 @@ Geely Партнер-Авто — автосалон, который забот�
 		<Make>Geely</Make>
 		<Model>Atlas</Model>
 		<GenerationId>18767585</GenerationId>
-		<ModificationId>18791860</ModificationId>
-		<ComplectationId>18791863</ComplectationId>
+		<ModificationId>22045603</ModificationId>
+		<ComplectationId>22045606</ComplectationId>
 		<FuelType>Бензин</FuelType>
-		<Transmission>Робот</Transmission>
+		<Transmission>Автомат</Transmission>
 		<Year>2025</Year>
 		<Doors>5</Doors>
 		<BodyType>Внедорожник</BodyType>
-		<DriveType>Передний</DriveType>
+		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>LB3FX1S14SB155147</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
@@ -620,7 +639,26 @@ Geely Партнер-Авто — автосалон, который забот�
 
 Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
 Звоните прямо сейчас — количество машин по акции ограничено.
-Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>3917190</Price><TradeinDiscount>163000</TradeinDiscount><CreditDiscount>355000</CreditDiscount><InsuranceDiscount /><MaxDiscount>718000</MaxDiscount><Color>Зеленый</Color><Images /><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>18791860</ModificationId><ComplectationId>18791861</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S14SB152394</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
+Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>3917190</Price><TradeinDiscount>163000</TradeinDiscount><CreditDiscount>355000</CreditDiscount><InsuranceDiscount /><MaxDiscount>718000</MaxDiscount><Color>Зеленый</Color><Images>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		<Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/da4f17850f2835b9decdea0ae6e1d3b0.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/55dc223703fdd10faf0d67649b0b0a86.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/f6873ccc3115574fec65fbea3b1cdc42.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/a41bae45a9e87027193a491c3f594a2f.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/2e53a06159ed140716dc076585607b04.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/1406a6266b9420ffa3523f80ea88bed4.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/cd7b4cd7faa63f46f2787c7e2c34b267.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/95ab79d356744b800ef976ed31fe6985.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/2c2fa7557e73018163f6d683aebeca6e.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/2a28457d69925f20a23709a5170681f2.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/3ad5cfb6b0e465853ee778385c8096b7.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/487bcc0b6b0914bf3bc3cb098f3ee9d0.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/3c02253e6341cd2cb5f9394a7369f849.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/be832fed882b9e9ed2da69636d5c2bd7.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/58e8be4fd961749d6c00814dc0925c6b.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/fa9c936a315cd6fbefa0c32dd246793a.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/ade7baa478c3ca7189c3bba2560f5045.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/03ceb065d9a3c4d122f659e1347bfe0b.jpg" /></Images><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>22045603</ModificationId><ComplectationId>22045604</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S14SB152394</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -695,7 +733,7 @@ Geely Партнер-Авто — автосалон, который забот�
 			
 			
 			
-		<Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/a20b0ecf419162d46767e659f6788922.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/03e3d239c2270cc1eeaa72354b304447.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/91e5d9c65c57ea9b135754eb9302c692.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/05a0225effa169729e480a7ea49f880e.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/a30f5d540f06f54ac52cb54ccbd6fdb1.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/73bc3375c80eac551e04a98984072417.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/b50f5b5e1773814bd6daf4bc98c15086.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/bc1581ff6deb3665d180bbbeaae90c9f.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/e4be13b62ecd308f6416b72c02b70065.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/98b1d77a6979291138fcf0317f76f3dc.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/48ed041750c74d65e3b99d7004573613.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/cac7ea89eb9f302970ed788090789ac5.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/8587e677e65b03c475d6952bd5117f46.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/6f3564b2c0f66a8a8f12ddd853d09a9f.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/744270779d154238184ce857b26fc57b.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/dce7a1a66b3e0b45975aec993572be9f.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/425cfaad858919c2f46b75b928fd264d.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/a80950d52c9c9774cd5040930d294c64.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/71b1a1c89e5c521f3c253fd0b3eade48.jpg" /></Images><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>18791860</ModificationId><ComplectationId>18791861</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S18SB151650</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
+		<Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/a20b0ecf419162d46767e659f6788922.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/03e3d239c2270cc1eeaa72354b304447.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/91e5d9c65c57ea9b135754eb9302c692.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/05a0225effa169729e480a7ea49f880e.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/a30f5d540f06f54ac52cb54ccbd6fdb1.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/73bc3375c80eac551e04a98984072417.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/b50f5b5e1773814bd6daf4bc98c15086.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/bc1581ff6deb3665d180bbbeaae90c9f.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/e4be13b62ecd308f6416b72c02b70065.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/98b1d77a6979291138fcf0317f76f3dc.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/48ed041750c74d65e3b99d7004573613.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/cac7ea89eb9f302970ed788090789ac5.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/8587e677e65b03c475d6952bd5117f46.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/6f3564b2c0f66a8a8f12ddd853d09a9f.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/744270779d154238184ce857b26fc57b.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/dce7a1a66b3e0b45975aec993572be9f.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/425cfaad858919c2f46b75b928fd264d.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/a80950d52c9c9774cd5040930d294c64.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/71b1a1c89e5c521f3c253fd0b3eade48.jpg" /></Images><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>22045603</ModificationId><ComplectationId>22045604</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S18SB151650</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -770,7 +808,7 @@ Geely Партнер-Авто — автосалон, который забот�
 			
 			
 			
-		<Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/a776193f2dfd7c2cdf05f7c91ea9889e.jpeg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/601fc92122706318ea5874b94db835dd.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/3d5fcc8fd22ed234fbd162f98ea4c81c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/8697ec4852c1db9f783b7bd4d5c5b2be.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/d6f0cbf6401361efff6b6eaa629b628b.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/1ab4458ed0fe18a6f6bdc7d7b9ad996f.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/f1a94b6f34b55fb76702177b91e0d6c2.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/56227adc843baed386e4d48a5df8ae3c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/6465f50df9f57040fe8deaa39ba8bfba.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/5bd505598b81140deddd4ea4d8a64b16.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/8f500d991043303cae0b043265a8bd9d.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/5efa3ed0da7f03efdba8681e8a154a4b.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/d11f0df082105019320535951affc410.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/a14d339839744a41d071cf17be3d1c67.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/a42745bbd018ff115d6749fc7962c6ad.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/e8a6caffa04aecdb763612aeea7d18fb.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/fa0c132a5afddd1e53cf5871e3407286.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/5f27bc9e2b46fcf16709efdcbd76c2ee.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/a31d4b2bcb8b9626b26d2ca7439614d0.jpg" /></Images><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>18791860</ModificationId><ComplectationId>18791863</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S13SB127812</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
+		<Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/a776193f2dfd7c2cdf05f7c91ea9889e.jpeg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/601fc92122706318ea5874b94db835dd.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/3d5fcc8fd22ed234fbd162f98ea4c81c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/8697ec4852c1db9f783b7bd4d5c5b2be.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/d6f0cbf6401361efff6b6eaa629b628b.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/1ab4458ed0fe18a6f6bdc7d7b9ad996f.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/f1a94b6f34b55fb76702177b91e0d6c2.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/56227adc843baed386e4d48a5df8ae3c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/6465f50df9f57040fe8deaa39ba8bfba.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/5bd505598b81140deddd4ea4d8a64b16.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/8f500d991043303cae0b043265a8bd9d.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/5efa3ed0da7f03efdba8681e8a154a4b.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/d11f0df082105019320535951affc410.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/a14d339839744a41d071cf17be3d1c67.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/a42745bbd018ff115d6749fc7962c6ad.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/e8a6caffa04aecdb763612aeea7d18fb.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/fa0c132a5afddd1e53cf5871e3407286.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/5f27bc9e2b46fcf16709efdcbd76c2ee.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/a31d4b2bcb8b9626b26d2ca7439614d0.jpg" /></Images><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>22045603</ModificationId><ComplectationId>22045606</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S13SB127812</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -825,7 +863,7 @@ Geely Партнер-Авто — автосалон, который забот�
 
 Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
 Звоните прямо сейчас — количество машин по акции ограничено.
-Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>3717190</Price><TradeinDiscount>163000</TradeinDiscount><CreditDiscount>200500</CreditDiscount><InsuranceDiscount>103690</InsuranceDiscount><MaxDiscount>617190</MaxDiscount><Color>Черный</Color><Images /><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>18791860</ModificationId><ComplectationId>18791863</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S14SB155148</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
+Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>3717190</Price><TradeinDiscount>163000</TradeinDiscount><CreditDiscount>200500</CreditDiscount><InsuranceDiscount>103690</InsuranceDiscount><MaxDiscount>617190</MaxDiscount><Color>Черный</Color><Images /><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>22045603</ModificationId><ComplectationId>22045606</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S14SB155148</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -1178,7 +1216,26 @@ Geely Партнер-Авто — автосалон, который забот�
 
 Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
 Звоните прямо сейчас — количество машин по акции ограничено.
-Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>3917190</Price><TradeinDiscount>163000</TradeinDiscount><CreditDiscount>355000</CreditDiscount><InsuranceDiscount /><MaxDiscount>718000</MaxDiscount><Color>Зеленый</Color><Images /><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>18791860</ModificationId><ComplectationId>18791861</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S14SB152395</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
+Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>3917190</Price><TradeinDiscount>163000</TradeinDiscount><CreditDiscount>355000</CreditDiscount><InsuranceDiscount /><MaxDiscount>718000</MaxDiscount><Color>Зеленый</Color><Images>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		<Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/da4f17850f2835b9decdea0ae6e1d3b0.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/55dc223703fdd10faf0d67649b0b0a86.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/f6873ccc3115574fec65fbea3b1cdc42.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/a41bae45a9e87027193a491c3f594a2f.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/2e53a06159ed140716dc076585607b04.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/1406a6266b9420ffa3523f80ea88bed4.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/cd7b4cd7faa63f46f2787c7e2c34b267.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/95ab79d356744b800ef976ed31fe6985.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/2c2fa7557e73018163f6d683aebeca6e.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/2a28457d69925f20a23709a5170681f2.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/3ad5cfb6b0e465853ee778385c8096b7.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/487bcc0b6b0914bf3bc3cb098f3ee9d0.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/3c02253e6341cd2cb5f9394a7369f849.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/be832fed882b9e9ed2da69636d5c2bd7.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/58e8be4fd961749d6c00814dc0925c6b.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/fa9c936a315cd6fbefa0c32dd246793a.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/ade7baa478c3ca7189c3bba2560f5045.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/03ceb065d9a3c4d122f659e1347bfe0b.jpg" /></Images><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>22045603</ModificationId><ComplectationId>22045604</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S14SB152395</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -1253,7 +1310,7 @@ Geely Партнер-Авто — автосалон, который забот�
 			
 			
 			
-		<Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/a20b0ecf419162d46767e659f6788922.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/03e3d239c2270cc1eeaa72354b304447.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/91e5d9c65c57ea9b135754eb9302c692.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/05a0225effa169729e480a7ea49f880e.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/a30f5d540f06f54ac52cb54ccbd6fdb1.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/73bc3375c80eac551e04a98984072417.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/b50f5b5e1773814bd6daf4bc98c15086.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/bc1581ff6deb3665d180bbbeaae90c9f.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/e4be13b62ecd308f6416b72c02b70065.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/98b1d77a6979291138fcf0317f76f3dc.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/48ed041750c74d65e3b99d7004573613.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/cac7ea89eb9f302970ed788090789ac5.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/8587e677e65b03c475d6952bd5117f46.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/6f3564b2c0f66a8a8f12ddd853d09a9f.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/744270779d154238184ce857b26fc57b.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/dce7a1a66b3e0b45975aec993572be9f.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/425cfaad858919c2f46b75b928fd264d.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/a80950d52c9c9774cd5040930d294c64.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/71b1a1c89e5c521f3c253fd0b3eade48.jpg" /></Images><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>18791860</ModificationId><ComplectationId>18791861</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S18SB151651</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
+		<Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/a20b0ecf419162d46767e659f6788922.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/03e3d239c2270cc1eeaa72354b304447.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/91e5d9c65c57ea9b135754eb9302c692.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/05a0225effa169729e480a7ea49f880e.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/a30f5d540f06f54ac52cb54ccbd6fdb1.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/73bc3375c80eac551e04a98984072417.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/b50f5b5e1773814bd6daf4bc98c15086.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/bc1581ff6deb3665d180bbbeaae90c9f.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/e4be13b62ecd308f6416b72c02b70065.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/98b1d77a6979291138fcf0317f76f3dc.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/48ed041750c74d65e3b99d7004573613.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/cac7ea89eb9f302970ed788090789ac5.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/8587e677e65b03c475d6952bd5117f46.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/6f3564b2c0f66a8a8f12ddd853d09a9f.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/744270779d154238184ce857b26fc57b.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/dce7a1a66b3e0b45975aec993572be9f.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/425cfaad858919c2f46b75b928fd264d.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/a80950d52c9c9774cd5040930d294c64.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/71b1a1c89e5c521f3c253fd0b3eade48.jpg" /></Images><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>22045603</ModificationId><ComplectationId>22045604</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S18SB151651</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -1328,7 +1385,7 @@ Geely Партнер-Авто — автосалон, который забот�
 			
 			
 			
-		<Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/a776193f2dfd7c2cdf05f7c91ea9889e.jpeg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/601fc92122706318ea5874b94db835dd.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/3d5fcc8fd22ed234fbd162f98ea4c81c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/8697ec4852c1db9f783b7bd4d5c5b2be.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/d6f0cbf6401361efff6b6eaa629b628b.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/1ab4458ed0fe18a6f6bdc7d7b9ad996f.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/f1a94b6f34b55fb76702177b91e0d6c2.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/56227adc843baed386e4d48a5df8ae3c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/6465f50df9f57040fe8deaa39ba8bfba.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/5bd505598b81140deddd4ea4d8a64b16.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/8f500d991043303cae0b043265a8bd9d.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/5efa3ed0da7f03efdba8681e8a154a4b.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/d11f0df082105019320535951affc410.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/a14d339839744a41d071cf17be3d1c67.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/a42745bbd018ff115d6749fc7962c6ad.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/e8a6caffa04aecdb763612aeea7d18fb.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/fa0c132a5afddd1e53cf5871e3407286.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/5f27bc9e2b46fcf16709efdcbd76c2ee.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/a31d4b2bcb8b9626b26d2ca7439614d0.jpg" /></Images><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>18791860</ModificationId><ComplectationId>18791863</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S13SB127813</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
+		<Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/a776193f2dfd7c2cdf05f7c91ea9889e.jpeg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/601fc92122706318ea5874b94db835dd.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/3d5fcc8fd22ed234fbd162f98ea4c81c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/8697ec4852c1db9f783b7bd4d5c5b2be.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/d6f0cbf6401361efff6b6eaa629b628b.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/1ab4458ed0fe18a6f6bdc7d7b9ad996f.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/f1a94b6f34b55fb76702177b91e0d6c2.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/56227adc843baed386e4d48a5df8ae3c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/6465f50df9f57040fe8deaa39ba8bfba.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/5bd505598b81140deddd4ea4d8a64b16.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/8f500d991043303cae0b043265a8bd9d.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/5efa3ed0da7f03efdba8681e8a154a4b.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/d11f0df082105019320535951affc410.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/a14d339839744a41d071cf17be3d1c67.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/a42745bbd018ff115d6749fc7962c6ad.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/e8a6caffa04aecdb763612aeea7d18fb.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/fa0c132a5afddd1e53cf5871e3407286.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/5f27bc9e2b46fcf16709efdcbd76c2ee.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/a31d4b2bcb8b9626b26d2ca7439614d0.jpg" /></Images><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>22045603</ModificationId><ComplectationId>22045606</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S13SB127813</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -1383,7 +1440,7 @@ Geely Партнер-Авто — автосалон, который забот�
 
 Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
 Звоните прямо сейчас — количество машин по акции ограничено.
-Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>3717190</Price><TradeinDiscount>163000</TradeinDiscount><CreditDiscount>200500</CreditDiscount><InsuranceDiscount>103690</InsuranceDiscount><MaxDiscount>617190</MaxDiscount><Color>Черный</Color><Images /><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>18791860</ModificationId><ComplectationId>18791863</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S14SB155149</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
+Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>3717190</Price><TradeinDiscount>163000</TradeinDiscount><CreditDiscount>200500</CreditDiscount><InsuranceDiscount>103690</InsuranceDiscount><MaxDiscount>617190</MaxDiscount><Color>Черный</Color><Images /><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>22045603</ModificationId><ComplectationId>22045606</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S14SB155149</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -1736,7 +1793,26 @@ Geely Партнер-Авто — автосалон, который забот�
 
 Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
 Звоните прямо сейчас — количество машин по акции ограничено.
-Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>3917190</Price><TradeinDiscount>163000</TradeinDiscount><CreditDiscount>355000</CreditDiscount><InsuranceDiscount /><MaxDiscount>718000</MaxDiscount><Color>Зеленый</Color><Images /><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>18791860</ModificationId><ComplectationId>18791861</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S14SB152396</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
+Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>3917190</Price><TradeinDiscount>163000</TradeinDiscount><CreditDiscount>355000</CreditDiscount><InsuranceDiscount /><MaxDiscount>718000</MaxDiscount><Color>Зеленый</Color><Images>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		<Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/da4f17850f2835b9decdea0ae6e1d3b0.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/55dc223703fdd10faf0d67649b0b0a86.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/f6873ccc3115574fec65fbea3b1cdc42.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/a41bae45a9e87027193a491c3f594a2f.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/2e53a06159ed140716dc076585607b04.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/1406a6266b9420ffa3523f80ea88bed4.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/cd7b4cd7faa63f46f2787c7e2c34b267.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/95ab79d356744b800ef976ed31fe6985.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/2c2fa7557e73018163f6d683aebeca6e.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/2a28457d69925f20a23709a5170681f2.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/3ad5cfb6b0e465853ee778385c8096b7.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/487bcc0b6b0914bf3bc3cb098f3ee9d0.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/3c02253e6341cd2cb5f9394a7369f849.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/be832fed882b9e9ed2da69636d5c2bd7.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/58e8be4fd961749d6c00814dc0925c6b.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/fa9c936a315cd6fbefa0c32dd246793a.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/ade7baa478c3ca7189c3bba2560f5045.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S14SB152393/03ceb065d9a3c4d122f659e1347bfe0b.jpg" /></Images><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>22045603</ModificationId><ComplectationId>22045604</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S14SB152396</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -1811,7 +1887,7 @@ Geely Партнер-Авто — автосалон, который забот�
 			
 			
 			
-		<Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/a20b0ecf419162d46767e659f6788922.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/03e3d239c2270cc1eeaa72354b304447.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/91e5d9c65c57ea9b135754eb9302c692.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/05a0225effa169729e480a7ea49f880e.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/a30f5d540f06f54ac52cb54ccbd6fdb1.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/73bc3375c80eac551e04a98984072417.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/b50f5b5e1773814bd6daf4bc98c15086.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/bc1581ff6deb3665d180bbbeaae90c9f.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/e4be13b62ecd308f6416b72c02b70065.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/98b1d77a6979291138fcf0317f76f3dc.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/48ed041750c74d65e3b99d7004573613.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/cac7ea89eb9f302970ed788090789ac5.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/8587e677e65b03c475d6952bd5117f46.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/6f3564b2c0f66a8a8f12ddd853d09a9f.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/744270779d154238184ce857b26fc57b.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/dce7a1a66b3e0b45975aec993572be9f.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/425cfaad858919c2f46b75b928fd264d.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/a80950d52c9c9774cd5040930d294c64.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/71b1a1c89e5c521f3c253fd0b3eade48.jpg" /></Images><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>18791860</ModificationId><ComplectationId>18791861</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S18SB151652</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
+		<Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/a20b0ecf419162d46767e659f6788922.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/03e3d239c2270cc1eeaa72354b304447.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/91e5d9c65c57ea9b135754eb9302c692.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/05a0225effa169729e480a7ea49f880e.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/a30f5d540f06f54ac52cb54ccbd6fdb1.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/73bc3375c80eac551e04a98984072417.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/b50f5b5e1773814bd6daf4bc98c15086.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/bc1581ff6deb3665d180bbbeaae90c9f.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/e4be13b62ecd308f6416b72c02b70065.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/98b1d77a6979291138fcf0317f76f3dc.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/48ed041750c74d65e3b99d7004573613.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/cac7ea89eb9f302970ed788090789ac5.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/8587e677e65b03c475d6952bd5117f46.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/6f3564b2c0f66a8a8f12ddd853d09a9f.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/744270779d154238184ce857b26fc57b.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/dce7a1a66b3e0b45975aec993572be9f.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/425cfaad858919c2f46b75b928fd264d.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/a80950d52c9c9774cd5040930d294c64.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S18SB151649/71b1a1c89e5c521f3c253fd0b3eade48.jpg" /></Images><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>22045603</ModificationId><ComplectationId>22045604</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S18SB151652</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -1886,7 +1962,7 @@ Geely Партнер-Авто — автосалон, который забот�
 			
 			
 			
-		<Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/a776193f2dfd7c2cdf05f7c91ea9889e.jpeg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/601fc92122706318ea5874b94db835dd.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/3d5fcc8fd22ed234fbd162f98ea4c81c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/8697ec4852c1db9f783b7bd4d5c5b2be.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/d6f0cbf6401361efff6b6eaa629b628b.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/1ab4458ed0fe18a6f6bdc7d7b9ad996f.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/f1a94b6f34b55fb76702177b91e0d6c2.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/56227adc843baed386e4d48a5df8ae3c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/6465f50df9f57040fe8deaa39ba8bfba.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/5bd505598b81140deddd4ea4d8a64b16.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/8f500d991043303cae0b043265a8bd9d.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/5efa3ed0da7f03efdba8681e8a154a4b.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/d11f0df082105019320535951affc410.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/a14d339839744a41d071cf17be3d1c67.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/a42745bbd018ff115d6749fc7962c6ad.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/e8a6caffa04aecdb763612aeea7d18fb.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/fa0c132a5afddd1e53cf5871e3407286.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/5f27bc9e2b46fcf16709efdcbd76c2ee.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/a31d4b2bcb8b9626b26d2ca7439614d0.jpg" /></Images><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>18791860</ModificationId><ComplectationId>18791863</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S13SB127814</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
+		<Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/a776193f2dfd7c2cdf05f7c91ea9889e.jpeg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/601fc92122706318ea5874b94db835dd.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/3d5fcc8fd22ed234fbd162f98ea4c81c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/8697ec4852c1db9f783b7bd4d5c5b2be.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/d6f0cbf6401361efff6b6eaa629b628b.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/1ab4458ed0fe18a6f6bdc7d7b9ad996f.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/f1a94b6f34b55fb76702177b91e0d6c2.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/56227adc843baed386e4d48a5df8ae3c.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/6465f50df9f57040fe8deaa39ba8bfba.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/5bd505598b81140deddd4ea4d8a64b16.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/8f500d991043303cae0b043265a8bd9d.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/5efa3ed0da7f03efdba8681e8a154a4b.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/d11f0df082105019320535951affc410.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/a14d339839744a41d071cf17be3d1c67.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/a42745bbd018ff115d6749fc7962c6ad.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/e8a6caffa04aecdb763612aeea7d18fb.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/fa0c132a5afddd1e53cf5871e3407286.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/5f27bc9e2b46fcf16709efdcbd76c2ee.jpg" /><Image url="https://photo.toyotasever.ru/LB3FX1S13SB127811/a31d4b2bcb8b9626b26d2ca7439614d0.jpg" /></Images><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>22045603</ModificationId><ComplectationId>22045606</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S13SB127814</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -1941,7 +2017,7 @@ Geely Партнер-Авто — автосалон, который забот�
 
 Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
 Звоните прямо сейчас — количество машин по акции ограничено.
-Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>3717190</Price><TradeinDiscount>163000</TradeinDiscount><CreditDiscount>200500</CreditDiscount><InsuranceDiscount>103690</InsuranceDiscount><MaxDiscount>617190</MaxDiscount><Color>Черный</Color><Images /><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>18791860</ModificationId><ComplectationId>18791863</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S14SB155150</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
+Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description><Price>3717190</Price><TradeinDiscount>163000</TradeinDiscount><CreditDiscount>200500</CreditDiscount><InsuranceDiscount>103690</InsuranceDiscount><MaxDiscount>617190</MaxDiscount><Color>Черный</Color><Images /><Make>Geely</Make><Model>Atlas</Model><GenerationId>18767585</GenerationId><ModificationId>22045603</ModificationId><ComplectationId>22045606</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB3FX1S14SB155150</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
