@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "brand": "Geely",
+    "model": "Atlas",
+    "price": 3143800,
+    "benefit": 718000
+  },
+  {
+    "brand": "Geely",
+    "model": "Cityray",
+    "price": 2570800,
+    "benefit": 684190
+  }
+]
