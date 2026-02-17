@@ -514,83 +514,6 @@ Geely Партнер-Авто — автосалон, который забот�
 		<VideoFileURL />
 	</Ad>
 	<Ad>
-		<Id>bcd255a46ced2addf1be573c70e9c042</Id>
-		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
-
-Фиксированная скидка по трейд-ин — получи 380 000 ₽ просто за обмен авто!
-Выгодная рассрочка до 96 месяцев — без переплат! 
-Банковская ставка — от 0,01% годовых
-Срок — до 8 лет. Никаких скрытых комиссий! 
-
-Подарок за покупку за 1 день!
-Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
-
-А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
-
-- Гарантированную выгоду до 460 000.00 ₽
-- Дополнительную выгоду при покупке в кредит — до 400 000₽
-- Персональные скидки до 420 000₽ для тех, кто платит наличными!
-
-Сверх того: 
- Доставка авто под заказ срок до 1 месяца
-
-Гарантия 5 лет или 150 000 км — на все автомобили Geely! 
-
-Круглосуточная помощь на дороге 24/7 с программой Geely Assistance
-
-Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
-Звоните прямо сейчас — количество машин по акции ограничено.
-Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.
-5 ТО за 1 рубль при покупке автомобиля до 28 февраля.</Description>
-		<Price>4899990</Price>
-		<TradeinDiscount>415000</TradeinDiscount>
-		<CreditDiscount>200000</CreditDiscount>
-		<InsuranceDiscount />
-		<MaxDiscount>715000</MaxDiscount>
-		<Color>Черный</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/5e2403b12b8a7281566851de4e6546d1.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/008670b290f9a8ad094c54819f17b135.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/daf6963cef5d3b3775f5e253c8fb9d3e.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/26dc9d0d0e9b1c8f307390cdaf7c5504.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/8cc33b7b960b5a79d27983ac6adfe07b.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/a581fed6b50b7d7dd23f377035679877.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/5aa5bc0a4048afff9b577d884fdc16dc.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/399f2db538c1c05195041c8ba0aabb08.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/a78cf0fa72a61819fa6537f1188aba3e.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/f6898427ff8cd3090c56f2b81bf71d6b.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/da027ad6387c870aec91429f2bd914a9.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/623bb3fa2265ca94fe172470b13de790.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/8edc1e38a22c943c603aa10b88a71180.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/730f0957abc749b7df9b3bf35332c6eb.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/b988c80215e7e4c0851b7bb081532517.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/7a610bf67b1cdadb2a3c9e8f0352a1eb.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/1beb4795f0fd819240942fb86237070a.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/589e6eedb18297c5577f52a2aefbf41f.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/f7b18a1850a93478d64cb2954102b5b0.jpg" />
-		</Images>
-		<Make>Geely</Make>
-		<Model>Monjaro</Model>
-		<GenerationId>17481670</GenerationId>
-		<ModificationId>17481675</ModificationId>
-		<ComplectationId>22507842</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Автомат</Transmission>
-		<Year>2025</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Полный</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>LB37852D7SS273423</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
 		<Id>ec84166409e7f7500af5a4ffa9c1a086</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
@@ -665,6 +588,83 @@ Geely Партнер-Авто — автосалон, который забот�
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>LB37852D1SS276799</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>bcd255a46ced2addf1be573c70e9c042</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
+
+Фиксированная скидка по трейд-ин — получи 380 000 ₽ просто за обмен авто!
+Выгодная рассрочка до 96 месяцев — без переплат! 
+Банковская ставка — от 0,01% годовых
+Срок — до 8 лет. Никаких скрытых комиссий! 
+
+Подарок за покупку за 1 день!
+Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
+
+А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
+
+- Гарантированную выгоду до 460 000.00 ₽
+- Дополнительную выгоду при покупке в кредит — до 400 000₽
+- Персональные скидки до 420 000₽ для тех, кто платит наличными!
+
+Сверх того: 
+ Доставка авто под заказ срок до 1 месяца
+
+Гарантия 5 лет или 150 000 км — на все автомобили Geely! 
+
+Круглосуточная помощь на дороге 24/7 с программой Geely Assistance
+
+Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
+Звоните прямо сейчас — количество машин по акции ограничено.
+Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.
+5 ТО за 1 рубль при покупке автомобиля до 28 февраля.</Description>
+		<Price>4899990</Price>
+		<TradeinDiscount>415000</TradeinDiscount>
+		<CreditDiscount>200000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>715000</MaxDiscount>
+		<Color>Черный</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/5e2403b12b8a7281566851de4e6546d1.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/008670b290f9a8ad094c54819f17b135.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/daf6963cef5d3b3775f5e253c8fb9d3e.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/26dc9d0d0e9b1c8f307390cdaf7c5504.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/8cc33b7b960b5a79d27983ac6adfe07b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/a581fed6b50b7d7dd23f377035679877.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/5aa5bc0a4048afff9b577d884fdc16dc.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/399f2db538c1c05195041c8ba0aabb08.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/a78cf0fa72a61819fa6537f1188aba3e.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/f6898427ff8cd3090c56f2b81bf71d6b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/da027ad6387c870aec91429f2bd914a9.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/623bb3fa2265ca94fe172470b13de790.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/8edc1e38a22c943c603aa10b88a71180.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/730f0957abc749b7df9b3bf35332c6eb.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/b988c80215e7e4c0851b7bb081532517.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/7a610bf67b1cdadb2a3c9e8f0352a1eb.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/1beb4795f0fd819240942fb86237070a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/589e6eedb18297c5577f52a2aefbf41f.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/f7b18a1850a93478d64cb2954102b5b0.jpg" />
+		</Images>
+		<Make>Geely</Make>
+		<Model>Monjaro</Model>
+		<GenerationId>17481670</GenerationId>
+		<ModificationId>17481675</ModificationId>
+		<ComplectationId>22507842</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2025</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LB37852D7SS273423</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<VideoURL />
 		<VideoFileURL />
@@ -803,6 +803,83 @@ Geely Партнер-Авто — автосалон, который забот�
 		<VideoFileURL />
 	</Ad>
 	<Ad>
+		<Id>e0d1371053396091fd5b3f85b93dd84f</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
+
+Фиксированная скидка по трейд-ин — получи 150 000 ₽ просто за обмен авто!
+Выгодная рассрочка до 96 месяцев — без переплат! 
+Банковская ставка — от 0,01% годовых
+Срок — до 8 лет. Никаких скрытых комиссий! 
+
+Подарок за покупку за 1 день!
+Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта ЗИМНЕЙ РЕЗИНЫ!!.*  *Уточняйте детали у менеджера автосалона)
+
+А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
+
+- Гарантированную выгоду до 200 000.00 ₽
+- Дополнительную выгоду при покупке в кредит — до 100 000₽
+- Персональные скидки до 150 000₽ для тех, кто платит наличными!
+
+Сверх того: 
+ Доставка авто под заказ срок до 1 месяца
+
+Гарантия 5 лет или 150 000 км — на все автомобили Geely! 
+
+Круглосуточная помощь на дороге 24/7 с программой Geely Assistance
+
+Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
+Звоните прямо сейчас — количество машин по акции ограничено.
+Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.
+5 ТО за 1 рубль при покупке автомобиля до 28 февраля.</Description>
+		<Price>3908990</Price>
+		<TradeinDiscount>480800</TradeinDiscount>
+		<CreditDiscount>305000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>909990</MaxDiscount>
+		<Color>Серый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/5ad78a058874bf69243cc376af9b0090.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/9cf1fedca2019fff0e0eaecb14eb5e68.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/86909c2cbd32e13917f36f7fcf0c6f32.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/d32b9ddfb592b16d3028a4c02f368b59.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/42f3e263f0feeb343cf6aea6d3b050a5.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/d58d9df716843fafe8c8f657f43a636b.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/7c0a79d598fda578dab09f9fc95b0929.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/23a4a425f28c380db7a03328f2547649.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/d127752de2fea5c579d76ee1ce6bdd08.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/ecac68dc48c3903d314160ee53b1d0f2.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/95084db07d833769bb80a9250c064951.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/05cd99905d53d74291e8171f197c21be.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/242130473c4b09a682c9451be9fe6dcd.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/c61ba042ba4aecdf09d47f4994d2c88d.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/d549372117bc0ad2e002eeda117b343b.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/84f4f490d5bd4ecd20d875f31a128aa0.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/c63e4731f4d1baf7a39809198a2bc960.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/8d1c27a6b7a1e32af0bcfe2badb86df0.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/e88a6e2121cc0306ecc32dd7c5abd327.jpg" />
+		</Images>
+		<Make>Geely</Make>
+		<Model>Okavango</Model>
+		<GenerationId>18803792</GenerationId>
+		<ModificationId>18803793</ModificationId>
+		<ComplectationId>18803795</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2025</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>L6TVX1S68SY703408</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
 		<Id>fc031ad98820b8dde3de282e5d78bcda</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
@@ -877,83 +954,6 @@ Geely Партнер-Авто — автосалон, который забот�
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>L6TVX1S65SY701874</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
-		<Id>e0d1371053396091fd5b3f85b93dd84f</Id>
-		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
-
-Фиксированная скидка по трейд-ин — получи 150 000 ₽ просто за обмен авто!
-Выгодная рассрочка до 96 месяцев — без переплат! 
-Банковская ставка — от 0,01% годовых
-Срок — до 8 лет. Никаких скрытых комиссий! 
-
-Подарок за покупку за 1 день!
-Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта ЗИМНЕЙ РЕЗИНЫ!!.*  *Уточняйте детали у менеджера автосалона)
-
-А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
-
-- Гарантированную выгоду до 200 000.00 ₽
-- Дополнительную выгоду при покупке в кредит — до 100 000₽
-- Персональные скидки до 150 000₽ для тех, кто платит наличными!
-
-Сверх того: 
- Доставка авто под заказ срок до 1 месяца
-
-Гарантия 5 лет или 150 000 км — на все автомобили Geely! 
-
-Круглосуточная помощь на дороге 24/7 с программой Geely Assistance
-
-Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
-Звоните прямо сейчас — количество машин по акции ограничено.
-Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.
-5 ТО за 1 рубль при покупке автомобиля до 28 февраля.</Description>
-		<Price>3908990</Price>
-		<TradeinDiscount>480800</TradeinDiscount>
-		<CreditDiscount>305000</CreditDiscount>
-		<InsuranceDiscount />
-		<MaxDiscount>909990</MaxDiscount>
-		<Color>Серый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/5ad78a058874bf69243cc376af9b0090.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/9cf1fedca2019fff0e0eaecb14eb5e68.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/86909c2cbd32e13917f36f7fcf0c6f32.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/d32b9ddfb592b16d3028a4c02f368b59.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/42f3e263f0feeb343cf6aea6d3b050a5.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/d58d9df716843fafe8c8f657f43a636b.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/7c0a79d598fda578dab09f9fc95b0929.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/23a4a425f28c380db7a03328f2547649.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/d127752de2fea5c579d76ee1ce6bdd08.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/ecac68dc48c3903d314160ee53b1d0f2.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/95084db07d833769bb80a9250c064951.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/05cd99905d53d74291e8171f197c21be.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/242130473c4b09a682c9451be9fe6dcd.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/c61ba042ba4aecdf09d47f4994d2c88d.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/d549372117bc0ad2e002eeda117b343b.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/84f4f490d5bd4ecd20d875f31a128aa0.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/c63e4731f4d1baf7a39809198a2bc960.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/8d1c27a6b7a1e32af0bcfe2badb86df0.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/e88a6e2121cc0306ecc32dd7c5abd327.jpg" />
-		</Images>
-		<Make>Geely</Make>
-		<Model>Okavango</Model>
-		<GenerationId>18803792</GenerationId>
-		<ModificationId>18803793</ModificationId>
-		<ComplectationId>18803795</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Робот</Transmission>
-		<Year>2025</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>L6TVX1S68SY703408</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<VideoURL />
 		<VideoFileURL />
@@ -1494,82 +1494,6 @@ Geely Партнер-Авто — автосалон, который забот�
 		
 		
 		
-	<Id>6fb4b1d0afd7c4fd313bf597671e0386</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
-
-Фиксированная скидка по трейд-ин — получи 380 000 ₽ просто за обмен авто!
-Выгодная рассрочка до 96 месяцев — без переплат! 
-Банковская ставка — от 0,01% годовых
-Срок — до 8 лет. Никаких скрытых комиссий! 
-
-Подарок за покупку за 1 день!
-Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
-
-А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
-
-- Гарантированную выгоду до 460 000.00 ₽
-- Дополнительную выгоду при покупке в кредит — до 400 000₽
-- Персональные скидки до 420 000₽ для тех, кто платит наличными!
-
-Сверх того: 
- Доставка авто под заказ срок до 1 месяца
-
-Гарантия 5 лет или 150 000 км — на все автомобили Geely! 
-
-Круглосуточная помощь на дороге 24/7 с программой Geely Assistance
-
-Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
-Звоните прямо сейчас — количество машин по акции ограничено.
-Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.
-5 ТО за 1 рубль при покупке автомобиля до 28 февраля.</Description><Price>4899990</Price><TradeinDiscount>415000</TradeinDiscount><CreditDiscount>200000</CreditDiscount><InsuranceDiscount /><MaxDiscount>715000</MaxDiscount><Color>Черный</Color><Images>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/5e2403b12b8a7281566851de4e6546d1.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/008670b290f9a8ad094c54819f17b135.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/daf6963cef5d3b3775f5e253c8fb9d3e.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/26dc9d0d0e9b1c8f307390cdaf7c5504.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/8cc33b7b960b5a79d27983ac6adfe07b.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/a581fed6b50b7d7dd23f377035679877.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/5aa5bc0a4048afff9b577d884fdc16dc.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/399f2db538c1c05195041c8ba0aabb08.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/a78cf0fa72a61819fa6537f1188aba3e.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/f6898427ff8cd3090c56f2b81bf71d6b.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/da027ad6387c870aec91429f2bd914a9.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/623bb3fa2265ca94fe172470b13de790.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/8edc1e38a22c943c603aa10b88a71180.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/730f0957abc749b7df9b3bf35332c6eb.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/b988c80215e7e4c0851b7bb081532517.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/7a610bf67b1cdadb2a3c9e8f0352a1eb.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/1beb4795f0fd819240942fb86237070a.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/589e6eedb18297c5577f52a2aefbf41f.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/f7b18a1850a93478d64cb2954102b5b0.jpg" /></Images><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>22507842</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D7SS273424</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	<Id>dae80186edb9755017f1c2bb57321c31</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
 
 Фиксированная скидка по трейд-ин — получи 380 000 ₽ просто за обмен авто!
@@ -1619,6 +1543,82 @@ Geely Партнер-Авто — автосалон, который забот�
 			
 			
 		<Image url="https://photo.toyotasever.ru/LB37852D1SS276799/0587730fe93904cd951b9b1b907bf0f4.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/53ea4e62f3fe8333f53b516ac5c9fe23.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/c78596a87bd454ab36629acf5959a55c.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/889049a105decfc577ecc202ca3e2424.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/ed5925299f31ebe1f74d0605cfd39c24.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/f5f0dd65979b95123a6eb2848c15327d.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/bd0f8ba5505527e111f08e577ab1c748.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/53715ab9cd8b88267e96d98e52b59e4e.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/fd917edeaff41549178484687a0724a4.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/fe087608e1c703b2ec5c69e0b08210dc.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/3a6af94c42bdb10f48e6c295984bb663.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/bda57562c50737024bf685c257e06385.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/be6062f36b387cea93d27d68a5335c74.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/18f61752fb0b01d215a6ccbc3f7f481a.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/1ba02e4d2e07c26adfa3c61cb1f613b9.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/09293f5c7b38e10f512eb71fb0e355fa.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/6d283ece7f4db6ffcd6728ba4c90040e.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/753b51859c415239a34e4ec59144f08b.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/a6a7d8315584fc60fd982b1f7561d0fb.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/904ef8ba5ba69bda362da65a9a820707.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/8d5108609d7c2cc4deddc911edc13722.jpg" /></Images><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>22507842</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D1SS276800</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>6fb4b1d0afd7c4fd313bf597671e0386</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
+
+Фиксированная скидка по трейд-ин — получи 380 000 ₽ просто за обмен авто!
+Выгодная рассрочка до 96 месяцев — без переплат! 
+Банковская ставка — от 0,01% годовых
+Срок — до 8 лет. Никаких скрытых комиссий! 
+
+Подарок за покупку за 1 день!
+Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
+
+А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
+
+- Гарантированную выгоду до 460 000.00 ₽
+- Дополнительную выгоду при покупке в кредит — до 400 000₽
+- Персональные скидки до 420 000₽ для тех, кто платит наличными!
+
+Сверх того: 
+ Доставка авто под заказ срок до 1 месяца
+
+Гарантия 5 лет или 150 000 км — на все автомобили Geely! 
+
+Круглосуточная помощь на дороге 24/7 с программой Geely Assistance
+
+Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
+Звоните прямо сейчас — количество машин по акции ограничено.
+Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.
+5 ТО за 1 рубль при покупке автомобиля до 28 февраля.</Description><Price>4899990</Price><TradeinDiscount>415000</TradeinDiscount><CreditDiscount>200000</CreditDiscount><InsuranceDiscount /><MaxDiscount>715000</MaxDiscount><Color>Черный</Color><Images>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/5e2403b12b8a7281566851de4e6546d1.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/008670b290f9a8ad094c54819f17b135.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/daf6963cef5d3b3775f5e253c8fb9d3e.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/26dc9d0d0e9b1c8f307390cdaf7c5504.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/8cc33b7b960b5a79d27983ac6adfe07b.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/a581fed6b50b7d7dd23f377035679877.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/5aa5bc0a4048afff9b577d884fdc16dc.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/399f2db538c1c05195041c8ba0aabb08.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/a78cf0fa72a61819fa6537f1188aba3e.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/f6898427ff8cd3090c56f2b81bf71d6b.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/da027ad6387c870aec91429f2bd914a9.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/623bb3fa2265ca94fe172470b13de790.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/8edc1e38a22c943c603aa10b88a71180.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/730f0957abc749b7df9b3bf35332c6eb.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/b988c80215e7e4c0851b7bb081532517.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/7a610bf67b1cdadb2a3c9e8f0352a1eb.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/1beb4795f0fd819240942fb86237070a.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/589e6eedb18297c5577f52a2aefbf41f.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/f7b18a1850a93478d64cb2954102b5b0.jpg" /></Images><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>22507842</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D7SS273424</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -1779,6 +1779,82 @@ Geely Партнер-Авто — автосалон, который забот�
 		
 		
 		
+	<Id>7c1767d661b4398e8976db02fe814bef</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
+
+Фиксированная скидка по трейд-ин — получи 150 000 ₽ просто за обмен авто!
+Выгодная рассрочка до 96 месяцев — без переплат! 
+Банковская ставка — от 0,01% годовых
+Срок — до 8 лет. Никаких скрытых комиссий! 
+
+Подарок за покупку за 1 день!
+Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта ЗИМНЕЙ РЕЗИНЫ!!.*  *Уточняйте детали у менеджера автосалона)
+
+А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
+
+- Гарантированную выгоду до 200 000.00 ₽
+- Дополнительную выгоду при покупке в кредит — до 100 000₽
+- Персональные скидки до 150 000₽ для тех, кто платит наличными!
+
+Сверх того: 
+ Доставка авто под заказ срок до 1 месяца
+
+Гарантия 5 лет или 150 000 км — на все автомобили Geely! 
+
+Круглосуточная помощь на дороге 24/7 с программой Geely Assistance
+
+Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
+Звоните прямо сейчас — количество машин по акции ограничено.
+Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.
+5 ТО за 1 рубль при покупке автомобиля до 28 февраля.</Description><Price>3908990</Price><TradeinDiscount>480800</TradeinDiscount><CreditDiscount>305000</CreditDiscount><InsuranceDiscount /><MaxDiscount>909990</MaxDiscount><Color>Серый</Color><Images>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/5ad78a058874bf69243cc376af9b0090.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/9cf1fedca2019fff0e0eaecb14eb5e68.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/86909c2cbd32e13917f36f7fcf0c6f32.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/d32b9ddfb592b16d3028a4c02f368b59.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/42f3e263f0feeb343cf6aea6d3b050a5.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/d58d9df716843fafe8c8f657f43a636b.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/7c0a79d598fda578dab09f9fc95b0929.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/23a4a425f28c380db7a03328f2547649.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/d127752de2fea5c579d76ee1ce6bdd08.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/ecac68dc48c3903d314160ee53b1d0f2.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/95084db07d833769bb80a9250c064951.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/05cd99905d53d74291e8171f197c21be.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/242130473c4b09a682c9451be9fe6dcd.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/c61ba042ba4aecdf09d47f4994d2c88d.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/d549372117bc0ad2e002eeda117b343b.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/84f4f490d5bd4ecd20d875f31a128aa0.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/c63e4731f4d1baf7a39809198a2bc960.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/8d1c27a6b7a1e32af0bcfe2badb86df0.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/e88a6e2121cc0306ecc32dd7c5abd327.jpg" /></Images><Make>Geely</Make><Model>Okavango</Model><GenerationId>18803792</GenerationId><ModificationId>18803793</ModificationId><ComplectationId>18803795</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>L6TVX1S68SY703409</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	<Id>04c788d7996a9c3fb7a3ac097426e29f</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
 
 Фиксированная скидка по трейд-ин — получи 150 000 ₽ просто за обмен авто!
@@ -1828,82 +1904,6 @@ Geely Партнер-Авто — автосалон, который забот�
 			
 			
 		<Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/35d06ee46413aa8afa8ea4332285a6ac.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/15a8f28d5cc22d1f820689ee98b5ed2f.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/ce9fc6d3dd7ffba90833793175137465.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/35d813d41691005ddf0fa6b22892bb4d.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/016dd6b0686a036ad54e4aa872c1cb71.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/bf863ef74e2ce6939c1ddda4707894be.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/cca6dc68dc64f82cab15ad44e4a5a782.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/9a430af3a33e9bc89460d992db3263fa.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/38183e770fb25ee39d7da10d4162544e.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/7f89676a78ebbad8ba3d93c18b128f4e.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/5d56c96d3dc13b49612c84f2bb0de7a3.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/e08b8bc12e503689f7317e088661bfd7.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/c49cbbeaa07ba2695aeba7f94074c152.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/1ae43272ec10b979a64e2f2b3af8968f.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/a7b6694b910851d3c7a7355096dbf5b6.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/ccb5e232f1734796a9e629beeb888a31.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/8184acf448b1846ab6cf221b304d331d.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/1139b4c6e83df1db69725ba21097d202.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/ca45020e70328e19d4a8b62fb2ebfd3f.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/121ed683964e69c79edb7caf3ec8695c.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/ad46dee16e42c99079edeb1b8e0dafe3.jpg" /></Images><Make>Geely</Make><Model>Okavango</Model><GenerationId>18803792</GenerationId><ModificationId>18803793</ModificationId><ComplectationId>18803795</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>L6TVX1S65SY701875</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	<Id>7c1767d661b4398e8976db02fe814bef</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
-
-Фиксированная скидка по трейд-ин — получи 150 000 ₽ просто за обмен авто!
-Выгодная рассрочка до 96 месяцев — без переплат! 
-Банковская ставка — от 0,01% годовых
-Срок — до 8 лет. Никаких скрытых комиссий! 
-
-Подарок за покупку за 1 день!
-Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта ЗИМНЕЙ РЕЗИНЫ!!.*  *Уточняйте детали у менеджера автосалона)
-
-А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
-
-- Гарантированную выгоду до 200 000.00 ₽
-- Дополнительную выгоду при покупке в кредит — до 100 000₽
-- Персональные скидки до 150 000₽ для тех, кто платит наличными!
-
-Сверх того: 
- Доставка авто под заказ срок до 1 месяца
-
-Гарантия 5 лет или 150 000 км — на все автомобили Geely! 
-
-Круглосуточная помощь на дороге 24/7 с программой Geely Assistance
-
-Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
-Звоните прямо сейчас — количество машин по акции ограничено.
-Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.
-5 ТО за 1 рубль при покупке автомобиля до 28 февраля.</Description><Price>3908990</Price><TradeinDiscount>480800</TradeinDiscount><CreditDiscount>305000</CreditDiscount><InsuranceDiscount /><MaxDiscount>909990</MaxDiscount><Color>Серый</Color><Images>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/5ad78a058874bf69243cc376af9b0090.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/9cf1fedca2019fff0e0eaecb14eb5e68.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/86909c2cbd32e13917f36f7fcf0c6f32.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/d32b9ddfb592b16d3028a4c02f368b59.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/42f3e263f0feeb343cf6aea6d3b050a5.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/d58d9df716843fafe8c8f657f43a636b.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/7c0a79d598fda578dab09f9fc95b0929.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/23a4a425f28c380db7a03328f2547649.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/d127752de2fea5c579d76ee1ce6bdd08.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/ecac68dc48c3903d314160ee53b1d0f2.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/95084db07d833769bb80a9250c064951.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/05cd99905d53d74291e8171f197c21be.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/242130473c4b09a682c9451be9fe6dcd.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/c61ba042ba4aecdf09d47f4994d2c88d.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/d549372117bc0ad2e002eeda117b343b.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/84f4f490d5bd4ecd20d875f31a128aa0.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/c63e4731f4d1baf7a39809198a2bc960.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/8d1c27a6b7a1e32af0bcfe2badb86df0.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/e88a6e2121cc0306ecc32dd7c5abd327.jpg" /></Images><Make>Geely</Make><Model>Okavango</Model><GenerationId>18803792</GenerationId><ModificationId>18803793</ModificationId><ComplectationId>18803795</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>L6TVX1S68SY703409</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -2439,82 +2439,6 @@ Geely Партнер-Авто — автосалон, который забот�
 		
 		
 		
-	<Id>c6ff2983b9cad14714638758b13bb60e</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
-
-Фиксированная скидка по трейд-ин — получи 380 000 ₽ просто за обмен авто!
-Выгодная рассрочка до 96 месяцев — без переплат! 
-Банковская ставка — от 0,01% годовых
-Срок — до 8 лет. Никаких скрытых комиссий! 
-
-Подарок за покупку за 1 день!
-Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
-
-А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
-
-- Гарантированную выгоду до 460 000.00 ₽
-- Дополнительную выгоду при покупке в кредит — до 400 000₽
-- Персональные скидки до 420 000₽ для тех, кто платит наличными!
-
-Сверх того: 
- Доставка авто под заказ срок до 1 месяца
-
-Гарантия 5 лет или 150 000 км — на все автомобили Geely! 
-
-Круглосуточная помощь на дороге 24/7 с программой Geely Assistance
-
-Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
-Звоните прямо сейчас — количество машин по акции ограничено.
-Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.
-5 ТО за 1 рубль при покупке автомобиля до 28 февраля.</Description><Price>4899990</Price><TradeinDiscount>415000</TradeinDiscount><CreditDiscount>200000</CreditDiscount><InsuranceDiscount /><MaxDiscount>715000</MaxDiscount><Color>Черный</Color><Images>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/5e2403b12b8a7281566851de4e6546d1.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/008670b290f9a8ad094c54819f17b135.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/daf6963cef5d3b3775f5e253c8fb9d3e.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/26dc9d0d0e9b1c8f307390cdaf7c5504.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/8cc33b7b960b5a79d27983ac6adfe07b.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/a581fed6b50b7d7dd23f377035679877.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/5aa5bc0a4048afff9b577d884fdc16dc.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/399f2db538c1c05195041c8ba0aabb08.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/a78cf0fa72a61819fa6537f1188aba3e.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/f6898427ff8cd3090c56f2b81bf71d6b.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/da027ad6387c870aec91429f2bd914a9.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/623bb3fa2265ca94fe172470b13de790.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/8edc1e38a22c943c603aa10b88a71180.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/730f0957abc749b7df9b3bf35332c6eb.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/b988c80215e7e4c0851b7bb081532517.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/7a610bf67b1cdadb2a3c9e8f0352a1eb.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/1beb4795f0fd819240942fb86237070a.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/589e6eedb18297c5577f52a2aefbf41f.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/f7b18a1850a93478d64cb2954102b5b0.jpg" /></Images><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>22507842</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D7SS273425</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	<Id>85e9ee7b4f7e45c76f56f43e97ff8295</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
 
 Фиксированная скидка по трейд-ин — получи 380 000 ₽ просто за обмен авто!
@@ -2564,6 +2488,82 @@ Geely Партнер-Авто — автосалон, который забот�
 			
 			
 		<Image url="https://photo.toyotasever.ru/LB37852D1SS276799/0587730fe93904cd951b9b1b907bf0f4.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/53ea4e62f3fe8333f53b516ac5c9fe23.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/c78596a87bd454ab36629acf5959a55c.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/889049a105decfc577ecc202ca3e2424.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/ed5925299f31ebe1f74d0605cfd39c24.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/f5f0dd65979b95123a6eb2848c15327d.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/bd0f8ba5505527e111f08e577ab1c748.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/53715ab9cd8b88267e96d98e52b59e4e.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/fd917edeaff41549178484687a0724a4.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/fe087608e1c703b2ec5c69e0b08210dc.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/3a6af94c42bdb10f48e6c295984bb663.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/bda57562c50737024bf685c257e06385.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/be6062f36b387cea93d27d68a5335c74.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/18f61752fb0b01d215a6ccbc3f7f481a.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/1ba02e4d2e07c26adfa3c61cb1f613b9.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/09293f5c7b38e10f512eb71fb0e355fa.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/6d283ece7f4db6ffcd6728ba4c90040e.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/753b51859c415239a34e4ec59144f08b.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/a6a7d8315584fc60fd982b1f7561d0fb.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/904ef8ba5ba69bda362da65a9a820707.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/8d5108609d7c2cc4deddc911edc13722.jpg" /></Images><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>22507842</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D1SS276801</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>c6ff2983b9cad14714638758b13bb60e</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
+
+Фиксированная скидка по трейд-ин — получи 380 000 ₽ просто за обмен авто!
+Выгодная рассрочка до 96 месяцев — без переплат! 
+Банковская ставка — от 0,01% годовых
+Срок — до 8 лет. Никаких скрытых комиссий! 
+
+Подарок за покупку за 1 день!
+Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
+
+А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
+
+- Гарантированную выгоду до 460 000.00 ₽
+- Дополнительную выгоду при покупке в кредит — до 400 000₽
+- Персональные скидки до 420 000₽ для тех, кто платит наличными!
+
+Сверх того: 
+ Доставка авто под заказ срок до 1 месяца
+
+Гарантия 5 лет или 150 000 км — на все автомобили Geely! 
+
+Круглосуточная помощь на дороге 24/7 с программой Geely Assistance
+
+Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
+Звоните прямо сейчас — количество машин по акции ограничено.
+Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.
+5 ТО за 1 рубль при покупке автомобиля до 28 февраля.</Description><Price>4899990</Price><TradeinDiscount>415000</TradeinDiscount><CreditDiscount>200000</CreditDiscount><InsuranceDiscount /><MaxDiscount>715000</MaxDiscount><Color>Черный</Color><Images>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/5e2403b12b8a7281566851de4e6546d1.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/008670b290f9a8ad094c54819f17b135.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/daf6963cef5d3b3775f5e253c8fb9d3e.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/26dc9d0d0e9b1c8f307390cdaf7c5504.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/8cc33b7b960b5a79d27983ac6adfe07b.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/a581fed6b50b7d7dd23f377035679877.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/5aa5bc0a4048afff9b577d884fdc16dc.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/399f2db538c1c05195041c8ba0aabb08.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/a78cf0fa72a61819fa6537f1188aba3e.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/f6898427ff8cd3090c56f2b81bf71d6b.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/da027ad6387c870aec91429f2bd914a9.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/623bb3fa2265ca94fe172470b13de790.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/8edc1e38a22c943c603aa10b88a71180.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/730f0957abc749b7df9b3bf35332c6eb.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/b988c80215e7e4c0851b7bb081532517.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/7a610bf67b1cdadb2a3c9e8f0352a1eb.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/1beb4795f0fd819240942fb86237070a.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/589e6eedb18297c5577f52a2aefbf41f.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/f7b18a1850a93478d64cb2954102b5b0.jpg" /></Images><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>22507842</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D7SS273425</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -2724,6 +2724,82 @@ Geely Партнер-Авто — автосалон, который забот�
 		
 		
 		
+	<Id>f02508cd4e0cd3ca8460c8ba4e96fa35</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
+
+Фиксированная скидка по трейд-ин — получи 150 000 ₽ просто за обмен авто!
+Выгодная рассрочка до 96 месяцев — без переплат! 
+Банковская ставка — от 0,01% годовых
+Срок — до 8 лет. Никаких скрытых комиссий! 
+
+Подарок за покупку за 1 день!
+Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта ЗИМНЕЙ РЕЗИНЫ!!.*  *Уточняйте детали у менеджера автосалона)
+
+А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
+
+- Гарантированную выгоду до 200 000.00 ₽
+- Дополнительную выгоду при покупке в кредит — до 100 000₽
+- Персональные скидки до 150 000₽ для тех, кто платит наличными!
+
+Сверх того: 
+ Доставка авто под заказ срок до 1 месяца
+
+Гарантия 5 лет или 150 000 км — на все автомобили Geely! 
+
+Круглосуточная помощь на дороге 24/7 с программой Geely Assistance
+
+Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
+Звоните прямо сейчас — количество машин по акции ограничено.
+Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.
+5 ТО за 1 рубль при покупке автомобиля до 28 февраля.</Description><Price>3908990</Price><TradeinDiscount>480800</TradeinDiscount><CreditDiscount>305000</CreditDiscount><InsuranceDiscount /><MaxDiscount>909990</MaxDiscount><Color>Серый</Color><Images>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/5ad78a058874bf69243cc376af9b0090.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/9cf1fedca2019fff0e0eaecb14eb5e68.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/86909c2cbd32e13917f36f7fcf0c6f32.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/d32b9ddfb592b16d3028a4c02f368b59.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/42f3e263f0feeb343cf6aea6d3b050a5.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/d58d9df716843fafe8c8f657f43a636b.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/7c0a79d598fda578dab09f9fc95b0929.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/23a4a425f28c380db7a03328f2547649.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/d127752de2fea5c579d76ee1ce6bdd08.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/ecac68dc48c3903d314160ee53b1d0f2.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/95084db07d833769bb80a9250c064951.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/05cd99905d53d74291e8171f197c21be.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/242130473c4b09a682c9451be9fe6dcd.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/c61ba042ba4aecdf09d47f4994d2c88d.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/d549372117bc0ad2e002eeda117b343b.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/84f4f490d5bd4ecd20d875f31a128aa0.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/c63e4731f4d1baf7a39809198a2bc960.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/8d1c27a6b7a1e32af0bcfe2badb86df0.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/e88a6e2121cc0306ecc32dd7c5abd327.jpg" /></Images><Make>Geely</Make><Model>Okavango</Model><GenerationId>18803792</GenerationId><ModificationId>18803793</ModificationId><ComplectationId>18803795</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>L6TVX1S68SY703410</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	<Id>f9bcb2908e36c01f8dafdb0bc852e7e1</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
 
 Фиксированная скидка по трейд-ин — получи 150 000 ₽ просто за обмен авто!
@@ -2773,82 +2849,6 @@ Geely Партнер-Авто — автосалон, который забот�
 			
 			
 		<Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/35d06ee46413aa8afa8ea4332285a6ac.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/15a8f28d5cc22d1f820689ee98b5ed2f.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/ce9fc6d3dd7ffba90833793175137465.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/35d813d41691005ddf0fa6b22892bb4d.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/016dd6b0686a036ad54e4aa872c1cb71.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/bf863ef74e2ce6939c1ddda4707894be.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/cca6dc68dc64f82cab15ad44e4a5a782.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/9a430af3a33e9bc89460d992db3263fa.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/38183e770fb25ee39d7da10d4162544e.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/7f89676a78ebbad8ba3d93c18b128f4e.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/5d56c96d3dc13b49612c84f2bb0de7a3.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/e08b8bc12e503689f7317e088661bfd7.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/c49cbbeaa07ba2695aeba7f94074c152.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/1ae43272ec10b979a64e2f2b3af8968f.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/a7b6694b910851d3c7a7355096dbf5b6.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/ccb5e232f1734796a9e629beeb888a31.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/8184acf448b1846ab6cf221b304d331d.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/1139b4c6e83df1db69725ba21097d202.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/ca45020e70328e19d4a8b62fb2ebfd3f.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/121ed683964e69c79edb7caf3ec8695c.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/ad46dee16e42c99079edeb1b8e0dafe3.jpg" /></Images><Make>Geely</Make><Model>Okavango</Model><GenerationId>18803792</GenerationId><ModificationId>18803793</ModificationId><ComplectationId>18803795</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>L6TVX1S65SY701876</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	<Id>f02508cd4e0cd3ca8460c8ba4e96fa35</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
-
-Фиксированная скидка по трейд-ин — получи 150 000 ₽ просто за обмен авто!
-Выгодная рассрочка до 96 месяцев — без переплат! 
-Банковская ставка — от 0,01% годовых
-Срок — до 8 лет. Никаких скрытых комиссий! 
-
-Подарок за покупку за 1 день!
-Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта ЗИМНЕЙ РЕЗИНЫ!!.*  *Уточняйте детали у менеджера автосалона)
-
-А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
-
-- Гарантированную выгоду до 200 000.00 ₽
-- Дополнительную выгоду при покупке в кредит — до 100 000₽
-- Персональные скидки до 150 000₽ для тех, кто платит наличными!
-
-Сверх того: 
- Доставка авто под заказ срок до 1 месяца
-
-Гарантия 5 лет или 150 000 км — на все автомобили Geely! 
-
-Круглосуточная помощь на дороге 24/7 с программой Geely Assistance
-
-Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
-Звоните прямо сейчас — количество машин по акции ограничено.
-Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.
-5 ТО за 1 рубль при покупке автомобиля до 28 февраля.</Description><Price>3908990</Price><TradeinDiscount>480800</TradeinDiscount><CreditDiscount>305000</CreditDiscount><InsuranceDiscount /><MaxDiscount>909990</MaxDiscount><Color>Серый</Color><Images>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/5ad78a058874bf69243cc376af9b0090.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/9cf1fedca2019fff0e0eaecb14eb5e68.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/86909c2cbd32e13917f36f7fcf0c6f32.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/d32b9ddfb592b16d3028a4c02f368b59.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/42f3e263f0feeb343cf6aea6d3b050a5.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/d58d9df716843fafe8c8f657f43a636b.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/7c0a79d598fda578dab09f9fc95b0929.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/23a4a425f28c380db7a03328f2547649.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/d127752de2fea5c579d76ee1ce6bdd08.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/ecac68dc48c3903d314160ee53b1d0f2.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/95084db07d833769bb80a9250c064951.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/05cd99905d53d74291e8171f197c21be.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/242130473c4b09a682c9451be9fe6dcd.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/c61ba042ba4aecdf09d47f4994d2c88d.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/d549372117bc0ad2e002eeda117b343b.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/84f4f490d5bd4ecd20d875f31a128aa0.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/c63e4731f4d1baf7a39809198a2bc960.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/8d1c27a6b7a1e32af0bcfe2badb86df0.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/e88a6e2121cc0306ecc32dd7c5abd327.jpg" /></Images><Make>Geely</Make><Model>Okavango</Model><GenerationId>18803792</GenerationId><ModificationId>18803793</ModificationId><ComplectationId>18803795</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>L6TVX1S68SY703410</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -3384,82 +3384,6 @@ Geely Партнер-Авто — автосалон, который забот�
 		
 		
 		
-	<Id>5927988f0b4eb2c52003721bb6ec33fd</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
-
-Фиксированная скидка по трейд-ин — получи 380 000 ₽ просто за обмен авто!
-Выгодная рассрочка до 96 месяцев — без переплат! 
-Банковская ставка — от 0,01% годовых
-Срок — до 8 лет. Никаких скрытых комиссий! 
-
-Подарок за покупку за 1 день!
-Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
-
-А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
-
-- Гарантированную выгоду до 460 000.00 ₽
-- Дополнительную выгоду при покупке в кредит — до 400 000₽
-- Персональные скидки до 420 000₽ для тех, кто платит наличными!
-
-Сверх того: 
- Доставка авто под заказ срок до 1 месяца
-
-Гарантия 5 лет или 150 000 км — на все автомобили Geely! 
-
-Круглосуточная помощь на дороге 24/7 с программой Geely Assistance
-
-Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
-Звоните прямо сейчас — количество машин по акции ограничено.
-Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.
-5 ТО за 1 рубль при покупке автомобиля до 28 февраля.</Description><Price>4899990</Price><TradeinDiscount>415000</TradeinDiscount><CreditDiscount>200000</CreditDiscount><InsuranceDiscount /><MaxDiscount>715000</MaxDiscount><Color>Черный</Color><Images>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/5e2403b12b8a7281566851de4e6546d1.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/008670b290f9a8ad094c54819f17b135.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/daf6963cef5d3b3775f5e253c8fb9d3e.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/26dc9d0d0e9b1c8f307390cdaf7c5504.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/8cc33b7b960b5a79d27983ac6adfe07b.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/a581fed6b50b7d7dd23f377035679877.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/5aa5bc0a4048afff9b577d884fdc16dc.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/399f2db538c1c05195041c8ba0aabb08.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/a78cf0fa72a61819fa6537f1188aba3e.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/f6898427ff8cd3090c56f2b81bf71d6b.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/da027ad6387c870aec91429f2bd914a9.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/623bb3fa2265ca94fe172470b13de790.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/8edc1e38a22c943c603aa10b88a71180.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/730f0957abc749b7df9b3bf35332c6eb.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/b988c80215e7e4c0851b7bb081532517.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/7a610bf67b1cdadb2a3c9e8f0352a1eb.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/1beb4795f0fd819240942fb86237070a.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/589e6eedb18297c5577f52a2aefbf41f.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/f7b18a1850a93478d64cb2954102b5b0.jpg" /></Images><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>22507842</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D7SS273426</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	<Id>eceebf74d9aca3c3771a19401669eae3</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
 
 Фиксированная скидка по трейд-ин — получи 380 000 ₽ просто за обмен авто!
@@ -3509,6 +3433,82 @@ Geely Партнер-Авто — автосалон, который забот�
 			
 			
 		<Image url="https://photo.toyotasever.ru/LB37852D1SS276799/0587730fe93904cd951b9b1b907bf0f4.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/53ea4e62f3fe8333f53b516ac5c9fe23.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/c78596a87bd454ab36629acf5959a55c.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/889049a105decfc577ecc202ca3e2424.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/ed5925299f31ebe1f74d0605cfd39c24.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/f5f0dd65979b95123a6eb2848c15327d.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/bd0f8ba5505527e111f08e577ab1c748.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/53715ab9cd8b88267e96d98e52b59e4e.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/fd917edeaff41549178484687a0724a4.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/fe087608e1c703b2ec5c69e0b08210dc.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/3a6af94c42bdb10f48e6c295984bb663.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/bda57562c50737024bf685c257e06385.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/be6062f36b387cea93d27d68a5335c74.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/18f61752fb0b01d215a6ccbc3f7f481a.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/1ba02e4d2e07c26adfa3c61cb1f613b9.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/09293f5c7b38e10f512eb71fb0e355fa.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/6d283ece7f4db6ffcd6728ba4c90040e.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/753b51859c415239a34e4ec59144f08b.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/a6a7d8315584fc60fd982b1f7561d0fb.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/904ef8ba5ba69bda362da65a9a820707.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D1SS276799/8d5108609d7c2cc4deddc911edc13722.jpg" /></Images><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>22507842</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D1SS276802</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>5927988f0b4eb2c52003721bb6ec33fd</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
+
+Фиксированная скидка по трейд-ин — получи 380 000 ₽ просто за обмен авто!
+Выгодная рассрочка до 96 месяцев — без переплат! 
+Банковская ставка — от 0,01% годовых
+Срок — до 8 лет. Никаких скрытых комиссий! 
+
+Подарок за покупку за 1 день!
+Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
+
+А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
+
+- Гарантированную выгоду до 460 000.00 ₽
+- Дополнительную выгоду при покупке в кредит — до 400 000₽
+- Персональные скидки до 420 000₽ для тех, кто платит наличными!
+
+Сверх того: 
+ Доставка авто под заказ срок до 1 месяца
+
+Гарантия 5 лет или 150 000 км — на все автомобили Geely! 
+
+Круглосуточная помощь на дороге 24/7 с программой Geely Assistance
+
+Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
+Звоните прямо сейчас — количество машин по акции ограничено.
+Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.
+5 ТО за 1 рубль при покупке автомобиля до 28 февраля.</Description><Price>4899990</Price><TradeinDiscount>415000</TradeinDiscount><CreditDiscount>200000</CreditDiscount><InsuranceDiscount /><MaxDiscount>715000</MaxDiscount><Color>Черный</Color><Images>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		<Image url="https://photo.toyotasever.ru/LB37852D7SS273423/5e2403b12b8a7281566851de4e6546d1.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/008670b290f9a8ad094c54819f17b135.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/daf6963cef5d3b3775f5e253c8fb9d3e.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/26dc9d0d0e9b1c8f307390cdaf7c5504.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/8cc33b7b960b5a79d27983ac6adfe07b.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/a581fed6b50b7d7dd23f377035679877.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/5aa5bc0a4048afff9b577d884fdc16dc.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/399f2db538c1c05195041c8ba0aabb08.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/a78cf0fa72a61819fa6537f1188aba3e.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/f6898427ff8cd3090c56f2b81bf71d6b.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/da027ad6387c870aec91429f2bd914a9.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/623bb3fa2265ca94fe172470b13de790.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/8edc1e38a22c943c603aa10b88a71180.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/730f0957abc749b7df9b3bf35332c6eb.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/b988c80215e7e4c0851b7bb081532517.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/7a610bf67b1cdadb2a3c9e8f0352a1eb.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/1beb4795f0fd819240942fb86237070a.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/589e6eedb18297c5577f52a2aefbf41f.jpg" /><Image url="https://photo.toyotasever.ru/LB37852D7SS273423/f7b18a1850a93478d64cb2954102b5b0.jpg" /></Images><Make>Geely</Make><Model>Monjaro</Model><GenerationId>17481670</GenerationId><ModificationId>17481675</ModificationId><ComplectationId>22507842</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>LB37852D7SS273426</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -3669,6 +3669,82 @@ Geely Партнер-Авто — автосалон, который забот�
 		
 		
 		
+	<Id>6156a2ccfdf9c98ca09f6436b035e25b</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
+
+Фиксированная скидка по трейд-ин — получи 150 000 ₽ просто за обмен авто!
+Выгодная рассрочка до 96 месяцев — без переплат! 
+Банковская ставка — от 0,01% годовых
+Срок — до 8 лет. Никаких скрытых комиссий! 
+
+Подарок за покупку за 1 день!
+Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта ЗИМНЕЙ РЕЗИНЫ!!.*  *Уточняйте детали у менеджера автосалона)
+
+А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
+
+- Гарантированную выгоду до 200 000.00 ₽
+- Дополнительную выгоду при покупке в кредит — до 100 000₽
+- Персональные скидки до 150 000₽ для тех, кто платит наличными!
+
+Сверх того: 
+ Доставка авто под заказ срок до 1 месяца
+
+Гарантия 5 лет или 150 000 км — на все автомобили Geely! 
+
+Круглосуточная помощь на дороге 24/7 с программой Geely Assistance
+
+Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
+Звоните прямо сейчас — количество машин по акции ограничено.
+Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.
+5 ТО за 1 рубль при покупке автомобиля до 28 февраля.</Description><Price>3908990</Price><TradeinDiscount>480800</TradeinDiscount><CreditDiscount>305000</CreditDiscount><InsuranceDiscount /><MaxDiscount>909990</MaxDiscount><Color>Серый</Color><Images>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/5ad78a058874bf69243cc376af9b0090.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/9cf1fedca2019fff0e0eaecb14eb5e68.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/86909c2cbd32e13917f36f7fcf0c6f32.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/d32b9ddfb592b16d3028a4c02f368b59.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/42f3e263f0feeb343cf6aea6d3b050a5.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/d58d9df716843fafe8c8f657f43a636b.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/7c0a79d598fda578dab09f9fc95b0929.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/23a4a425f28c380db7a03328f2547649.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/d127752de2fea5c579d76ee1ce6bdd08.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/ecac68dc48c3903d314160ee53b1d0f2.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/95084db07d833769bb80a9250c064951.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/05cd99905d53d74291e8171f197c21be.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/242130473c4b09a682c9451be9fe6dcd.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/c61ba042ba4aecdf09d47f4994d2c88d.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/d549372117bc0ad2e002eeda117b343b.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/84f4f490d5bd4ecd20d875f31a128aa0.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/c63e4731f4d1baf7a39809198a2bc960.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/8d1c27a6b7a1e32af0bcfe2badb86df0.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/e88a6e2121cc0306ecc32dd7c5abd327.jpg" /></Images><Make>Geely</Make><Model>Okavango</Model><GenerationId>18803792</GenerationId><ModificationId>18803793</ModificationId><ComplectationId>18803795</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>L6TVX1S68SY703411</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	<Id>0d67aea017f61fedd409e674d4d66842</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
 
 Фиксированная скидка по трейд-ин — получи 150 000 ₽ просто за обмен авто!
@@ -3718,82 +3794,6 @@ Geely Партнер-Авто — автосалон, который забот�
 			
 			
 		<Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/35d06ee46413aa8afa8ea4332285a6ac.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/15a8f28d5cc22d1f820689ee98b5ed2f.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/ce9fc6d3dd7ffba90833793175137465.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/35d813d41691005ddf0fa6b22892bb4d.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/016dd6b0686a036ad54e4aa872c1cb71.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/bf863ef74e2ce6939c1ddda4707894be.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/cca6dc68dc64f82cab15ad44e4a5a782.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/9a430af3a33e9bc89460d992db3263fa.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/38183e770fb25ee39d7da10d4162544e.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/7f89676a78ebbad8ba3d93c18b128f4e.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/5d56c96d3dc13b49612c84f2bb0de7a3.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/e08b8bc12e503689f7317e088661bfd7.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/c49cbbeaa07ba2695aeba7f94074c152.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/1ae43272ec10b979a64e2f2b3af8968f.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/a7b6694b910851d3c7a7355096dbf5b6.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/ccb5e232f1734796a9e629beeb888a31.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/8184acf448b1846ab6cf221b304d331d.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/1139b4c6e83df1db69725ba21097d202.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/ca45020e70328e19d4a8b62fb2ebfd3f.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/121ed683964e69c79edb7caf3ec8695c.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S65SY701874/ad46dee16e42c99079edeb1b8e0dafe3.jpg" /></Images><Make>Geely</Make><Model>Okavango</Model><GenerationId>18803792</GenerationId><ModificationId>18803793</ModificationId><ComplectationId>18803795</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>L6TVX1S65SY701877</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	<Id>6156a2ccfdf9c98ca09f6436b035e25b</Id><Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
-
-Фиксированная скидка по трейд-ин — получи 150 000 ₽ просто за обмен авто!
-Выгодная рассрочка до 96 месяцев — без переплат! 
-Банковская ставка — от 0,01% годовых
-Срок — до 8 лет. Никаких скрытых комиссий! 
-
-Подарок за покупку за 1 день!
-Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта ЗИМНЕЙ РЕЗИНЫ!!.*  *Уточняйте детали у менеджера автосалона)
-
-А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
-
-- Гарантированную выгоду до 200 000.00 ₽
-- Дополнительную выгоду при покупке в кредит — до 100 000₽
-- Персональные скидки до 150 000₽ для тех, кто платит наличными!
-
-Сверх того: 
- Доставка авто под заказ срок до 1 месяца
-
-Гарантия 5 лет или 150 000 км — на все автомобили Geely! 
-
-Круглосуточная помощь на дороге 24/7 с программой Geely Assistance
-
-Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
-Звоните прямо сейчас — количество машин по акции ограничено.
-Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.
-5 ТО за 1 рубль при покупке автомобиля до 28 февраля.</Description><Price>3908990</Price><TradeinDiscount>480800</TradeinDiscount><CreditDiscount>305000</CreditDiscount><InsuranceDiscount /><MaxDiscount>909990</MaxDiscount><Color>Серый</Color><Images>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		<Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/5ad78a058874bf69243cc376af9b0090.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/9cf1fedca2019fff0e0eaecb14eb5e68.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/86909c2cbd32e13917f36f7fcf0c6f32.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/d32b9ddfb592b16d3028a4c02f368b59.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/42f3e263f0feeb343cf6aea6d3b050a5.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/d58d9df716843fafe8c8f657f43a636b.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/7c0a79d598fda578dab09f9fc95b0929.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/23a4a425f28c380db7a03328f2547649.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/d127752de2fea5c579d76ee1ce6bdd08.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/ecac68dc48c3903d314160ee53b1d0f2.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/95084db07d833769bb80a9250c064951.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/05cd99905d53d74291e8171f197c21be.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/242130473c4b09a682c9451be9fe6dcd.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/c61ba042ba4aecdf09d47f4994d2c88d.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/d549372117bc0ad2e002eeda117b343b.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/84f4f490d5bd4ecd20d875f31a128aa0.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/c63e4731f4d1baf7a39809198a2bc960.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/8d1c27a6b7a1e32af0bcfe2badb86df0.jpg" /><Image url="https://photo.toyotasever.ru/L6TVX1S68SY703408/e88a6e2121cc0306ecc32dd7c5abd327.jpg" /></Images><Make>Geely</Make><Model>Okavango</Model><GenerationId>18803792</GenerationId><ModificationId>18803793</ModificationId><ComplectationId>18803795</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>L6TVX1S68SY703411</VIN><OnlyOnAvito>нет</OnlyOnAvito><VideoURL /><VideoFileURL /></Ad><Ad>
     <Address>Самара, Московское шоссе, 24-й километр, 3ст1</Address>
     <Id>7827ffc1cf0516db3297fcf14e4dd3f5</Id>
     <Category>Автомобили</Category>
