@@ -740,7 +740,28 @@ Geely Партнер-Авто — автосалон, который забот�
 		<InsuranceDiscount />
 		<MaxDiscount>710000</MaxDiscount>
 		<Color>Белый</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB3G43S96SX705403/7c4ad352cd2a985e11d84fca7d1372d5.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S96SX705403/b44c9db0215f8e21bc746f234d8a45fe.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S96SX705403/9aab4f56269a5aca8fac3cdd9433b227.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S96SX705403/1e9fe59d85d634c452a0318f972b9f33.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S96SX705403/72ad5e47dba686cafaed88a754993970.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S96SX705403/523f8a247f2302d7d1c7412977e35cd4.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S96SX705403/fb38d4aa1c95edfb0b6770891fa6b092.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S96SX705403/0e6169320af04320784bfebb0fb09717.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S96SX705403/80156c189fea0016c78eb94a8be15faf.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S96SX705403/4a774587f80ecb0e30429518dd7e4311.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S96SX705403/ddc98b9df7ec262f5e22578b3afba770.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S96SX705403/e09eb68c389fc23fea4dec13f1535070.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S96SX705403/45e35af2388738359c6e1308a7659be0.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S96SX705403/d2468bbfb5b72eceaf6b61ef3865334a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S96SX705403/c6b59cff49c9202cf8d6e6a181045a8f.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S96SX705403/3c2f2a8b92ea45737a68f76a3f8cd8f3.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S96SX705403/83aab9d63537c5f2425ecb84247ebe72.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S96SX705403/2f590446a879eb66b16151a18af3ef41.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S96SX705403/3786f41318c79d7b38bc4b379a60398b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3G43S96SX705403/d2e43297bf002eb0a5391717e69def17.jpg" />
+		</Images>
 		<Make>Geely</Make>
 		<Model>Cityray</Model>
 		<GenerationId>22127398</GenerationId>
