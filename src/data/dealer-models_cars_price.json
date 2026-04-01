@@ -14,7 +14,19 @@
   {
     "brand": "Geely",
     "model": "Monjaro",
-    "price": 3959990,
-    "benefit": 940000
+    "price": 3950990,
+    "benefit": 949000
+  },
+  {
+    "brand": "Geely",
+    "model": "OKAVANGO",
+    "price": 2900000,
+    "benefit": 1008990
+  },
+  {
+    "brand": "Knewstar",
+    "model": "001",
+    "price": 3299000,
+    "benefit": 1163990
   }
 ]
