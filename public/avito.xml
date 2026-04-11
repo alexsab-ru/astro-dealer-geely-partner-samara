@@ -1,79 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Ads><Ad>
-		<Id>4bdbbfbbee3b84f9586c1dcaef1634bb</Id>
-		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
-
-Фиксированная скидка по трейд-ин — получи 380 000 ₽ просто за обмен авто!
-Банковская ставка — от 0,01% годовых
-Срок — до 8 лет. Никаких скрытых комиссий! 
-
-Подарок за покупку за 1 день!
-Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
-
-А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
-
-- Гарантированную выгоду до 460 000.00 ₽
-- Дополнительную выгоду при покупке в кредит — до 400 000₽
-
-
-Сверх того: 
- Доставка авто под заказ срок до 1 месяца
-
-Гарантия 5 лет или 150 000 км — на все автомобили Geely! 
-
-Круглосуточная помощь на дороге 24/7 с программой Geely Assistance
-
-Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
-Звоните прямо сейчас — количество машин по акции ограничено.
-Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description>
-		<Price>3970990</Price>
-		<TradeinDiscount>263000</TradeinDiscount>
-		<CreditDiscount>355000</CreditDiscount>
-		<InsuranceDiscount>90000</InsuranceDiscount>
-		<MaxDiscount>908000</MaxDiscount>
-		<Color>Белый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/LB3FX1S12TB009749/35ba7e26ab71ae61b8fc170f7c77494e.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S12TB009749/e905b1b3d7c52c4b78270a5acf1d41c4.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S12TB009749/c978c25ef66f20646c78e0d3ef9d1c2b.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S12TB009749/1796a845ae8f617e38c9f47dc8905281.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S12TB009749/d550240fc25c2c6c1bc672a7629caf90.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S12TB009749/863e071f3ae7009bf607dafba8681f9b.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S12TB009749/db9310c4bf1da4d2b95c8387fea62531.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S12TB009749/53c637112eac3edd813c13d1d4881783.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S12TB009749/20038dc6d942a36995c60b93855cda8b.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S12TB009749/5acd7fb53b5d91551d1693a89999d712.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S12TB009749/a7568b4b1a9bc03af250ce2515c8aff9.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S12TB009749/6c7e0b93a68dfe1ae802d56b2f86bf8c.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S12TB009749/c2eded9bc83a266532f212fbdd71614f.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S12TB009749/4c9ecd0bd6db1b6f3007e9b3d511730f.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S12TB009749/9f910fb62f2fdcb67a5c41e77087903b.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S12TB009749/d78cac73eceb0d0ef6f2cc5765912f95.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S12TB009749/57c1e5e59b603f770766a2323b3f1f93.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S12TB009749/1506b1f3e453d3c31e288b0d901091c2.jpg" />
-		</Images>
-		<Make>Geely</Make>
-		<Model>Atlas</Model>
-		<GenerationId>18767585</GenerationId>
-		<ModificationId>22045603</ModificationId>
-		<ComplectationId>22045604</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Автомат</Transmission>
-		<Year>2025</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Полный</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>LB3FX1S12TB009749</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
 		<Id>67a139d3d8080af7da854e492ff3849c</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
@@ -143,6 +69,80 @@ Geely Партнер-Авто — автосалон, который забот�
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>LB3FX1S12TB009802</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>4bdbbfbbee3b84f9586c1dcaef1634bb</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
+
+Фиксированная скидка по трейд-ин — получи 380 000 ₽ просто за обмен авто!
+Банковская ставка — от 0,01% годовых
+Срок — до 8 лет. Никаких скрытых комиссий! 
+
+Подарок за покупку за 1 день!
+Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
+
+А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
+
+- Гарантированную выгоду до 460 000.00 ₽
+- Дополнительную выгоду при покупке в кредит — до 400 000₽
+
+
+Сверх того: 
+ Доставка авто под заказ срок до 1 месяца
+
+Гарантия 5 лет или 150 000 км — на все автомобили Geely! 
+
+Круглосуточная помощь на дороге 24/7 с программой Geely Assistance
+
+Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
+Звоните прямо сейчас — количество машин по акции ограничено.
+Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description>
+		<Price>3970990</Price>
+		<TradeinDiscount>263000</TradeinDiscount>
+		<CreditDiscount>355000</CreditDiscount>
+		<InsuranceDiscount>90000</InsuranceDiscount>
+		<MaxDiscount>908000</MaxDiscount>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB3FX1S12TB009749/35ba7e26ab71ae61b8fc170f7c77494e.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S12TB009749/e905b1b3d7c52c4b78270a5acf1d41c4.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S12TB009749/c978c25ef66f20646c78e0d3ef9d1c2b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S12TB009749/1796a845ae8f617e38c9f47dc8905281.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S12TB009749/d550240fc25c2c6c1bc672a7629caf90.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S12TB009749/863e071f3ae7009bf607dafba8681f9b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S12TB009749/db9310c4bf1da4d2b95c8387fea62531.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S12TB009749/53c637112eac3edd813c13d1d4881783.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S12TB009749/20038dc6d942a36995c60b93855cda8b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S12TB009749/5acd7fb53b5d91551d1693a89999d712.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S12TB009749/a7568b4b1a9bc03af250ce2515c8aff9.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S12TB009749/6c7e0b93a68dfe1ae802d56b2f86bf8c.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S12TB009749/c2eded9bc83a266532f212fbdd71614f.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S12TB009749/4c9ecd0bd6db1b6f3007e9b3d511730f.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S12TB009749/9f910fb62f2fdcb67a5c41e77087903b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S12TB009749/d78cac73eceb0d0ef6f2cc5765912f95.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S12TB009749/57c1e5e59b603f770766a2323b3f1f93.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S12TB009749/1506b1f3e453d3c31e288b0d901091c2.jpg" />
+		</Images>
+		<Make>Geely</Make>
+		<Model>Atlas</Model>
+		<GenerationId>18767585</GenerationId>
+		<ModificationId>22045603</ModificationId>
+		<ComplectationId>22045604</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2025</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LB3FX1S12TB009749</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<VideoURL />
 		<VideoFileURL />
@@ -461,7 +461,27 @@ Geely Партнер-Авто — автосалон, который забот�
 		<InsuranceDiscount>506000</InsuranceDiscount>
 		<MaxDiscount>666000</MaxDiscount>
 		<Color>Зеленый</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB3FX1S74TB029070/449f666a6d2032ad8d2b93a2dd9e0bf6.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S74TB029070/2fcbe28ecac9be898d7be8b9fc9cec8e.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S74TB029070/d80f7ae89f3a6ab730797c9d7ae4c8a1.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S74TB029070/b63f68d609299f1d651af40c548af370.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S74TB029070/3f68e5b8323eb2fefaa78bcf01fef8aa.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S74TB029070/5cf71ebb3b554f5e20a18e29351b93ed.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S74TB029070/c4954cb7a3132c8c2da685a25a871820.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S74TB029070/55dee6fec6a4e6cc9abdff009416297a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S74TB029070/61278370389d85b486fa75ba8e10d155.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S74TB029070/3874a1f9cce4e92e38fa53df8c3c1655.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S74TB029070/87e3afd3615ce27ae04090975e9015f5.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S74TB029070/70b0aad8f7b0bbce29ce35cd2d207208.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S74TB029070/8e49b774be8e506739aa364c1a8f92f2.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S74TB029070/d679c10d465107d9f8753b4feffd818b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S74TB029070/84c131bad8dec92b99ea56a6858682ec.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S74TB029070/2702a4afd8e4f4bfa2baf94c1b8e4cbe.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S74TB029070/41c62efea6d4479e02dbfbbd55231e34.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S74TB029070/7b1e2576f10edf2c5e342265188b7437.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S74TB029070/4907734f18aa2f9ea827ac3f0dab6ef8.jpg" />
+		</Images>
 		<Make>Geely</Make>
 		<Model>Atlas</Model>
 		<GenerationId>18767585</GenerationId>
@@ -516,7 +536,25 @@ Geely Партнер-Авто — автосалон, который забот�
 		<InsuranceDiscount>506000</InsuranceDiscount>
 		<MaxDiscount>666000</MaxDiscount>
 		<Color>Черный</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB3FX1S7XTB029011/971ce5f2f2f95035b4416c8e7d46e58d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S7XTB029011/ce0c4d0d7b4473bf94fa4aa5242ab043.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S7XTB029011/1762f0f684d4fcdbb86d2dd28d00fae4.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S7XTB029011/38dfc302103651a2bbedf392e8a1acda.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S7XTB029011/0021c91373c28c05fbc0d7097aee8da6.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S7XTB029011/08c70fd03c9b836cf35d73df56e8fef3.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S7XTB029011/59a178075fe255e19dc8ad5acda881ba.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S7XTB029011/149b139ff2896a81e8c064be417aca41.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S7XTB029011/120e3e12da33e91db97ab55214f93524.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S7XTB029011/afb401a0766ffbf36060d996e22dccb2.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S7XTB029011/2e263bf12fef7df743253e30021d5a76.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S7XTB029011/808565fbea273e326676a80398c72ebe.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S7XTB029011/9ee0b3e50fed83451977cd268ef11c43.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S7XTB029011/356d4f612c04f76a5c96f3bc03d4b5c1.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S7XTB029011/81c75994733e41308035aa6133661fd2.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S7XTB029011/d958ce5d6441557f88e848447563391b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S7XTB029011/752286dbedc8c36023a392aac8f4590c.jpg" />
+		</Images>
 		<Make>Geely</Make>
 		<Model>Atlas</Model>
 		<GenerationId>18767585</GenerationId>
