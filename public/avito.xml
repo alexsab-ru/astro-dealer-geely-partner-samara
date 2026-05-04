@@ -1172,17 +1172,17 @@ Geely Партнер-Авто — автосалон, который забот�
 Звоните прямо сейчас — количество машин по акции ограничено.
 Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description>
 		<Price>3429990</Price>
-		<TradeinDiscount>258000</TradeinDiscount>
-		<CreditDiscount>300000</CreditDiscount>
-		<InsuranceDiscount>89190</InsuranceDiscount>
-		<MaxDiscount>867190</MaxDiscount>
+		<TradeinDiscount>300000</TradeinDiscount>
+		<CreditDiscount>200000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>500000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images />
 		<Make>Geely</Make>
 		<Model>Preface</Model>
 		<GenerationId>22072566</GenerationId>
-		<ModificationId>22072567</ModificationId>
-		<ComplectationId>22072569</ComplectationId>
+		<ModificationId>22571292</ModificationId>
+		<ComplectationId>22571294</ComplectationId>
 		<FuelType>Бензин</FuelType>
 		<Transmission>Робот</Transmission>
 		<Year>2026</Year>
