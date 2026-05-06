@@ -8,7 +8,7 @@ image: "https://cdn.alexsab.ru/for-owners/geely/tehnicheskoe-obsluzhivanie/thumb
 description: "Запись на ТО автомобилей Geely в {{legal_city_where}}"
 ---
 import { AGREE_LABEL } from '@/const';
-import settings from '@/data/settings.json';
+import settings from '@/data/site/settings.json';
 export const { site_name, phone_common, brand } = settings;
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
@@ -18,7 +18,7 @@ import Button from '@/components/Button/Button.astro';
 import Input from '@/components/Input.astro';
 import Checkbox from '@/components/Checkbox/Checkbox.astro';
 import FormSelect from '@/components/FormSelect.astro';
-import models from '@/data/models.json';
+import models from '@/data/site/models.json';
 
 export const from = '01.07.2024';
 export const to = `${LAST_DAY}.${MONTH}.${YEAR}`;
