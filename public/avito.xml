@@ -1267,7 +1267,31 @@ Geely Партнер-Авто — автосалон, который забот�
 		<InsuranceDiscount />
 		<MaxDiscount>949000</MaxDiscount>
 		<Color>Зеленый</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB37852D3TS037756/bc21db011827f37ec2733e39009dd2eb.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D3TS037756/dff8eac11f6f1a3e8d0aac3683c7dedb.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D3TS037756/c966a3ca62a7edb9c4eae6d6c65dee26.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D3TS037756/d4ce124b875b097114ac636940d0cd4b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D3TS037756/9ed760526b6405c571905ddca2c89a22.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D3TS037756/e8a6995b47d9eef047df421ab4f76066.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D3TS037756/0b98d86ed400c04b9ff5188345e0f1b8.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D3TS037756/e60ad7a0a03b08446ca193e75502cbd2.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D3TS037756/d5e127c53a25def130f4c97a7326a461.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D3TS037756/6abe2b6a025c49531c904a172ab44574.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D3TS037756/a2f163cdeaed1bd6c9821b30644fc550.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D3TS037756/c37c9acbd3f8babebbdce1c44d1c148f.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D3TS037756/fe90c883f5fb3b48f6135d6666b1ac50.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D3TS037756/328dd8367e74c075f614b37c4ef5743b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D3TS037756/2fcf80f72c4bdbd7c2741a0893909b15.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D3TS037756/632e19644727b6e906f761e72b316925.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D3TS037756/866d51a3380f067ca6102ad1daa61e30.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D3TS037756/c0bdedb12e7db9f1c026fceae885eddd.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D3TS037756/2b58ed16c14886deb52eeaa7c35214f9.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D3TS037756/2be843c863e4a46006837d388706846c.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D3TS037756/4398433cd1708f63482157a469c3da2d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D3TS037756/5bd1d78a097d9da951c622cace4130ec.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D3TS037756/1d2e533d6c55cd570b52975aed2f1e4b.jpg" />
+		</Images>
 		<Make>Geely</Make>
 		<Model>Monjaro</Model>
 		<GenerationId>17481670</GenerationId>
