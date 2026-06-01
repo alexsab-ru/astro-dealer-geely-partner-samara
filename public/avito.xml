@@ -106,10 +106,10 @@ Geely Партнер-Авто — автосалон, который забот�
 Звоните прямо сейчас — количество машин по акции ограничено.
 Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description>
 		<Price>3449990</Price>
-		<TradeinDiscount>160000</TradeinDiscount>
+		<TradeinDiscount>260000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount>506000</InsuranceDiscount>
-		<MaxDiscount>666000</MaxDiscount>
+		<MaxDiscount>766000</MaxDiscount>
 		<Color>Зеленый</Color>
 		<Images />
 		<Make>Geely</Make>
@@ -161,10 +161,10 @@ Geely Партнер-Авто — автосалон, который забот�
 Звоните прямо сейчас — количество машин по акции ограничено.
 Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description>
 		<Price>3449990</Price>
-		<TradeinDiscount>160000</TradeinDiscount>
+		<TradeinDiscount>260000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount>506000</InsuranceDiscount>
-		<MaxDiscount>666000</MaxDiscount>
+		<MaxDiscount>766000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LB3FX1S7XTB029011/971ce5f2f2f95035b4416c8e7d46e58d.jpg" />
@@ -722,6 +722,61 @@ Geely Партнер-Авто — автосалон, который забот�
 		<VideoFileURL />
 	</Ad>
 	<Ad>
+		<Id>68528b316011ebe64b5f9ecf2e793645</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
+
+Фиксированная скидка по трейд-ин — получи 380 000 ₽ просто за обмен авто!
+Банковская ставка — от 0,01% годовых
+Срок — до 8 лет. Никаких скрытых комиссий! 
+
+Подарок за покупку за 1 день!
+Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
+
+А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
+
+- Гарантированную выгоду до 460 000.00 ₽
+- Дополнительную выгоду при покупке в кредит — до 400 000₽
+
+
+Сверх того: 
+ Доставка авто под заказ срок до 1 месяца
+
+Гарантия 5 лет или 150 000 км — на все автомобили Geely! 
+
+Круглосуточная помощь на дороге 24/7 с программой Geely Assistance
+
+Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
+Звоните прямо сейчас — количество машин по акции ограничено.
+Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description>
+		<Price>4899990</Price>
+		<TradeinDiscount>415000</TradeinDiscount>
+		<CreditDiscount>434000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>949000</MaxDiscount>
+		<Color>Белый</Color>
+		<Images />
+		<Make>Geely</Make>
+		<Model>Monjaro</Model>
+		<GenerationId>17481670</GenerationId>
+		<ModificationId>17481675</ModificationId>
+		<ComplectationId>22507842</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LB37852D6TS044443</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
 		<Id>23a1d6ad5f703e6f89da282862bfb17b</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
@@ -954,65 +1009,10 @@ Geely Партнер-Авто — автосалон, который забот�
 		<VideoFileURL />
 	</Ad>
 	<Ad>
-		<Id>94f43d90c529522a3a7db156cffa0f07</Id>
+		<Id>dcf47cc9214fc65c56e63b2b61c56211</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
-		<Availability>в пути</Availability>
-		<Category>Автомобили</Category>
-		<Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
-
-Фиксированная скидка по трейд-ин — получи 380 000 ₽ просто за обмен авто!
-Банковская ставка — от 0,01% годовых
-Срок — до 8 лет. Никаких скрытых комиссий! 
-
-Подарок за покупку за 1 день!
-Успеваешь оформить авто в день обращения – получи сезонный бонус-сюрприз (от полезных аксессуаров до комплекта шин.*  *Уточняйте детали у менеджера автосалона)
-
-А также для Вас только в нашем автосалоне добавочные выгоды в текущем месяце по программе Тrаdе-in:
-
-- Гарантированную выгоду до 460 000.00 ₽
-- Дополнительную выгоду при покупке в кредит — до 400 000₽
-
-
-Сверх того: 
- Доставка авто под заказ срок до 1 месяца
-
-Гарантия 5 лет или 150 000 км — на все автомобили Geely! 
-
-Круглосуточная помощь на дороге 24/7 с программой Geely Assistance
-
-Приезжаете из другого города?  - Мы оплатим ваши транспортные расходы до нашего автоцентра. 
-Звоните прямо сейчас — количество машин по акции ограничено.
-Geely Партнер-Авто — автосалон, который заботится о Вас и о Вашем удобстве.</Description>
-		<Price>4899990</Price>
-		<TradeinDiscount>415000</TradeinDiscount>
-		<CreditDiscount>434000</CreditDiscount>
-		<InsuranceDiscount />
-		<MaxDiscount>949000</MaxDiscount>
-		<Color>Белый</Color>
-		<Images />
-		<Make>Geely</Make>
-		<Model>Monjaro</Model>
-		<GenerationId>17481670</GenerationId>
-		<ModificationId>17481675</ModificationId>
-		<ComplectationId>22507842</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Автомат</Transmission>
-		<Year>2026</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Полный</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>LB37852D6TS044443</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
-		<Id>8e175e8b2710f5bb99f99b8b738daca5</Id>
-		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-		<CarType>Новые</CarType>
-		<Availability>в пути</Availability>
+		<Availability>в наличии</Availability>
 		<Category>Автомобили</Category>
 		<Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
 
@@ -1064,10 +1064,10 @@ Geely Партнер-Авто — автосалон, который забот�
 		<VideoFileURL />
 	</Ad>
 	<Ad>
-		<Id>6828fcfff5f12aa07546f40e605cc5a7</Id>
+		<Id>028f50e38774b8322fa7b291caed1330</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
-		<Availability>в пути</Availability>
+		<Availability>в наличии</Availability>
 		<Category>Автомобили</Category>
 		<Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
 
@@ -1119,10 +1119,10 @@ Geely Партнер-Авто — автосалон, который забот�
 		<VideoFileURL />
 	</Ad>
 	<Ad>
-		<Id>198e8ecbbc62b88110831494bdeaae05</Id>
+		<Id>9ea8e91bd0920c4f3c079270a4d06eb5</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
-		<Availability>в пути</Availability>
+		<Availability>в наличии</Availability>
 		<Category>Автомобили</Category>
 		<Description>МЕГА BЫГOДЫ от Geely Партнер-Авто — только до конца месяца!
 
