@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Ads><Ad>
-		<Id>ee78acd04471692d47ccf8deb5640a05</Id>
+		<Id>db239ebbd1c1d720b73440464e579a7a</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
-		<Availability>в пути</Availability>
+		<Availability>в наличии</Availability>
 		<Category>Автомобили</Category>
 		<Description>Geely Партнер-Авто Самара это:
 
@@ -76,6 +76,87 @@
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>LB3FX1S11TB050177</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>c841fb0d528fc6883685a7e412a420f1</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Geely Партнер-Авто Самара это:
+
+✔️  Прозрачные условия без скрытых финансовых продуктов.
+✔️  Справедливая и быстрая оценка вашего авто.
+✔️  Официальная гарантия 5 лет или 150 000 км — это спокойствие на долгие годы.
+✔️  Круглосуточная помощь на дороге с программой Belgee Помощь.
+✔️  Юридическая чистота — каждая сделка прозрачна.
+✔️  Персонализированные предложения для клиентов
+
+Специальные предложение до конца месяца:
+ Выгода до 600 000 рублей на покупку автомобиля
+ Дополнительное оборудование в подарок за визит в день обращения*
+ Кредит от 0,01% со сроком до 8 лет
+ 5 работ ТО в подарок
+ Шинный отель на год
+
+Никакого ожидания - выбираете комплектацию, цвет, проходите тест-драйв в день обращения и забираете свой автомобиль с выгодой.
+
+Мы не просто продаем автомобили — мы сопровождаем:
+
+⚙️ Сервис, диагностика — полный цикл в одном месте.
+
+
+ Адрес для осмотра: г. Самара, 24 км Московского шоссе, 3 строение 1
+
+Позвоните или напишите — подберем предложение под ваш бюджет  
+
+❤️ Добавьте объявление в избранное, чтобы не потерять актуальные условия — они ограничены по времени.
+
+
+ Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
+
+* Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
+		<Price>3449990</Price>
+		<TradeinDiscount>260000</TradeinDiscount>
+		<CreditDiscount />
+		<InsuranceDiscount>506000</InsuranceDiscount>
+		<MaxDiscount>766000</MaxDiscount>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB3FX1S71TB067047/393a9532a8717924dd9f87b96b6c0cb3.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S71TB067047/bfd14e8519afc6c7004bb22f020e98a2.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S71TB067047/e8e885b44768cd8f83ae7b6c82873f84.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S71TB067047/4665c9364285cd28686c241aac3d0196.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S71TB067047/efb7c4066af8617e5cb1f1323bda6d10.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S71TB067047/a325476843ebab2573a02fe187e3c6a2.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S71TB067047/e0970297723ff58451884fc403671224.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S71TB067047/65a887db555f661ec60c9cdd4681439a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S71TB067047/c088d708a261dd35d97e4c3aea8e6b92.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S71TB067047/020289469a3f68d93710bf086ba63fbe.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S71TB067047/9de5a6f3e3aa366a80d5917b77637ddd.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S71TB067047/9a320063e64e23143af2b7634e7b10d3.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S71TB067047/18e4fd013ef8d3e4e0a1f86581bfbd4e.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S71TB067047/fb10eb3a84fa6a261f510f85f76d4394.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S71TB067047/ea0ebf49c2c30cdbd5716ef5f673e86c.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S71TB067047/97fe95a68f16629b4476f46f07d21e4d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB3FX1S71TB067047/4eb71b98b8fb34845569c5fd979d1da7.jpg" />
+		</Images>
+		<Make>Geely</Make>
+		<Model>Atlas</Model>
+		<GenerationId>18767585</GenerationId>
+		<ModificationId>22531416</ModificationId>
+		<ComplectationId>22545337</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LB3FX1S71TB067047</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<VideoURL />
 		<VideoFileURL />
@@ -328,10 +409,10 @@
 		<VideoFileURL />
 	</Ad>
 	<Ad>
-		<Id>01e753a100a08aef518ac25d0aea80fc</Id>
+		<Id>e92c306a511778afe19f291c94a4f656</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
-		<Availability>в пути</Availability>
+		<Availability>в наличии</Availability>
 		<Category>Автомобили</Category>
 		<Description>Geely Партнер-Авто Самара это:
 
@@ -366,36 +447,18 @@
  Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
 
 * Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
-		<Price>3449990</Price>
-		<TradeinDiscount>260000</TradeinDiscount>
-		<CreditDiscount />
-		<InsuranceDiscount>506000</InsuranceDiscount>
-		<MaxDiscount>766000</MaxDiscount>
-		<Color>Белый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/LB3FX1S71TB067047/393a9532a8717924dd9f87b96b6c0cb3.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S71TB067047/bfd14e8519afc6c7004bb22f020e98a2.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S71TB067047/e8e885b44768cd8f83ae7b6c82873f84.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S71TB067047/4665c9364285cd28686c241aac3d0196.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S71TB067047/efb7c4066af8617e5cb1f1323bda6d10.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S71TB067047/a325476843ebab2573a02fe187e3c6a2.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S71TB067047/e0970297723ff58451884fc403671224.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S71TB067047/65a887db555f661ec60c9cdd4681439a.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S71TB067047/c088d708a261dd35d97e4c3aea8e6b92.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S71TB067047/020289469a3f68d93710bf086ba63fbe.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S71TB067047/9de5a6f3e3aa366a80d5917b77637ddd.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S71TB067047/9a320063e64e23143af2b7634e7b10d3.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S71TB067047/18e4fd013ef8d3e4e0a1f86581bfbd4e.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S71TB067047/fb10eb3a84fa6a261f510f85f76d4394.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S71TB067047/ea0ebf49c2c30cdbd5716ef5f673e86c.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S71TB067047/97fe95a68f16629b4476f46f07d21e4d.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3FX1S71TB067047/4eb71b98b8fb34845569c5fd979d1da7.jpg" />
-		</Images>
+		<Price>2849990</Price>
+		<TradeinDiscount>250000</TradeinDiscount>
+		<CreditDiscount>250000</CreditDiscount>
+		<InsuranceDiscount>50000</InsuranceDiscount>
+		<MaxDiscount>600000</MaxDiscount>
+		<Color>Серый</Color>
+		<Images />
 		<Make>Geely</Make>
-		<Model>Atlas</Model>
-		<GenerationId>18767585</GenerationId>
-		<ModificationId>22531416</ModificationId>
-		<ComplectationId>22545337</ComplectationId>
+		<Model>Cityray</Model>
+		<GenerationId>22127398</GenerationId>
+		<ModificationId>22127399</ModificationId>
+		<ComplectationId>22127400</ComplectationId>
 		<FuelType>Бензин</FuelType>
 		<Transmission>Робот</Transmission>
 		<Year>2026</Year>
@@ -403,7 +466,7 @@
 		<BodyType>Внедорожник</BodyType>
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
-		<VIN>LB3FX1S71TB067047</VIN>
+		<VIN>LB3G43S91TX408461</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<VideoURL />
 		<VideoFileURL />
@@ -467,69 +530,6 @@
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>LB3G43S95TX408253</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
-		<Id>aa9b5c32872e95b08dfc74d3a87fd2d4</Id>
-		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-		<CarType>Новые</CarType>
-		<Availability>в пути</Availability>
-		<Category>Автомобили</Category>
-		<Description>Geely Партнер-Авто Самара это:
-
-✔️  Прозрачные условия без скрытых финансовых продуктов.
-✔️  Справедливая и быстрая оценка вашего авто.
-✔️  Официальная гарантия 5 лет или 150 000 км — это спокойствие на долгие годы.
-✔️  Круглосуточная помощь на дороге с программой Belgee Помощь.
-✔️  Юридическая чистота — каждая сделка прозрачна.
-✔️  Персонализированные предложения для клиентов
-
-Специальные предложение до конца месяца:
- Выгода до 600 000 рублей на покупку автомобиля
- Дополнительное оборудование в подарок за визит в день обращения*
- Кредит от 0,01% со сроком до 8 лет
- 5 работ ТО в подарок
- Шинный отель на год
-
-Никакого ожидания - выбираете комплектацию, цвет, проходите тест-драйв в день обращения и забираете свой автомобиль с выгодой.
-
-Мы не просто продаем автомобили — мы сопровождаем:
-
-⚙️ Сервис, диагностика — полный цикл в одном месте.
-
-
- Адрес для осмотра: г. Самара, 24 км Московского шоссе, 3 строение 1
-
-Позвоните или напишите — подберем предложение под ваш бюджет  
-
-❤️ Добавьте объявление в избранное, чтобы не потерять актуальные условия — они ограничены по времени.
-
-
- Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
-
-* Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
-		<Price>2849990</Price>
-		<TradeinDiscount>250000</TradeinDiscount>
-		<CreditDiscount>250000</CreditDiscount>
-		<InsuranceDiscount>50000</InsuranceDiscount>
-		<MaxDiscount>600000</MaxDiscount>
-		<Color>Серый</Color>
-		<Images />
-		<Make>Geely</Make>
-		<Model>Cityray</Model>
-		<GenerationId>22127398</GenerationId>
-		<ModificationId>22127399</ModificationId>
-		<ComplectationId>22127400</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Робот</Transmission>
-		<Year>2026</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>LB3G43S91TX408461</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<VideoURL />
 		<VideoFileURL />
@@ -776,88 +776,6 @@
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>LB3G43S95TX406535</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
-		<Id>9d0ddf56d091e8b6619cb5885a839639</Id>
-		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>Geely Партнер-Авто Самара это:
-
-✔️  Прозрачные условия без скрытых финансовых продуктов.
-✔️  Справедливая и быстрая оценка вашего авто.
-✔️  Официальная гарантия 5 лет или 150 000 км — это спокойствие на долгие годы.
-✔️  Круглосуточная помощь на дороге с программой Belgee Помощь.
-✔️  Юридическая чистота — каждая сделка прозрачна.
-✔️  Персонализированные предложения для клиентов
-
-Специальные предложение до конца месяца:
- Выгода до 600 000 рублей на покупку автомобиля
- Дополнительное оборудование в подарок за визит в день обращения*
- Кредит от 0,01% со сроком до 8 лет
- 5 работ ТО в подарок
- Шинный отель на год
-
-Никакого ожидания - выбираете комплектацию, цвет, проходите тест-драйв в день обращения и забираете свой автомобиль с выгодой.
-
-Мы не просто продаем автомобили — мы сопровождаем:
-
-⚙️ Сервис, диагностика — полный цикл в одном месте.
-
-
- Адрес для осмотра: г. Самара, 24 км Московского шоссе, 3 строение 1
-
-Позвоните или напишите — подберем предложение под ваш бюджет  
-
-❤️ Добавьте объявление в избранное, чтобы не потерять актуальные условия — они ограничены по времени.
-
-
- Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
-
-* Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
-		<Price>3214990</Price>
-		<TradeinDiscount>400000</TradeinDiscount>
-		<CreditDiscount>260000</CreditDiscount>
-		<InsuranceDiscount />
-		<MaxDiscount>710000</MaxDiscount>
-		<Color>Серый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/LB3G43S9XTX404635/c578dd5c591de8221525cab716d2d13b.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S9XTX404635/b2ec464265f8d5b011decd143d39b5b3.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S9XTX404635/fe43baf594c07db23354003ecc27316a.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S9XTX404635/5c3bfae39ba8fe8d13efc486cfe8575e.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S9XTX404635/5d49d920238bb4e46d6e26d7f9ad7f1b.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S9XTX404635/21962dc117fdfb29abfc5ec5abcb1e2a.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S9XTX404635/27ef6860f2605e63f61b05f3b5a406c5.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S9XTX404635/1bcebac03cf86e7401e9b9cb7d3c9130.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S9XTX404635/56cf120e79044ba1a302e8e17279116e.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S9XTX404635/5e2dc7e5a82ba66600c221995427ff33.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S9XTX404635/064721bf633f117beadf9c55352604a9.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S9XTX404635/15b4514d37cefe47d78e69dabf106db9.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S9XTX404635/f3b2064c09b9063cc3e9254abd4c0415.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S9XTX404635/757e00ee4b245899e33fd08ebdce295f.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S9XTX404635/a253581f59b1050e3e6042137ad41b2f.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S9XTX404635/84ba15b8e159464379761fca0c05470f.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S9XTX404635/05af727e6cdd1876ef3ea5f587dc7c7b.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB3G43S9XTX404635/44fbe4dc61f8c3c002d4d253796b7f47.jpg" />
-		</Images>
-		<Make>Geely</Make>
-		<Model>Cityray</Model>
-		<GenerationId>22127398</GenerationId>
-		<ModificationId>22127399</ModificationId>
-		<ComplectationId>22127401</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Робот</Transmission>
-		<Year>2026</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>LB3G43S9XTX404635</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<VideoURL />
 		<VideoFileURL />
@@ -1274,89 +1192,6 @@
 		<VideoFileURL />
 	</Ad>
 	<Ad>
-		<Id>140f15810d9d79d9e53af1bff8ada96f</Id>
-		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-		<CarType>Новые</CarType>
-		<Availability>в пути</Availability>
-		<Category>Автомобили</Category>
-		<Description>Geely Партнер-Авто Самара это:
-
-✔️  Прозрачные условия без скрытых финансовых продуктов.
-✔️  Справедливая и быстрая оценка вашего авто.
-✔️  Официальная гарантия 5 лет или 150 000 км — это спокойствие на долгие годы.
-✔️  Круглосуточная помощь на дороге с программой Belgee Помощь.
-✔️  Юридическая чистота — каждая сделка прозрачна.
-✔️  Персонализированные предложения для клиентов
-
-Специальные предложение до конца месяца:
- Выгода до 600 000 рублей на покупку автомобиля
- Дополнительное оборудование в подарок за визит в день обращения*
- Кредит от 0,01% со сроком до 8 лет
- 5 работ ТО в подарок
- Шинный отель на год
-
-Никакого ожидания - выбираете комплектацию, цвет, проходите тест-драйв в день обращения и забираете свой автомобиль с выгодой.
-
-Мы не просто продаем автомобили — мы сопровождаем:
-
-⚙️ Сервис, диагностика — полный цикл в одном месте.
-
-
- Адрес для осмотра: г. Самара, 24 км Московского шоссе, 3 строение 1
-
-Позвоните или напишите — подберем предложение под ваш бюджет  
-
-❤️ Добавьте объявление в избранное, чтобы не потерять актуальные условия — они ограничены по времени.
-
-
- Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
-
-* Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
-		<Price>4899990</Price>
-		<TradeinDiscount>415000</TradeinDiscount>
-		<CreditDiscount>434000</CreditDiscount>
-		<InsuranceDiscount />
-		<MaxDiscount>949000</MaxDiscount>
-		<Color>Белый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/LB37852D0TS047628/3a7ff37e29b01605867e25e632b68411.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D0TS047628/f7f4807e6dedfe40896b4e9b9a3b6c28.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D0TS047628/e8ba4e4e9cef8adc8f186d375f9d1499.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D0TS047628/fb5576057405be40f8f0f831d66865f8.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D0TS047628/7c283dca48bc2ec141e73f5a2573f027.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D0TS047628/45b263e086c2c04aea6eadd5d16f2463.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D0TS047628/d1c01a5cde01d02a532db848079b7e6a.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D0TS047628/e9914c6ec61afce7dac3ca78a9be33ed.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D0TS047628/f7ca45db813145dbcfe4c8747474532d.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D0TS047628/87a7b215ca614277ed4f45d3d9166429.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D0TS047628/b42619c6a5bf5c18727b3885620eda1d.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D0TS047628/99f8ba128e044b0b55ee7a4e45c9f3ae.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D0TS047628/5575b0ff40aa1a642658e9454ee95bdf.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D0TS047628/85ffc8c9570edced0fc88d1f7e5555cb.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D0TS047628/4339d65be5287dcff738cc0b44f9d0dc.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D0TS047628/0897aac67087ce348566e861adcf66c6.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D0TS047628/72dee8b10b50e1e6e89e325eda2e1a2c.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D0TS047628/55249bad66f2bab5adc42331996e2227.jpg" />
-			<Image url="https://photo.toyotasever.ru/LB37852D0TS047628/9c3648f06725527756f8ae8cc4246777.jpg" />
-		</Images>
-		<Make>Geely</Make>
-		<Model>Monjaro</Model>
-		<GenerationId>17481670</GenerationId>
-		<ModificationId>17481675</ModificationId>
-		<ComplectationId>22507842</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Автомат</Transmission>
-		<Year>2026</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Полный</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>LB37852D0TS047628</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
 		<Id>b386049324585d16014f3e43659897e3</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
@@ -1435,6 +1270,89 @@
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>LB37852D9TS044355</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>140f15810d9d79d9e53af1bff8ada96f</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в пути</Availability>
+		<Category>Автомобили</Category>
+		<Description>Geely Партнер-Авто Самара это:
+
+✔️  Прозрачные условия без скрытых финансовых продуктов.
+✔️  Справедливая и быстрая оценка вашего авто.
+✔️  Официальная гарантия 5 лет или 150 000 км — это спокойствие на долгие годы.
+✔️  Круглосуточная помощь на дороге с программой Belgee Помощь.
+✔️  Юридическая чистота — каждая сделка прозрачна.
+✔️  Персонализированные предложения для клиентов
+
+Специальные предложение до конца месяца:
+ Выгода до 600 000 рублей на покупку автомобиля
+ Дополнительное оборудование в подарок за визит в день обращения*
+ Кредит от 0,01% со сроком до 8 лет
+ 5 работ ТО в подарок
+ Шинный отель на год
+
+Никакого ожидания - выбираете комплектацию, цвет, проходите тест-драйв в день обращения и забираете свой автомобиль с выгодой.
+
+Мы не просто продаем автомобили — мы сопровождаем:
+
+⚙️ Сервис, диагностика — полный цикл в одном месте.
+
+
+ Адрес для осмотра: г. Самара, 24 км Московского шоссе, 3 строение 1
+
+Позвоните или напишите — подберем предложение под ваш бюджет  
+
+❤️ Добавьте объявление в избранное, чтобы не потерять актуальные условия — они ограничены по времени.
+
+
+ Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
+
+* Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
+		<Price>4899990</Price>
+		<TradeinDiscount>415000</TradeinDiscount>
+		<CreditDiscount>434000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>949000</MaxDiscount>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS047628/3a7ff37e29b01605867e25e632b68411.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS047628/f7f4807e6dedfe40896b4e9b9a3b6c28.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS047628/e8ba4e4e9cef8adc8f186d375f9d1499.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS047628/fb5576057405be40f8f0f831d66865f8.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS047628/7c283dca48bc2ec141e73f5a2573f027.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS047628/45b263e086c2c04aea6eadd5d16f2463.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS047628/d1c01a5cde01d02a532db848079b7e6a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS047628/e9914c6ec61afce7dac3ca78a9be33ed.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS047628/f7ca45db813145dbcfe4c8747474532d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS047628/87a7b215ca614277ed4f45d3d9166429.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS047628/b42619c6a5bf5c18727b3885620eda1d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS047628/99f8ba128e044b0b55ee7a4e45c9f3ae.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS047628/5575b0ff40aa1a642658e9454ee95bdf.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS047628/85ffc8c9570edced0fc88d1f7e5555cb.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS047628/4339d65be5287dcff738cc0b44f9d0dc.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS047628/0897aac67087ce348566e861adcf66c6.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS047628/72dee8b10b50e1e6e89e325eda2e1a2c.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS047628/55249bad66f2bab5adc42331996e2227.jpg" />
+			<Image url="https://photo.toyotasever.ru/LB37852D0TS047628/9c3648f06725527756f8ae8cc4246777.jpg" />
+		</Images>
+		<Make>Geely</Make>
+		<Model>Monjaro</Model>
+		<GenerationId>17481670</GenerationId>
+		<ModificationId>17481675</ModificationId>
+		<ComplectationId>22507842</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LB37852D0TS047628</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<VideoURL />
 		<VideoFileURL />
@@ -1901,88 +1819,6 @@
 		<VideoFileURL />
 	</Ad>
 	<Ad>
-		<Id>99f632ba1c546f4dad48c93f7f7116df</Id>
-		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>Geely Партнер-Авто Самара это:
-
-✔️  Прозрачные условия без скрытых финансовых продуктов.
-✔️  Справедливая и быстрая оценка вашего авто.
-✔️  Официальная гарантия 5 лет или 150 000 км — это спокойствие на долгие годы.
-✔️  Круглосуточная помощь на дороге с программой Belgee Помощь.
-✔️  Юридическая чистота — каждая сделка прозрачна.
-✔️  Персонализированные предложения для клиентов
-
-Специальные предложение до конца месяца:
- Выгода до 600 000 рублей на покупку автомобиля
- Дополнительное оборудование в подарок за визит в день обращения*
- Кредит от 0,01% со сроком до 8 лет
- 5 работ ТО в подарок
- Шинный отель на год
-
-Никакого ожидания - выбираете комплектацию, цвет, проходите тест-драйв в день обращения и забираете свой автомобиль с выгодой.
-
-Мы не просто продаем автомобили — мы сопровождаем:
-
-⚙️ Сервис, диагностика — полный цикл в одном месте.
-
-
- Адрес для осмотра: г. Самара, 24 км Московского шоссе, 3 строение 1
-
-Позвоните или напишите — подберем предложение под ваш бюджет  
-
-❤️ Добавьте объявление в избранное, чтобы не потерять актуальные условия — они ограничены по времени.
-
-
- Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
-
-* Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
-		<Price>3429990</Price>
-		<TradeinDiscount>300000</TradeinDiscount>
-		<CreditDiscount>200000</CreditDiscount>
-		<InsuranceDiscount>130990</InsuranceDiscount>
-		<MaxDiscount>630990</MaxDiscount>
-		<Color>Белый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/L6TFS1S84TD003107/0b08a2ae4bd4c393a17cc262468dc572.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TFS1S84TD003107/68cdc5009280813f1dfa0c1f430ad95d.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TFS1S84TD003107/f15ce2303fe7ae52f87c9ef8e9ce440a.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TFS1S84TD003107/62887b8799b242152f3def80a508ebb0.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TFS1S84TD003107/bd06b2ea6b002db4ba1a738a65546830.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TFS1S84TD003107/d9c3d2d016ac262ee58831face71b990.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TFS1S84TD003107/7c01e26f67eb98cef87d6317e505bcab.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TFS1S84TD003107/b09e8d42eae7d729187c492c93df9669.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TFS1S84TD003107/293009cd31ef19e7027a3fd99a6ecf25.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TFS1S84TD003107/de1b63a09b5a2cb610311fe5fbbb152d.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TFS1S84TD003107/28d5785a8bfa890331c6740a0e56955f.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TFS1S84TD003107/3a7254b38649e1fcda76c12083eeaa76.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TFS1S84TD003107/7d548965ae89095fc0e09f0b41fe1ee0.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TFS1S84TD003107/a1b72c46ec35c563379b9811c2e18ef2.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TFS1S84TD003107/b154834425f3a9699e558f777878f87d.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TFS1S84TD003107/0b48ce1775febced8a8f61acee868a89.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TFS1S84TD003107/2780688afe63259f2878c33166928700.jpg" />
-			<Image url="https://photo.toyotasever.ru/L6TFS1S84TD003107/4f236cf9148cd96084f2f4020c6e7a8d.jpg" />
-		</Images>
-		<Make>Geely</Make>
-		<Model>Preface</Model>
-		<GenerationId>22072566</GenerationId>
-		<ModificationId>22571292</ModificationId>
-		<ComplectationId>22571294</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Робот</Transmission>
-		<Year>2025</Year>
-		<Doors>4</Doors>
-		<BodyType>Седан</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>L6TFS1S84TD003107</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
 		<Id>07f2aba9cd1535097dd4f07c1f6233c6</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
@@ -2060,6 +1896,88 @@
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>L6TFS1S82TD027597</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>99f632ba1c546f4dad48c93f7f7116df</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Geely Партнер-Авто Самара это:
+
+✔️  Прозрачные условия без скрытых финансовых продуктов.
+✔️  Справедливая и быстрая оценка вашего авто.
+✔️  Официальная гарантия 5 лет или 150 000 км — это спокойствие на долгие годы.
+✔️  Круглосуточная помощь на дороге с программой Belgee Помощь.
+✔️  Юридическая чистота — каждая сделка прозрачна.
+✔️  Персонализированные предложения для клиентов
+
+Специальные предложение до конца месяца:
+ Выгода до 600 000 рублей на покупку автомобиля
+ Дополнительное оборудование в подарок за визит в день обращения*
+ Кредит от 0,01% со сроком до 8 лет
+ 5 работ ТО в подарок
+ Шинный отель на год
+
+Никакого ожидания - выбираете комплектацию, цвет, проходите тест-драйв в день обращения и забираете свой автомобиль с выгодой.
+
+Мы не просто продаем автомобили — мы сопровождаем:
+
+⚙️ Сервис, диагностика — полный цикл в одном месте.
+
+
+ Адрес для осмотра: г. Самара, 24 км Московского шоссе, 3 строение 1
+
+Позвоните или напишите — подберем предложение под ваш бюджет  
+
+❤️ Добавьте объявление в избранное, чтобы не потерять актуальные условия — они ограничены по времени.
+
+
+ Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
+
+* Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
+		<Price>3429990</Price>
+		<TradeinDiscount>300000</TradeinDiscount>
+		<CreditDiscount>200000</CreditDiscount>
+		<InsuranceDiscount>130990</InsuranceDiscount>
+		<MaxDiscount>630990</MaxDiscount>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/L6TFS1S84TD003107/0b08a2ae4bd4c393a17cc262468dc572.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S84TD003107/68cdc5009280813f1dfa0c1f430ad95d.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S84TD003107/f15ce2303fe7ae52f87c9ef8e9ce440a.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S84TD003107/62887b8799b242152f3def80a508ebb0.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S84TD003107/bd06b2ea6b002db4ba1a738a65546830.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S84TD003107/d9c3d2d016ac262ee58831face71b990.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S84TD003107/7c01e26f67eb98cef87d6317e505bcab.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S84TD003107/b09e8d42eae7d729187c492c93df9669.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S84TD003107/293009cd31ef19e7027a3fd99a6ecf25.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S84TD003107/de1b63a09b5a2cb610311fe5fbbb152d.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S84TD003107/28d5785a8bfa890331c6740a0e56955f.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S84TD003107/3a7254b38649e1fcda76c12083eeaa76.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S84TD003107/7d548965ae89095fc0e09f0b41fe1ee0.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S84TD003107/a1b72c46ec35c563379b9811c2e18ef2.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S84TD003107/b154834425f3a9699e558f777878f87d.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S84TD003107/0b48ce1775febced8a8f61acee868a89.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S84TD003107/2780688afe63259f2878c33166928700.jpg" />
+			<Image url="https://photo.toyotasever.ru/L6TFS1S84TD003107/4f236cf9148cd96084f2f4020c6e7a8d.jpg" />
+		</Images>
+		<Make>Geely</Make>
+		<Model>Preface</Model>
+		<GenerationId>22072566</GenerationId>
+		<ModificationId>22571292</ModificationId>
+		<ComplectationId>22571294</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2025</Year>
+		<Doors>4</Doors>
+		<BodyType>Седан</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>L6TFS1S84TD003107</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<VideoURL />
 		<VideoFileURL />
