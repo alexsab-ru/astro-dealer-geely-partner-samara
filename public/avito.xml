@@ -1,5 +1,68 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Ads><Ad>
+		<Id>f67cbc2f9372a502be96f2e5879aace7</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в пути</Availability>
+		<Category>Автомобили</Category>
+		<Description>Geely Партнер-Авто Самара это:
+
+✔️  Прозрачные условия без скрытых финансовых продуктов.
+✔️  Справедливая и быстрая оценка вашего авто.
+✔️  Официальная гарантия 5 лет или 150 000 км — это спокойствие на долгие годы.
+✔️  Круглосуточная помощь на дороге с программой Belgee Помощь.
+✔️  Юридическая чистота — каждая сделка прозрачна.
+✔️  Персонализированные предложения для клиентов
+
+Специальные предложение до конца месяца:
+ Выгода до 600 000 рублей на покупку автомобиля
+ Дополнительное оборудование в подарок за визит в день обращения*
+ Кредит от 0,01% со сроком до 8 лет
+ 5 работ ТО в подарок
+ Шинный отель на год
+
+Никакого ожидания - выбираете комплектацию, цвет, проходите тест-драйв в день обращения и забираете свой автомобиль с выгодой.
+
+Мы не просто продаем автомобили — мы сопровождаем:
+
+⚙️ Сервис, диагностика — полный цикл в одном месте.
+
+
+ Адрес для осмотра: г. Самара, 24 км Московского шоссе, 3 строение 1
+
+Позвоните или напишите — подберем предложение под ваш бюджет  
+
+❤️ Добавьте объявление в избранное, чтобы не потерять актуальные условия — они ограничены по времени.
+
+
+ Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
+
+* Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
+		<Price>4119990</Price>
+		<TradeinDiscount>263000</TradeinDiscount>
+		<CreditDiscount>355000</CreditDiscount>
+		<InsuranceDiscount>90000</InsuranceDiscount>
+		<MaxDiscount>908000</MaxDiscount>
+		<Color>Черный</Color>
+		<Images />
+		<Make>Geely</Make>
+		<Model>Atlas</Model>
+		<GenerationId>18767585</GenerationId>
+		<ModificationId>22045603</ModificationId>
+		<ComplectationId>22045604</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LB3FX1S15TB079200</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
 		<Id>c841fb0d528fc6883685a7e412a420f1</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
@@ -39,10 +102,10 @@
 
 * Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
 		<Price>3449990</Price>
-		<TradeinDiscount />
+		<TradeinDiscount>260000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount>506000</InsuranceDiscount>
-		<MaxDiscount>506000</MaxDiscount>
+		<MaxDiscount>766000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LB3FX1S71TB067047/393a9532a8717924dd9f87b96b6c0cb3.jpg" />
@@ -120,10 +183,10 @@
 
 * Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
 		<Price>3449990</Price>
-		<TradeinDiscount />
+		<TradeinDiscount>260000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount>506000</InsuranceDiscount>
-		<MaxDiscount>506000</MaxDiscount>
+		<MaxDiscount>766000</MaxDiscount>
 		<Color>Зеленый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LB3FX1S77TB048468/7380b4b4e0320dbf2e9ea41b23a63aa7.jpg" />
@@ -203,10 +266,10 @@
 
 * Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
 		<Price>3449990</Price>
-		<TradeinDiscount />
+		<TradeinDiscount>260000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount>506000</InsuranceDiscount>
-		<MaxDiscount>506000</MaxDiscount>
+		<MaxDiscount>766000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LB3FX1S7XTB029011/971ce5f2f2f95035b4416c8e7d46e58d.jpg" />
@@ -284,10 +347,10 @@
 
 * Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
 		<Price>3449990</Price>
-		<TradeinDiscount />
+		<TradeinDiscount>260000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount>506000</InsuranceDiscount>
-		<MaxDiscount>506000</MaxDiscount>
+		<MaxDiscount>766000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LB3FX1S7XTB067029/9690ff5b8951559f72dcac2a0eea6cc9.jpg" />
@@ -364,7 +427,7 @@
  Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
 
 * Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
-		<Price>3214990</Price>
+		<Price>3219990</Price>
 		<TradeinDiscount>400000</TradeinDiscount>
 		<CreditDiscount>260000</CreditDiscount>
 		<InsuranceDiscount>30000</InsuranceDiscount>
@@ -447,7 +510,7 @@
  Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
 
 * Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
-		<Price>3214990</Price>
+		<Price>3219990</Price>
 		<TradeinDiscount>400000</TradeinDiscount>
 		<CreditDiscount>260000</CreditDiscount>
 		<InsuranceDiscount>30000</InsuranceDiscount>
@@ -529,7 +592,7 @@
  Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
 
 * Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
-		<Price>3254990</Price>
+		<Price>3259990</Price>
 		<TradeinDiscount>220000</TradeinDiscount>
 		<CreditDiscount>200000</CreditDiscount>
 		<InsuranceDiscount>100000</InsuranceDiscount>
@@ -573,6 +636,195 @@
 		<VideoFileURL />
 	</Ad>
 	<Ad>
+		<Id>d267b4824a3f4e50ced78ae74ab79a64</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в пути</Availability>
+		<Category>Автомобили</Category>
+		<Description>Geely Партнер-Авто Самара это:
+
+✔️  Прозрачные условия без скрытых финансовых продуктов.
+✔️  Справедливая и быстрая оценка вашего авто.
+✔️  Официальная гарантия 5 лет или 150 000 км — это спокойствие на долгие годы.
+✔️  Круглосуточная помощь на дороге с программой Belgee Помощь.
+✔️  Юридическая чистота — каждая сделка прозрачна.
+✔️  Персонализированные предложения для клиентов
+
+Специальные предложение до конца месяца:
+ Выгода до 600 000 рублей на покупку автомобиля
+ Дополнительное оборудование в подарок за визит в день обращения*
+ Кредит от 0,01% со сроком до 8 лет
+ 5 работ ТО в подарок
+ Шинный отель на год
+
+Никакого ожидания - выбираете комплектацию, цвет, проходите тест-драйв в день обращения и забираете свой автомобиль с выгодой.
+
+Мы не просто продаем автомобили — мы сопровождаем:
+
+⚙️ Сервис, диагностика — полный цикл в одном месте.
+
+
+ Адрес для осмотра: г. Самара, 24 км Московского шоссе, 3 строение 1
+
+Позвоните или напишите — подберем предложение под ваш бюджет  
+
+❤️ Добавьте объявление в избранное, чтобы не потерять актуальные условия — они ограничены по времени.
+
+
+ Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
+
+* Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
+		<Price>3259990</Price>
+		<TradeinDiscount>220000</TradeinDiscount>
+		<CreditDiscount>200000</CreditDiscount>
+		<InsuranceDiscount>100000</InsuranceDiscount>
+		<MaxDiscount>734190</MaxDiscount>
+		<Color>Серебряный</Color>
+		<Images />
+		<Make>Geely</Make>
+		<Model>Cityray</Model>
+		<GenerationId>22127398</GenerationId>
+		<ModificationId>22127399</ModificationId>
+		<ComplectationId>22127402</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LB3G43S94TX410026</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>4531ac502fa09deb19564aebd49d07f2</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в пути</Availability>
+		<Category>Автомобили</Category>
+		<Description>Geely Партнер-Авто Самара это:
+
+✔️  Прозрачные условия без скрытых финансовых продуктов.
+✔️  Справедливая и быстрая оценка вашего авто.
+✔️  Официальная гарантия 5 лет или 150 000 км — это спокойствие на долгие годы.
+✔️  Круглосуточная помощь на дороге с программой Belgee Помощь.
+✔️  Юридическая чистота — каждая сделка прозрачна.
+✔️  Персонализированные предложения для клиентов
+
+Специальные предложение до конца месяца:
+ Выгода до 600 000 рублей на покупку автомобиля
+ Дополнительное оборудование в подарок за визит в день обращения*
+ Кредит от 0,01% со сроком до 8 лет
+ 5 работ ТО в подарок
+ Шинный отель на год
+
+Никакого ожидания - выбираете комплектацию, цвет, проходите тест-драйв в день обращения и забираете свой автомобиль с выгодой.
+
+Мы не просто продаем автомобили — мы сопровождаем:
+
+⚙️ Сервис, диагностика — полный цикл в одном месте.
+
+
+ Адрес для осмотра: г. Самара, 24 км Московского шоссе, 3 строение 1
+
+Позвоните или напишите — подберем предложение под ваш бюджет  
+
+❤️ Добавьте объявление в избранное, чтобы не потерять актуальные условия — они ограничены по времени.
+
+
+ Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
+
+* Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
+		<Price>3259990</Price>
+		<TradeinDiscount>220000</TradeinDiscount>
+		<CreditDiscount>200000</CreditDiscount>
+		<InsuranceDiscount>100000</InsuranceDiscount>
+		<MaxDiscount>734190</MaxDiscount>
+		<Color>Серый</Color>
+		<Images />
+		<Make>Geely</Make>
+		<Model>Cityray</Model>
+		<GenerationId>22127398</GenerationId>
+		<ModificationId>22127399</ModificationId>
+		<ComplectationId>22127402</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LB3G43S9XTX411164</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>c942904e928387acabbeb009aff5d1c1</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в пути</Availability>
+		<Category>Автомобили</Category>
+		<Description>Geely Партнер-Авто Самара это:
+
+✔️  Прозрачные условия без скрытых финансовых продуктов.
+✔️  Справедливая и быстрая оценка вашего авто.
+✔️  Официальная гарантия 5 лет или 150 000 км — это спокойствие на долгие годы.
+✔️  Круглосуточная помощь на дороге с программой Belgee Помощь.
+✔️  Юридическая чистота — каждая сделка прозрачна.
+✔️  Персонализированные предложения для клиентов
+
+Специальные предложение до конца месяца:
+ Выгода до 600 000 рублей на покупку автомобиля
+ Дополнительное оборудование в подарок за визит в день обращения*
+ Кредит от 0,01% со сроком до 8 лет
+ 5 работ ТО в подарок
+ Шинный отель на год
+
+Никакого ожидания - выбираете комплектацию, цвет, проходите тест-драйв в день обращения и забираете свой автомобиль с выгодой.
+
+Мы не просто продаем автомобили — мы сопровождаем:
+
+⚙️ Сервис, диагностика — полный цикл в одном месте.
+
+
+ Адрес для осмотра: г. Самара, 24 км Московского шоссе, 3 строение 1
+
+Позвоните или напишите — подберем предложение под ваш бюджет  
+
+❤️ Добавьте объявление в избранное, чтобы не потерять актуальные условия — они ограничены по времени.
+
+
+ Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
+
+* Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
+		<Price>3259990</Price>
+		<TradeinDiscount>220000</TradeinDiscount>
+		<CreditDiscount>200000</CreditDiscount>
+		<InsuranceDiscount>100000</InsuranceDiscount>
+		<MaxDiscount>734190</MaxDiscount>
+		<Color>Серый</Color>
+		<Images />
+		<Make>Geely</Make>
+		<Model>Cityray</Model>
+		<GenerationId>22127398</GenerationId>
+		<ModificationId>22127399</ModificationId>
+		<ComplectationId>22127402</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LB3G43S98TX411177</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
 		<Id>888fa504a8e42036a524df960876c46c</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
@@ -611,7 +863,7 @@
  Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
 
 * Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
-		<Price>3094990</Price>
+		<Price>3099990</Price>
 		<TradeinDiscount>400000</TradeinDiscount>
 		<CreditDiscount>260000</CreditDiscount>
 		<InsuranceDiscount>30000</InsuranceDiscount>
@@ -694,7 +946,7 @@
  Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
 
 * Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
-		<Price>3094990</Price>
+		<Price>3099990</Price>
 		<TradeinDiscount>400000</TradeinDiscount>
 		<CreditDiscount>260000</CreditDiscount>
 		<InsuranceDiscount>30000</InsuranceDiscount>
@@ -757,7 +1009,7 @@
  Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
 
 * Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
-		<Price>3094990</Price>
+		<Price>3099990</Price>
 		<TradeinDiscount>400000</TradeinDiscount>
 		<CreditDiscount>260000</CreditDiscount>
 		<InsuranceDiscount>30000</InsuranceDiscount>
@@ -839,7 +1091,7 @@
  Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
 
 * Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
-		<Price>4899990</Price>
+		<Price>4904990</Price>
 		<TradeinDiscount>415000</TradeinDiscount>
 		<CreditDiscount>434000</CreditDiscount>
 		<InsuranceDiscount />
@@ -922,7 +1174,7 @@
  Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
 
 * Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
-		<Price>4899990</Price>
+		<Price>4904990</Price>
 		<TradeinDiscount>415000</TradeinDiscount>
 		<CreditDiscount>434000</CreditDiscount>
 		<InsuranceDiscount />
@@ -1005,7 +1257,7 @@
  Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
 
 * Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
-		<Price>4899990</Price>
+		<Price>4904990</Price>
 		<TradeinDiscount>415000</TradeinDiscount>
 		<CreditDiscount>434000</CreditDiscount>
 		<InsuranceDiscount />
@@ -1088,7 +1340,7 @@
  Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
 
 * Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
-		<Price>4899990</Price>
+		<Price>4904990</Price>
 		<TradeinDiscount>415000</TradeinDiscount>
 		<CreditDiscount>434000</CreditDiscount>
 		<InsuranceDiscount />
@@ -1132,6 +1384,132 @@
 		<VideoFileURL />
 	</Ad>
 	<Ad>
+		<Id>4382486ae1e654f9be5602bf143f7154</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в пути</Availability>
+		<Category>Автомобили</Category>
+		<Description>Geely Партнер-Авто Самара это:
+
+✔️  Прозрачные условия без скрытых финансовых продуктов.
+✔️  Справедливая и быстрая оценка вашего авто.
+✔️  Официальная гарантия 5 лет или 150 000 км — это спокойствие на долгие годы.
+✔️  Круглосуточная помощь на дороге с программой Belgee Помощь.
+✔️  Юридическая чистота — каждая сделка прозрачна.
+✔️  Персонализированные предложения для клиентов
+
+Специальные предложение до конца месяца:
+ Выгода до 600 000 рублей на покупку автомобиля
+ Дополнительное оборудование в подарок за визит в день обращения*
+ Кредит от 0,01% со сроком до 8 лет
+ 5 работ ТО в подарок
+ Шинный отель на год
+
+Никакого ожидания - выбираете комплектацию, цвет, проходите тест-драйв в день обращения и забираете свой автомобиль с выгодой.
+
+Мы не просто продаем автомобили — мы сопровождаем:
+
+⚙️ Сервис, диагностика — полный цикл в одном месте.
+
+
+ Адрес для осмотра: г. Самара, 24 км Московского шоссе, 3 строение 1
+
+Позвоните или напишите — подберем предложение под ваш бюджет  
+
+❤️ Добавьте объявление в избранное, чтобы не потерять актуальные условия — они ограничены по времени.
+
+
+ Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
+
+* Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
+		<Price>4904990</Price>
+		<TradeinDiscount>415000</TradeinDiscount>
+		<CreditDiscount>434000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>949000</MaxDiscount>
+		<Color>Серый</Color>
+		<Images />
+		<Make>Geely</Make>
+		<Model>Monjaro</Model>
+		<GenerationId>17481670</GenerationId>
+		<ModificationId>17481675</ModificationId>
+		<ComplectationId>22507842</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LB37852D8TS079582</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>a1b3fb889811461dd33d0d9ed0f710ff</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в пути</Availability>
+		<Category>Автомобили</Category>
+		<Description>Geely Партнер-Авто Самара это:
+
+✔️  Прозрачные условия без скрытых финансовых продуктов.
+✔️  Справедливая и быстрая оценка вашего авто.
+✔️  Официальная гарантия 5 лет или 150 000 км — это спокойствие на долгие годы.
+✔️  Круглосуточная помощь на дороге с программой Belgee Помощь.
+✔️  Юридическая чистота — каждая сделка прозрачна.
+✔️  Персонализированные предложения для клиентов
+
+Специальные предложение до конца месяца:
+ Выгода до 600 000 рублей на покупку автомобиля
+ Дополнительное оборудование в подарок за визит в день обращения*
+ Кредит от 0,01% со сроком до 8 лет
+ 5 работ ТО в подарок
+ Шинный отель на год
+
+Никакого ожидания - выбираете комплектацию, цвет, проходите тест-драйв в день обращения и забираете свой автомобиль с выгодой.
+
+Мы не просто продаем автомобили — мы сопровождаем:
+
+⚙️ Сервис, диагностика — полный цикл в одном месте.
+
+
+ Адрес для осмотра: г. Самара, 24 км Московского шоссе, 3 строение 1
+
+Позвоните или напишите — подберем предложение под ваш бюджет  
+
+❤️ Добавьте объявление в избранное, чтобы не потерять актуальные условия — они ограничены по времени.
+
+
+ Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
+
+* Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
+		<Price>4904990</Price>
+		<TradeinDiscount>415000</TradeinDiscount>
+		<CreditDiscount>434000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>949000</MaxDiscount>
+		<Color>Серый</Color>
+		<Images />
+		<Make>Geely</Make>
+		<Model>Monjaro</Model>
+		<GenerationId>17481670</GenerationId>
+		<ModificationId>17481675</ModificationId>
+		<ComplectationId>22507842</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LB37852D3TS079635</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
 		<Id>e2d7302f2c5721103fbe8895e5122394</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
@@ -1170,7 +1548,7 @@
  Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
 
 * Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
-		<Price>4899990</Price>
+		<Price>4904990</Price>
 		<TradeinDiscount>415000</TradeinDiscount>
 		<CreditDiscount>434000</CreditDiscount>
 		<InsuranceDiscount />
@@ -1217,6 +1595,69 @@
 		<VideoFileURL />
 	</Ad>
 	<Ad>
+		<Id>9e629b715297f0da7709c2c46e7d8c74</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в пути</Availability>
+		<Category>Автомобили</Category>
+		<Description>Geely Партнер-Авто Самара это:
+
+✔️  Прозрачные условия без скрытых финансовых продуктов.
+✔️  Справедливая и быстрая оценка вашего авто.
+✔️  Официальная гарантия 5 лет или 150 000 км — это спокойствие на долгие годы.
+✔️  Круглосуточная помощь на дороге с программой Belgee Помощь.
+✔️  Юридическая чистота — каждая сделка прозрачна.
+✔️  Персонализированные предложения для клиентов
+
+Специальные предложение до конца месяца:
+ Выгода до 600 000 рублей на покупку автомобиля
+ Дополнительное оборудование в подарок за визит в день обращения*
+ Кредит от 0,01% со сроком до 8 лет
+ 5 работ ТО в подарок
+ Шинный отель на год
+
+Никакого ожидания - выбираете комплектацию, цвет, проходите тест-драйв в день обращения и забираете свой автомобиль с выгодой.
+
+Мы не просто продаем автомобили — мы сопровождаем:
+
+⚙️ Сервис, диагностика — полный цикл в одном месте.
+
+
+ Адрес для осмотра: г. Самара, 24 км Московского шоссе, 3 строение 1
+
+Позвоните или напишите — подберем предложение под ваш бюджет  
+
+❤️ Добавьте объявление в избранное, чтобы не потерять актуальные условия — они ограничены по времени.
+
+
+ Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
+
+* Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
+		<Price>4904990</Price>
+		<TradeinDiscount>415000</TradeinDiscount>
+		<CreditDiscount>434000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>949000</MaxDiscount>
+		<Color>Серый</Color>
+		<Images />
+		<Make>Geely</Make>
+		<Model>Monjaro</Model>
+		<GenerationId>17481670</GenerationId>
+		<ModificationId>17481675</ModificationId>
+		<ComplectationId>22507842</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LB37852D7TS078245</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
 		<Id>9ea8e91bd0920c4f3c079270a4d06eb5</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
@@ -1256,10 +1697,10 @@
 
 * Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
 		<Price>4599990</Price>
-		<TradeinDiscount />
+		<TradeinDiscount>250000</TradeinDiscount>
 		<CreditDiscount>300000</CreditDiscount>
 		<InsuranceDiscount>200000</InsuranceDiscount>
-		<MaxDiscount>500000</MaxDiscount>
+		<MaxDiscount>750000</MaxDiscount>
 		<Color>Серый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LB37852D1TS044897/3694d57d5bb6b446a46d42c9e53abb76.jpg" />
@@ -1338,7 +1779,7 @@
  Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
 
 * Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
-		<Price>3988990</Price>
+		<Price>3993990</Price>
 		<TradeinDiscount>480800</TradeinDiscount>
 		<CreditDiscount>305000</CreditDiscount>
 		<InsuranceDiscount>70000</InsuranceDiscount>
@@ -1421,7 +1862,7 @@
  Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
 
 * Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
-		<Price>3429990</Price>
+		<Price>3434990</Price>
 		<TradeinDiscount>300000</TradeinDiscount>
 		<CreditDiscount>200000</CreditDiscount>
 		<InsuranceDiscount>160990</InsuranceDiscount>
@@ -1503,7 +1944,7 @@
  Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
 
 * Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
-		<Price>3429990</Price>
+		<Price>3434990</Price>
 		<TradeinDiscount>300000</TradeinDiscount>
 		<CreditDiscount>200000</CreditDiscount>
 		<InsuranceDiscount>160990</InsuranceDiscount>
@@ -1585,7 +2026,7 @@
  Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
 
 * Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
-		<Price>3429990</Price>
+		<Price>3434990</Price>
 		<TradeinDiscount>300000</TradeinDiscount>
 		<CreditDiscount>200000</CreditDiscount>
 		<InsuranceDiscount>160990</InsuranceDiscount>
@@ -1667,7 +2108,7 @@
  Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
 
 * Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
-		<Price>3429990</Price>
+		<Price>3434990</Price>
 		<TradeinDiscount>300000</TradeinDiscount>
 		<CreditDiscount>200000</CreditDiscount>
 		<InsuranceDiscount>160990</InsuranceDiscount>
