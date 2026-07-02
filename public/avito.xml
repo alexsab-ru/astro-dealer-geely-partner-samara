@@ -1117,8 +1117,8 @@
 		<Price>2894990</Price>
 		<TradeinDiscount>150000</TradeinDiscount>
 		<CreditDiscount />
-		<InsuranceDiscount />
-		<MaxDiscount>150000</MaxDiscount>
+		<InsuranceDiscount>244990</InsuranceDiscount>
+		<MaxDiscount>394990</MaxDiscount>
 		<Color>Серый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LB37622Z8TX512918/7559d90dac7bd1ae315abc176cbc7b5f.jpg" />
@@ -2373,446 +2373,6 @@
 	</Ad>
 <Ad>
     <Address>Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-    <Id>dc10bede769ee7c71fa3dd2f5bece6f2</Id>
-    <Category>Автомобили</Category>
-    <Description>Geely Партнер-Авто Самара это:
-
-✔️  Прозрачные условия без скрытых финансовых продуктов.
-✔️  Справедливая и быстрая оценка вашего авто.
-✔️  Официальная гарантия 5 лет или 150 000 км — это спокойствие на долгие годы.
-✔️  Круглосуточная помощь на дороге с программой Belgee Помощь.
-✔️  Юридическая чистота — каждая сделка прозрачна.
-✔️  Персонализированные предложения для клиентов
-
-Специальные предложение до конца месяца:
-🔹 Выгода до 600 000 рублей на покупку автомобиля
-🔹 Дополнительное оборудование в подарок за визит в день обращения*
-🔹 5 работ ТО в подарок
-🔹 Шинный отель на год
-
-🚘Никакого ожидания - выбираете комплектацию, цвет, проходите тест-драйв в день обращения и забираете свой автомобиль с выгодой.
-
-Мы не просто продаем автомобили — мы сопровождаем:
-
-⚙️ Сервис, диагностика — полный цикл в одном месте.
-
-
-📍 Адрес для осмотра: г. Самара, 24 км Московского шоссе, 3 строение 1
-
-Позвоните или напишите — подберем предложение под ваш бюджет 📞 
-
-❤️ Добавьте объявление в избранное, чтобы не потерять актуальные условия — они ограничены по времени.
-
-
-💡 Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
-
-* Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
-    <Price>4899990</Price>
-    <Images>
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0505-58f65cd9.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0506-8de2f15b.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0507-3ff761c6.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0508-2bf3d72e.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0509-fa08a526.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0510-4c527d07.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0503-34af705d.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0504-1422c1a2.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0516-bad413e0.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0511-0d0e4d02.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0512-08d2051f.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0518-f0a610f2.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0519-6daf8b6b.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0520-8f63df71.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0521-60b45a0f.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0523-d6cf6d70.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0524-c8b52d01.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0525-6298a92b.jpg" />
-    </Images>
-    <Generation>I (2021—2026)</Generation>
-    <Modification>2.0 4WD AT (238 л.с.)</Modification>
-    <Complectation>Флагман</Complectation>
-    <CarType>Новые</CarType>
-    <MaxDiscount>940000</MaxDiscount>
-    <Availability>В пути</Availability>
-    <Color>Черный</Color>
-    <Make>Geely</Make>
-    <Model>Monjaro, I</Model>
-    <Transmission>Автомат</Transmission>
-    <EngineSize>2.0</EngineSize>
-    <Year>2025</Year>
-    <DriveType>Полный</DriveType>
-    <WheelType>Левый</WheelType>
-    <VIN>LB37852D7SS282346</VIN>
-  </Ad>
-  <Ad>
-    <Address>Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-    <Id>f7a7d1f0efa0b83497924304e4e45e90</Id>
-    <Category>Автомобили</Category>
-    <Description>Geely Партнер-Авто Самара это:
-
-✔️  Прозрачные условия без скрытых финансовых продуктов.
-✔️  Справедливая и быстрая оценка вашего авто.
-✔️  Официальная гарантия 5 лет или 150 000 км — это спокойствие на долгие годы.
-✔️  Круглосуточная помощь на дороге с программой Belgee Помощь.
-✔️  Юридическая чистота — каждая сделка прозрачна.
-✔️  Персонализированные предложения для клиентов
-
-Специальные предложение до конца месяца:
-🔹 Выгода до 600 000 рублей на покупку автомобиля
-🔹 Дополнительное оборудование в подарок за визит в день обращения*
-🔹 5 работ ТО в подарок
-🔹 Шинный отель на год
-
-🚘Никакого ожидания - выбираете комплектацию, цвет, проходите тест-драйв в день обращения и забираете свой автомобиль с выгодой.
-
-Мы не просто продаем автомобили — мы сопровождаем:
-
-⚙️ Сервис, диагностика — полный цикл в одном месте.
-
-
-📍 Адрес для осмотра: г. Самара, 24 км Московского шоссе, 3 строение 1
-
-Позвоните или напишите — подберем предложение под ваш бюджет 📞 
-
-❤️ Добавьте объявление в избранное, чтобы не потерять актуальные условия — они ограничены по времени.
-
-
-💡 Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
-
-* Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
-    <Price>4899990</Price>
-    <Images>
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0505-58f65cd9.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0506-8de2f15b.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0507-3ff761c6.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0508-2bf3d72e.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0509-fa08a526.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0510-4c527d07.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0503-34af705d.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0504-1422c1a2.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0516-bad413e0.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0511-0d0e4d02.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0512-08d2051f.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0518-f0a610f2.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0519-6daf8b6b.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0520-8f63df71.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0521-60b45a0f.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0523-d6cf6d70.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0524-c8b52d01.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0525-6298a92b.jpg" />
-    </Images>
-    <Generation>I (2021—2026)</Generation>
-    <Modification>2.0 4WD AT (238 л.с.)</Modification>
-    <Complectation>Флагман</Complectation>
-    <CarType>Новые</CarType>
-    <MaxDiscount>940000</MaxDiscount>
-    <Availability>В пути</Availability>
-    <Color>Черный</Color>
-    <Make>Geely</Make>
-    <Model>Monjaro, I</Model>
-    <Transmission>Автомат</Transmission>
-    <EngineSize>2.0</EngineSize>
-    <Year>2025</Year>
-    <DriveType>Полный</DriveType>
-    <WheelType>Левый</WheelType>
-    <VIN>LB37852D7SS278041</VIN>
-  </Ad>
-  <Ad>
-    <Address>Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-    <Id>a6e78218e7e8616681612d0ba6a6fc00</Id>
-    <Category>Автомобили</Category>
-    <Description>Geely Партнер-Авто Самара это:
-
-✔️  Прозрачные условия без скрытых финансовых продуктов.
-✔️  Справедливая и быстрая оценка вашего авто.
-✔️  Официальная гарантия 5 лет или 150 000 км — это спокойствие на долгие годы.
-✔️  Круглосуточная помощь на дороге с программой Belgee Помощь.
-✔️  Юридическая чистота — каждая сделка прозрачна.
-✔️  Персонализированные предложения для клиентов
-
-Специальные предложение до конца месяца:
-🔹 Выгода до 600 000 рублей на покупку автомобиля
-🔹 Дополнительное оборудование в подарок за визит в день обращения*
-🔹 5 работ ТО в подарок
-🔹 Шинный отель на год
-
-🚘Никакого ожидания - выбираете комплектацию, цвет, проходите тест-драйв в день обращения и забираете свой автомобиль с выгодой.
-
-Мы не просто продаем автомобили — мы сопровождаем:
-
-⚙️ Сервис, диагностика — полный цикл в одном месте.
-
-
-📍 Адрес для осмотра: г. Самара, 24 км Московского шоссе, 3 строение 1
-
-Позвоните или напишите — подберем предложение под ваш бюджет 📞 
-
-❤️ Добавьте объявление в избранное, чтобы не потерять актуальные условия — они ограничены по времени.
-
-
-💡 Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
-
-* Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
-    <Price>4899990</Price>
-    <Images>
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9938-c730aa6e.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9937-271fedbc.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9936-3b43e623.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9935-96628d4b.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9933-ac9e0794.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9932-7e6c108a.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9931-c7240758.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9939-168c3255.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9941-4ed642f0.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9942-e566cb4d.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9944-9fe95f52.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9945-a298f7a7.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9948-96637a01.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9949-bcb1cc99.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9943-1cd65762.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9950-f9e13918.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9951-9372a7ff.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9954-c5ed9e31.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9947-34a7653d.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9953-7c6675bd.jpg" />
-    </Images>
-    <Generation>I (2021—2026)</Generation>
-    <Modification>2.0 4WD AT (238 л.с.)</Modification>
-    <Complectation>Флагман</Complectation>
-    <CarType>Новые</CarType>
-    <MaxDiscount>940000</MaxDiscount>
-    <Availability>В пути</Availability>
-    <Color>Зеленый</Color>
-    <Make>Geely</Make>
-    <Model>Monjaro, I</Model>
-    <Transmission>Автомат</Transmission>
-    <EngineSize>2.0</EngineSize>
-    <Year>2025</Year>
-    <DriveType>Полный</DriveType>
-    <WheelType>Левый</WheelType>
-    <VIN>LB37852D7SS276884</VIN>
-  </Ad>
-  <Ad>
-    <Address>Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-    <Id>bcf5e172d1fe894a241e7e4f238d1290</Id>
-    <Category>Автомобили</Category>
-    <Description>Geely Партнер-Авто Самара это:
-
-✔️  Прозрачные условия без скрытых финансовых продуктов.
-✔️  Справедливая и быстрая оценка вашего авто.
-✔️  Официальная гарантия 5 лет или 150 000 км — это спокойствие на долгие годы.
-✔️  Круглосуточная помощь на дороге с программой Belgee Помощь.
-✔️  Юридическая чистота — каждая сделка прозрачна.
-✔️  Персонализированные предложения для клиентов
-
-Специальные предложение до конца месяца:
-🔹 Выгода до 600 000 рублей на покупку автомобиля
-🔹 Дополнительное оборудование в подарок за визит в день обращения*
-🔹 5 работ ТО в подарок
-🔹 Шинный отель на год
-
-🚘Никакого ожидания - выбираете комплектацию, цвет, проходите тест-драйв в день обращения и забираете свой автомобиль с выгодой.
-
-Мы не просто продаем автомобили — мы сопровождаем:
-
-⚙️ Сервис, диагностика — полный цикл в одном месте.
-
-
-📍 Адрес для осмотра: г. Самара, 24 км Московского шоссе, 3 строение 1
-
-Позвоните или напишите — подберем предложение под ваш бюджет 📞 
-
-❤️ Добавьте объявление в избранное, чтобы не потерять актуальные условия — они ограничены по времени.
-
-
-💡 Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
-
-* Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
-    <Price>4899990</Price>
-    <Images>
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9938-c730aa6e.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9937-271fedbc.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9936-3b43e623.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9935-96628d4b.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9933-ac9e0794.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9932-7e6c108a.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9931-c7240758.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9939-168c3255.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9941-4ed642f0.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9942-e566cb4d.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9944-9fe95f52.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9945-a298f7a7.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9948-96637a01.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9949-bcb1cc99.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9943-1cd65762.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9950-f9e13918.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9951-9372a7ff.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9954-c5ed9e31.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9947-34a7653d.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9953-7c6675bd.jpg" />
-    </Images>
-    <Generation>I (2021—2026)</Generation>
-    <Modification>2.0 4WD AT (238 л.с.)</Modification>
-    <Complectation>Флагман</Complectation>
-    <CarType>Новые</CarType>
-    <MaxDiscount>940000</MaxDiscount>
-    <Availability>В пути</Availability>
-    <Color>Зеленый</Color>
-    <Make>Geely</Make>
-    <Model>Monjaro, I</Model>
-    <Transmission>Автомат</Transmission>
-    <EngineSize>2.0</EngineSize>
-    <Year>2025</Year>
-    <DriveType>Полный</DriveType>
-    <WheelType>Левый</WheelType>
-    <VIN>LB37852D7SS274231</VIN>
-  </Ad>
-  <Ad>
-    <Address>Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-    <Id>2159f867522c22fc475960a572bbf85c</Id>
-    <Category>Автомобили</Category>
-    <Description>Geely Партнер-Авто Самара это:
-
-✔️  Прозрачные условия без скрытых финансовых продуктов.
-✔️  Справедливая и быстрая оценка вашего авто.
-✔️  Официальная гарантия 5 лет или 150 000 км — это спокойствие на долгие годы.
-✔️  Круглосуточная помощь на дороге с программой Belgee Помощь.
-✔️  Юридическая чистота — каждая сделка прозрачна.
-✔️  Персонализированные предложения для клиентов
-
-Специальные предложение до конца месяца:
-🔹 Выгода до 600 000 рублей на покупку автомобиля
-🔹 Дополнительное оборудование в подарок за визит в день обращения*
-🔹 5 работ ТО в подарок
-🔹 Шинный отель на год
-
-🚘Никакого ожидания - выбираете комплектацию, цвет, проходите тест-драйв в день обращения и забираете свой автомобиль с выгодой.
-
-Мы не просто продаем автомобили — мы сопровождаем:
-
-⚙️ Сервис, диагностика — полный цикл в одном месте.
-
-
-📍 Адрес для осмотра: г. Самара, 24 км Московского шоссе, 3 строение 1
-
-Позвоните или напишите — подберем предложение под ваш бюджет 📞 
-
-❤️ Добавьте объявление в избранное, чтобы не потерять актуальные условия — они ограничены по времени.
-
-
-💡 Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
-
-* Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
-    <Price>3760990</Price>
-    <Images>
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-121151/fdab1822-b396-4af7-8e75-b0bf589807dd-a7b6806a.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-121151/d9cdddca-510e-418d-825a-f4793e295a45-940c7e45.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-121151/d7922e77-35eb-45b5-a543-af5c4e0c0f55-7793b011.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-121151/7ee36224-9bfc-48df-a14f-9ea8aa9ded63-37e993ef.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-121151/bf0001dc-fca8-4524-8c0a-7729ac231616-5f206c41.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-121151/f21f6e79-d8cf-48e9-9ba9-77efeabf30dc-881af7d2.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-121151/fef29d1d-fb26-4a8b-9efc-69d7a9b48952-e1aee9a1.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-121151/917c6ef7-bef3-4446-ba9d-d10b7e55013e-0171d16a.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-121151/483c4f23-0d09-41ff-a642-67d466a3759a-15e8529d.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-121151/ea65688a-9184-4391-b6ce-867a019039a1-cd3202e0.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-121151/65952a7e-0407-404e-9171-c02e5bbbf015-f7892a50.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-121151/0676bfa6-c274-452c-913d-f768233ea600-a8820b9f.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-121151/0c87fbce-2a44-4d09-a973-299c483886a2-2ab26252.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-121151/eccc3806-06a7-4185-87c6-fbb27295b84a-e190a505.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-121151/968eaa40-aee4-4e4e-8d99-d11902549278-e72f9168.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-121151/36c420d6-2206-4eff-b45c-8fcb1f5977fe-f3daa799.jpg" />
-    </Images>
-    <Generation>II (2023—2026)</Generation>
-    <Modification>2.0T 4WD AT (200 л.с.)</Modification>
-    <Complectation>Люкс</Complectation>
-    <CarType>Новые</CarType>
-    <MaxDiscount>780000</MaxDiscount>
-    <Availability>В пути</Availability>
-    <Color>Серебряный</Color>
-    <Make>Geely</Make>
-    <Model>Atlas, II</Model>
-    <Transmission>Автомат</Transmission>
-    <EngineSize>2.0</EngineSize>
-    <Year>2025</Year>
-    <DriveType>Полный</DriveType>
-    <WheelType>Левый</WheelType>
-    <VIN>LB3FX1S18SB224815</VIN>
-  </Ad>
-  <Ad>
-    <Address>Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-    <Id>9aa9dc42cf816ef3b57fa6b3190445b7</Id>
-    <Category>Автомобили</Category>
-    <Description>Geely Партнер-Авто Самара это:
-
-✔️  Прозрачные условия без скрытых финансовых продуктов.
-✔️  Справедливая и быстрая оценка вашего авто.
-✔️  Официальная гарантия 5 лет или 150 000 км — это спокойствие на долгие годы.
-✔️  Круглосуточная помощь на дороге с программой Belgee Помощь.
-✔️  Юридическая чистота — каждая сделка прозрачна.
-✔️  Персонализированные предложения для клиентов
-
-Специальные предложение до конца месяца:
-🔹 Выгода до 600 000 рублей на покупку автомобиля
-🔹 Дополнительное оборудование в подарок за визит в день обращения*
-🔹 5 работ ТО в подарок
-🔹 Шинный отель на год
-
-🚘Никакого ожидания - выбираете комплектацию, цвет, проходите тест-драйв в день обращения и забираете свой автомобиль с выгодой.
-
-Мы не просто продаем автомобили — мы сопровождаем:
-
-⚙️ Сервис, диагностика — полный цикл в одном месте.
-
-
-📍 Адрес для осмотра: г. Самара, 24 км Московского шоссе, 3 строение 1
-
-Позвоните или напишите — подберем предложение под ваш бюджет 📞 
-
-❤️ Добавьте объявление в избранное, чтобы не потерять актуальные условия — они ограничены по времени.
-
-
-💡 Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
-
-* Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
-    <Price>4899990</Price>
-    <Images>
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0505-58f65cd9.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0506-8de2f15b.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0507-3ff761c6.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0508-2bf3d72e.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0509-fa08a526.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0510-4c527d07.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0503-34af705d.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0504-1422c1a2.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0516-bad413e0.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0511-0d0e4d02.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0512-08d2051f.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0518-f0a610f2.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0519-6daf8b6b.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0520-8f63df71.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0521-60b45a0f.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0523-d6cf6d70.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0524-c8b52d01.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0525-6298a92b.jpg" />
-    </Images>
-    <Generation>I (2021—2026)</Generation>
-    <Modification>2.0 4WD AT (238 л.с.)</Modification>
-    <Complectation>Флагман</Complectation>
-    <CarType>Новые</CarType>
-    <MaxDiscount>940000</MaxDiscount>
-    <Availability>В пути</Availability>
-    <Color>Черный</Color>
-    <Make>Geely</Make>
-    <Model>Monjaro, I</Model>
-    <Transmission>Автомат</Transmission>
-    <EngineSize>2.0</EngineSize>
-    <Year>2025</Year>
-    <DriveType>Полный</DriveType>
-    <WheelType>Левый</WheelType>
-    <VIN>LB37852D1TS024069</VIN>
-  </Ad>
-  <Ad>
-    <Address>Самара, Московское шоссе, 24-й километр, 3ст1</Address>
     <Id>15d3fdb55a78eaf579fe1c12d69d83dc</Id>
     <Category>Автомобили</Category>
     <Description>Geely Партнер-Авто Самара это:
@@ -2956,152 +2516,6 @@
     <DriveType>Полный</DriveType>
     <WheelType>Левый</WheelType>
     <VIN>LB3FX1S18SB244855</VIN>
-  </Ad>
-  <Ad>
-    <Address>Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-    <Id>ca136f98dfa583e6e9fec480edd6cd83</Id>
-    <Category>Автомобили</Category>
-    <Description>Geely Партнер-Авто Самара это:
-
-✔️  Прозрачные условия без скрытых финансовых продуктов.
-✔️  Справедливая и быстрая оценка вашего авто.
-✔️  Официальная гарантия 5 лет или 150 000 км — это спокойствие на долгие годы.
-✔️  Круглосуточная помощь на дороге с программой Belgee Помощь.
-✔️  Юридическая чистота — каждая сделка прозрачна.
-✔️  Персонализированные предложения для клиентов
-
-Специальные предложение до конца месяца:
-🔹 Выгода до 600 000 рублей на покупку автомобиля
-🔹 Дополнительное оборудование в подарок за визит в день обращения*
-🔹 5 работ ТО в подарок
-🔹 Шинный отель на год
-
-🚘Никакого ожидания - выбираете комплектацию, цвет, проходите тест-драйв в день обращения и забираете свой автомобиль с выгодой.
-
-Мы не просто продаем автомобили — мы сопровождаем:
-
-⚙️ Сервис, диагностика — полный цикл в одном месте.
-
-
-📍 Адрес для осмотра: г. Самара, 24 км Московского шоссе, 3 строение 1
-
-Позвоните или напишите — подберем предложение под ваш бюджет 📞 
-
-❤️ Добавьте объявление в избранное, чтобы не потерять актуальные условия — они ограничены по времени.
-
-
-💡 Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
-
-* Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
-    <Price>3970990</Price>
-    <Images>
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-122032/5249150111542534297-5fa95be1.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-122032/5249150111542534299-183de923.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-122032/5249150111542534300-4e00267f.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-122032/5249150111542534301-29aaec31.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-122032/5249150111542534303-5f6413ae.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-122032/5249150111542534304-22e8fd41.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-122032/5249150111542534312-289f5053.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-122032/5249150111542534293-6f717370.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-122032/5249150111542534295-fcb269a3.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-122032/5249150111542534298-7afecc75.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-122032/5249150111542534307-087296ff.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-122032/5249150111542534306-d372d0a8.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-122032/5249150111542534308-509e120d.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-122032/5249150111542534305-e152db36.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-122032/5249150111542534310-eeb19404.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-122032/5249150111542534311-80df5afe.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-122032/5249150111542534302-2f9ac257.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-122032/5246898311728850397-4f1f88eb.jpg" />
-    </Images>
-    <Generation>II (2023—2026)</Generation>
-    <Modification>2.0T 4WD AT (200 л.с.)</Modification>
-    <Complectation>Флагман</Complectation>
-    <CarType>Новые</CarType>
-    <MaxDiscount>830000</MaxDiscount>
-    <Availability>В пути</Availability>
-    <Color>Зеленый</Color>
-    <Make>Geely</Make>
-    <Model>Atlas, II</Model>
-    <Transmission>Автомат</Transmission>
-    <EngineSize>2.0</EngineSize>
-    <Year>2025</Year>
-    <DriveType>Полный</DriveType>
-    <WheelType>Левый</WheelType>
-    <VIN>LB3FX1S18SB311256</VIN>
-  </Ad>
-  <Ad>
-    <Address>Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-    <Id>a743cd300e2da5812ae6615747315752</Id>
-    <Category>Автомобили</Category>
-    <Description>Geely Партнер-Авто Самара это:
-
-✔️  Прозрачные условия без скрытых финансовых продуктов.
-✔️  Справедливая и быстрая оценка вашего авто.
-✔️  Официальная гарантия 5 лет или 150 000 км — это спокойствие на долгие годы.
-✔️  Круглосуточная помощь на дороге с программой Belgee Помощь.
-✔️  Юридическая чистота — каждая сделка прозрачна.
-✔️  Персонализированные предложения для клиентов
-
-Специальные предложение до конца месяца:
-🔹 Выгода до 600 000 рублей на покупку автомобиля
-🔹 Дополнительное оборудование в подарок за визит в день обращения*
-🔹 5 работ ТО в подарок
-🔹 Шинный отель на год
-
-🚘Никакого ожидания - выбираете комплектацию, цвет, проходите тест-драйв в день обращения и забираете свой автомобиль с выгодой.
-
-Мы не просто продаем автомобили — мы сопровождаем:
-
-⚙️ Сервис, диагностика — полный цикл в одном месте.
-
-
-📍 Адрес для осмотра: г. Самара, 24 км Московского шоссе, 3 строение 1
-
-Позвоните или напишите — подберем предложение под ваш бюджет 📞 
-
-❤️ Добавьте объявление в избранное, чтобы не потерять актуальные условия — они ограничены по времени.
-
-
-💡 Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
-
-* Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
-    <Price>4080990</Price>
-    <Images>
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-122518/1792ec8f-8d27-4dff-b99a-72a0d74c389c-d834ddea.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-122518/d8bb70f3-1fe7-4a1d-9a8e-b586502e9b02-2695487a.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-122518/b0179e24-9953-47dd-9205-d6bf5b08c884-2a1eb694.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-122518/c046717d-92ee-4fc7-8c7f-b4e673f49bf8-0ebe597e.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-122518/a0fc4240-6876-4e89-98ea-6189a948918c-be0aaa7d.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-122518/20ce62c2-5dd1-4650-88f8-66a524d689d9-6484c736.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-122518/762b1dbc-e7aa-4aa5-ba21-1a88ed881e97-0e28279f.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-122518/211faf3b-dde2-4f17-af1d-697b0a1cce5c-a9c40b7f.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-122518/5df9fe3c-ce2c-4f98-b175-badcb19fbf72-e6f1725f.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-122518/5de2d929-b1ba-48c5-841f-11c829fa9768-06a144e9.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-122518/d00a639a-60eb-4dfb-9bd3-efac51ed62b9-ac619d88.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-122518/1b67ea84-03f6-49bd-9e94-ad079e56e52e-3c914709.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-122518/a0136fcd-1976-40d4-949e-855a88a263e1-f34587e2.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-122518/da98a8ef-b9a5-47c0-b800-52fce7a96234-9409016e.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-122518/339a5f06-1383-411a-b2ca-5ec02d949cb7-db20b42f.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-122518/4515804e-3b1d-4f49-a479-8ce91ad535ed-fcc38f39.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-122518/2056a214-9e70-46ee-a18a-1d951e80acd8-2538c2b2.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-122518/52c81714-543e-4f00-815a-d77e05c4e8e2-641947cb.jpg" />
-    </Images>
-    <Generation>II (2023—2026)</Generation>
-    <Modification>2.0T 4WD AT (200 л.с.)</Modification>
-    <Complectation>Спорт</Complectation>
-    <CarType>Новые</CarType>
-    <MaxDiscount>830000</MaxDiscount>
-    <Availability>В пути</Availability>
-    <Color>Голубой</Color>
-    <Make>Geely</Make>
-    <Model>Atlas, II</Model>
-    <Transmission>Автомат</Transmission>
-    <EngineSize>2.0</EngineSize>
-    <Year>2025</Year>
-    <DriveType>Полный</DriveType>
-    <WheelType>Левый</WheelType>
-    <VIN>LB3FX1S18SB345614</VIN>
   </Ad>
   <Ad>
     <Address>Самара, Московское шоссе, 24-й километр, 3ст1</Address>
@@ -3251,6 +2665,79 @@
     <VIN>LB3FX1S18SB523549</VIN>
   </Ad>
   <Ad>
+    <Address>Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+    <Id>e27fa840c7df90ce0356e8eb4b14e25a</Id>
+    <Category>Автомобили</Category>
+    <Description>Geely Партнер-Авто Самара это:
+
+✔️  Прозрачные условия без скрытых финансовых продуктов.
+✔️  Справедливая и быстрая оценка вашего авто.
+✔️  Официальная гарантия 5 лет или 150 000 км — это спокойствие на долгие годы.
+✔️  Круглосуточная помощь на дороге с программой Belgee Помощь.
+✔️  Юридическая чистота — каждая сделка прозрачна.
+✔️  Персонализированные предложения для клиентов
+
+Специальные предложение до конца месяца:
+🔹 Выгода до 600 000 рублей на покупку автомобиля
+🔹 Дополнительное оборудование в подарок за визит в день обращения*
+🔹 5 работ ТО в подарок
+🔹 Шинный отель на год
+
+🚘Никакого ожидания - выбираете комплектацию, цвет, проходите тест-драйв в день обращения и забираете свой автомобиль с выгодой.
+
+Мы не просто продаем автомобили — мы сопровождаем:
+
+⚙️ Сервис, диагностика — полный цикл в одном месте.
+
+
+📍 Адрес для осмотра: г. Самара, 24 км Московского шоссе, 3 строение 1
+
+Позвоните или напишите — подберем предложение под ваш бюджет 📞 
+
+❤️ Добавьте объявление в избранное, чтобы не потерять актуальные условия — они ограничены по времени.
+
+
+💡 Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
+
+* Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
+    <Price>3760990</Price>
+    <Images>
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-113522/5298918139574216871-83787def.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-113522/5298918139574216878-bed99f6d.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-113522/5298918139574216879-8c12bb39.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-113522/5298918139574216881-bceeb645.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-113522/5298918139574216882-6523ce1f.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-113522/5298918139574216884-bb22792b.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-113522/5298918139574216885-3823759a.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-113522/5298918139574216887-030e9c0e.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-113522/5298918139574216886-9b759c2d.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-113522/5298918139574216883-061675b5.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-113522/5298918139574216875-6894b166.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-113522/5298918139574216876-08ab3e7f.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-113522/5298918139574216874-ec2c04ae.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-113522/5298918139574216877-de4e73fd.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-113522/5298918139574216872-f990e45d.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-113522/5298918139574216873-3aa973ad.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-113522/5298918139574216880-637ccbf9.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-113522/5249150111542534359-09f2b004.jpg" />
+    </Images>
+    <Generation>II (2023—2026)</Generation>
+    <Modification>2.0T 4WD AT (200 л.с.)</Modification>
+    <Complectation>Люкс</Complectation>
+    <CarType>Новые</CarType>
+    <MaxDiscount>780000</MaxDiscount>
+    <Availability>В пути</Availability>
+    <Color>Белый</Color>
+    <Make>Geely</Make>
+    <Model>Atlas, II</Model>
+    <Transmission>Автомат</Transmission>
+    <EngineSize>2.0</EngineSize>
+    <Year>2025</Year>
+    <DriveType>Полный</DriveType>
+    <WheelType>Левый</WheelType>
+    <VIN>LB3FX1S18SB524661</VIN>
+  </Ad>
+  <Ad>
     <Address>Самара, Московское шоссе, 24-й километр, 3ст2</Address>
     <Id>9ae9affd4786946a978c142a393c1541</Id>
     <Category>Автомобили</Category>
@@ -3286,7 +2773,7 @@
 💡 Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
 
 * Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
-    <Price>3214990</Price>
+    <Price>3219990</Price>
     <Images>
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260213-122020/5316844547088709963-37d31d73.jpg" />
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260213-122020/5316844547088709964-15fd7900.jpg" />
@@ -3358,7 +2845,7 @@
 💡 Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
 
 * Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
-    <Price>3214990</Price>
+    <Price>3219990</Price>
     <Images>
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260213-122223/photo-9-2024-10-23-17-36-32-7e99c72b.jpg" />
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260213-122223/photo-7-2024-10-23-17-36-32-a2f87e68.jpg" />
@@ -3431,7 +2918,7 @@
 💡 Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
 
 * Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
-    <Price>3094990</Price>
+    <Price>3099990</Price>
     <Images>
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260213-122754/5267419158662996413-7f8bbcf6.jpg" />
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260213-122754/5267419158662996420-14a32fe6.jpg" />
@@ -3504,7 +2991,7 @@
 💡 Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
 
 * Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
-    <Price>3094990</Price>
+    <Price>3099990</Price>
     <Images>
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260213-123758/img-20250207-wa0036-b7d3918b.jpg" />
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260213-123758/img-20250207-wa0040-84a8a72b.jpg" />
@@ -3544,7 +3031,7 @@
   </Ad>
   <Ad>
     <Address>Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-    <Id>e27fa840c7df90ce0356e8eb4b14e25a</Id>
+    <Id>dc10bede769ee7c71fa3dd2f5bece6f2</Id>
     <Category>Автомобили</Category>
     <Description>Geely Партнер-Авто Самара это:
 
@@ -3578,41 +3065,337 @@
 💡 Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
 
 * Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
-    <Price>3760990</Price>
+    <Price>4904990</Price>
     <Images>
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-113522/5298918139574216871-83787def.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-113522/5298918139574216878-bed99f6d.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-113522/5298918139574216879-8c12bb39.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-113522/5298918139574216881-bceeb645.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-113522/5298918139574216882-6523ce1f.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-113522/5298918139574216884-bb22792b.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-113522/5298918139574216885-3823759a.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-113522/5298918139574216887-030e9c0e.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-113522/5298918139574216886-9b759c2d.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-113522/5298918139574216883-061675b5.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-113522/5298918139574216875-6894b166.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-113522/5298918139574216876-08ab3e7f.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-113522/5298918139574216874-ec2c04ae.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-113522/5298918139574216877-de4e73fd.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-113522/5298918139574216872-f990e45d.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-113522/5298918139574216873-3aa973ad.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-113522/5298918139574216880-637ccbf9.jpg" />
-      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260205-113522/5249150111542534359-09f2b004.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0505-58f65cd9.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0506-8de2f15b.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0507-3ff761c6.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0508-2bf3d72e.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0509-fa08a526.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0510-4c527d07.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0503-34af705d.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0504-1422c1a2.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0516-bad413e0.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0511-0d0e4d02.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0512-08d2051f.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0518-f0a610f2.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0519-6daf8b6b.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0520-8f63df71.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0521-60b45a0f.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0523-d6cf6d70.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0524-c8b52d01.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0525-6298a92b.jpg" />
     </Images>
-    <Generation>II (2023—2026)</Generation>
-    <Modification>2.0T 4WD AT (200 л.с.)</Modification>
-    <Complectation>Люкс</Complectation>
+    <Generation>I (2021—2026)</Generation>
+    <Modification>2.0 4WD AT (238 л.с.)</Modification>
+    <Complectation>Флагман</Complectation>
     <CarType>Новые</CarType>
-    <MaxDiscount>780000</MaxDiscount>
+    <MaxDiscount>944990</MaxDiscount>
     <Availability>В пути</Availability>
-    <Color>Белый</Color>
+    <Color>Черный</Color>
     <Make>Geely</Make>
-    <Model>Atlas, II</Model>
+    <Model>Monjaro, I</Model>
     <Transmission>Автомат</Transmission>
     <EngineSize>2.0</EngineSize>
     <Year>2025</Year>
     <DriveType>Полный</DriveType>
     <WheelType>Левый</WheelType>
-    <VIN>LB3FX1S18SB524661</VIN>
+    <VIN>LB37852D7SS282346</VIN>
+  </Ad>
+  <Ad>
+    <Address>Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+    <Id>f7a7d1f0efa0b83497924304e4e45e90</Id>
+    <Category>Автомобили</Category>
+    <Description>Geely Партнер-Авто Самара это:
+
+✔️  Прозрачные условия без скрытых финансовых продуктов.
+✔️  Справедливая и быстрая оценка вашего авто.
+✔️  Официальная гарантия 5 лет или 150 000 км — это спокойствие на долгие годы.
+✔️  Круглосуточная помощь на дороге с программой Belgee Помощь.
+✔️  Юридическая чистота — каждая сделка прозрачна.
+✔️  Персонализированные предложения для клиентов
+
+Специальные предложение до конца месяца:
+🔹 Выгода до 600 000 рублей на покупку автомобиля
+🔹 Дополнительное оборудование в подарок за визит в день обращения*
+🔹 5 работ ТО в подарок
+🔹 Шинный отель на год
+
+🚘Никакого ожидания - выбираете комплектацию, цвет, проходите тест-драйв в день обращения и забираете свой автомобиль с выгодой.
+
+Мы не просто продаем автомобили — мы сопровождаем:
+
+⚙️ Сервис, диагностика — полный цикл в одном месте.
+
+
+📍 Адрес для осмотра: г. Самара, 24 км Московского шоссе, 3 строение 1
+
+Позвоните или напишите — подберем предложение под ваш бюджет 📞 
+
+❤️ Добавьте объявление в избранное, чтобы не потерять актуальные условия — они ограничены по времени.
+
+
+💡 Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
+
+* Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
+    <Price>4904990</Price>
+    <Images>
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0505-58f65cd9.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0506-8de2f15b.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0507-3ff761c6.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0508-2bf3d72e.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0509-fa08a526.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0510-4c527d07.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0503-34af705d.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0504-1422c1a2.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0516-bad413e0.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0511-0d0e4d02.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0512-08d2051f.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0518-f0a610f2.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0519-6daf8b6b.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0520-8f63df71.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0521-60b45a0f.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0523-d6cf6d70.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0524-c8b52d01.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0525-6298a92b.jpg" />
+    </Images>
+    <Generation>I (2021—2026)</Generation>
+    <Modification>2.0 4WD AT (238 л.с.)</Modification>
+    <Complectation>Флагман</Complectation>
+    <CarType>Новые</CarType>
+    <MaxDiscount>944990</MaxDiscount>
+    <Availability>В пути</Availability>
+    <Color>Черный</Color>
+    <Make>Geely</Make>
+    <Model>Monjaro, I</Model>
+    <Transmission>Автомат</Transmission>
+    <EngineSize>2.0</EngineSize>
+    <Year>2025</Year>
+    <DriveType>Полный</DriveType>
+    <WheelType>Левый</WheelType>
+    <VIN>LB37852D7SS278041</VIN>
+  </Ad>
+  <Ad>
+    <Address>Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+    <Id>a6e78218e7e8616681612d0ba6a6fc00</Id>
+    <Category>Автомобили</Category>
+    <Description>Geely Партнер-Авто Самара это:
+
+✔️  Прозрачные условия без скрытых финансовых продуктов.
+✔️  Справедливая и быстрая оценка вашего авто.
+✔️  Официальная гарантия 5 лет или 150 000 км — это спокойствие на долгие годы.
+✔️  Круглосуточная помощь на дороге с программой Belgee Помощь.
+✔️  Юридическая чистота — каждая сделка прозрачна.
+✔️  Персонализированные предложения для клиентов
+
+Специальные предложение до конца месяца:
+🔹 Выгода до 600 000 рублей на покупку автомобиля
+🔹 Дополнительное оборудование в подарок за визит в день обращения*
+🔹 5 работ ТО в подарок
+🔹 Шинный отель на год
+
+🚘Никакого ожидания - выбираете комплектацию, цвет, проходите тест-драйв в день обращения и забираете свой автомобиль с выгодой.
+
+Мы не просто продаем автомобили — мы сопровождаем:
+
+⚙️ Сервис, диагностика — полный цикл в одном месте.
+
+
+📍 Адрес для осмотра: г. Самара, 24 км Московского шоссе, 3 строение 1
+
+Позвоните или напишите — подберем предложение под ваш бюджет 📞 
+
+❤️ Добавьте объявление в избранное, чтобы не потерять актуальные условия — они ограничены по времени.
+
+
+💡 Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
+
+* Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
+    <Price>4904990</Price>
+    <Images>
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9938-c730aa6e.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9937-271fedbc.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9936-3b43e623.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9935-96628d4b.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9933-ac9e0794.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9932-7e6c108a.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9931-c7240758.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9939-168c3255.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9941-4ed642f0.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9942-e566cb4d.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9944-9fe95f52.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9945-a298f7a7.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9948-96637a01.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9949-bcb1cc99.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9943-1cd65762.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9950-f9e13918.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9951-9372a7ff.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9954-c5ed9e31.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9947-34a7653d.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9953-7c6675bd.jpg" />
+    </Images>
+    <Generation>I (2021—2026)</Generation>
+    <Modification>2.0 4WD AT (238 л.с.)</Modification>
+    <Complectation>Флагман</Complectation>
+    <CarType>Новые</CarType>
+    <MaxDiscount>944990</MaxDiscount>
+    <Availability>В пути</Availability>
+    <Color>Зеленый</Color>
+    <Make>Geely</Make>
+    <Model>Monjaro, I</Model>
+    <Transmission>Автомат</Transmission>
+    <EngineSize>2.0</EngineSize>
+    <Year>2025</Year>
+    <DriveType>Полный</DriveType>
+    <WheelType>Левый</WheelType>
+    <VIN>LB37852D7SS276884</VIN>
+  </Ad>
+  <Ad>
+    <Address>Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+    <Id>bcf5e172d1fe894a241e7e4f238d1290</Id>
+    <Category>Автомобили</Category>
+    <Description>Geely Партнер-Авто Самара это:
+
+✔️  Прозрачные условия без скрытых финансовых продуктов.
+✔️  Справедливая и быстрая оценка вашего авто.
+✔️  Официальная гарантия 5 лет или 150 000 км — это спокойствие на долгие годы.
+✔️  Круглосуточная помощь на дороге с программой Belgee Помощь.
+✔️  Юридическая чистота — каждая сделка прозрачна.
+✔️  Персонализированные предложения для клиентов
+
+Специальные предложение до конца месяца:
+🔹 Выгода до 600 000 рублей на покупку автомобиля
+🔹 Дополнительное оборудование в подарок за визит в день обращения*
+🔹 5 работ ТО в подарок
+🔹 Шинный отель на год
+
+🚘Никакого ожидания - выбираете комплектацию, цвет, проходите тест-драйв в день обращения и забираете свой автомобиль с выгодой.
+
+Мы не просто продаем автомобили — мы сопровождаем:
+
+⚙️ Сервис, диагностика — полный цикл в одном месте.
+
+
+📍 Адрес для осмотра: г. Самара, 24 км Московского шоссе, 3 строение 1
+
+Позвоните или напишите — подберем предложение под ваш бюджет 📞 
+
+❤️ Добавьте объявление в избранное, чтобы не потерять актуальные условия — они ограничены по времени.
+
+
+💡 Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
+
+* Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
+    <Price>4904990</Price>
+    <Images>
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9938-c730aa6e.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9937-271fedbc.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9936-3b43e623.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9935-96628d4b.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9933-ac9e0794.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9932-7e6c108a.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9931-c7240758.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9939-168c3255.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9941-4ed642f0.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9942-e566cb4d.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9944-9fe95f52.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9945-a298f7a7.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9948-96637a01.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9949-bcb1cc99.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9943-1cd65762.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9950-f9e13918.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9951-9372a7ff.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9954-c5ed9e31.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9947-34a7653d.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260128-152755/img-9953-7c6675bd.jpg" />
+    </Images>
+    <Generation>I (2021—2026)</Generation>
+    <Modification>2.0 4WD AT (238 л.с.)</Modification>
+    <Complectation>Флагман</Complectation>
+    <CarType>Новые</CarType>
+    <MaxDiscount>944990</MaxDiscount>
+    <Availability>В пути</Availability>
+    <Color>Зеленый</Color>
+    <Make>Geely</Make>
+    <Model>Monjaro, I</Model>
+    <Transmission>Автомат</Transmission>
+    <EngineSize>2.0</EngineSize>
+    <Year>2025</Year>
+    <DriveType>Полный</DriveType>
+    <WheelType>Левый</WheelType>
+    <VIN>LB37852D7SS274231</VIN>
+  </Ad>
+  <Ad>
+    <Address>Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+    <Id>9aa9dc42cf816ef3b57fa6b3190445b7</Id>
+    <Category>Автомобили</Category>
+    <Description>Geely Партнер-Авто Самара это:
+
+✔️  Прозрачные условия без скрытых финансовых продуктов.
+✔️  Справедливая и быстрая оценка вашего авто.
+✔️  Официальная гарантия 5 лет или 150 000 км — это спокойствие на долгие годы.
+✔️  Круглосуточная помощь на дороге с программой Belgee Помощь.
+✔️  Юридическая чистота — каждая сделка прозрачна.
+✔️  Персонализированные предложения для клиентов
+
+Специальные предложение до конца месяца:
+🔹 Выгода до 600 000 рублей на покупку автомобиля
+🔹 Дополнительное оборудование в подарок за визит в день обращения*
+🔹 5 работ ТО в подарок
+🔹 Шинный отель на год
+
+🚘Никакого ожидания - выбираете комплектацию, цвет, проходите тест-драйв в день обращения и забираете свой автомобиль с выгодой.
+
+Мы не просто продаем автомобили — мы сопровождаем:
+
+⚙️ Сервис, диагностика — полный цикл в одном месте.
+
+
+📍 Адрес для осмотра: г. Самара, 24 км Московского шоссе, 3 строение 1
+
+Позвоните или напишите — подберем предложение под ваш бюджет 📞 
+
+❤️ Добавьте объявление в избранное, чтобы не потерять актуальные условия — они ограничены по времени.
+
+
+💡 Подпишитесь на наш магазин, чтобы быть в курсе всех обновлений и акций. 
+
+* Для получения доп.оборудования покупка должна быть совершена в течение трёх дней после визита."</Description>
+    <Price>4904990</Price>
+    <Images>
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0505-58f65cd9.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0506-8de2f15b.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0507-3ff761c6.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0508-2bf3d72e.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0509-fa08a526.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0510-4c527d07.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0503-34af705d.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0504-1422c1a2.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0516-bad413e0.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0511-0d0e4d02.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0512-08d2051f.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0518-f0a610f2.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0519-6daf8b6b.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0520-8f63df71.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0521-60b45a0f.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0523-d6cf6d70.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0524-c8b52d01.jpg" />
+      <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260129-145050/img-0525-6298a92b.jpg" />
+    </Images>
+    <Generation>I (2021—2026)</Generation>
+    <Modification>2.0 4WD AT (238 л.с.)</Modification>
+    <Complectation>Флагман</Complectation>
+    <CarType>Новые</CarType>
+    <MaxDiscount>944990</MaxDiscount>
+    <Availability>В пути</Availability>
+    <Color>Черный</Color>
+    <Make>Geely</Make>
+    <Model>Monjaro, I</Model>
+    <Transmission>Автомат</Transmission>
+    <EngineSize>2.0</EngineSize>
+    <Year>2025</Year>
+    <DriveType>Полный</DriveType>
+    <WheelType>Левый</WheelType>
+    <VIN>LB37852D1TS024069</VIN>
   </Ad>
 </Ads>
