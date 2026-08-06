@@ -2,8 +2,8 @@
   {
     "brand": "Geely",
     "model": "Atlas",
-    "price": 2590000,
-    "benefit": 859990
+    "price": 2980990,
+    "benefit": 830000
   },
   {
     "brand": "Geely",
@@ -16,17 +16,5 @@
     "model": "Monjaro",
     "price": 3880000,
     "benefit": 1024990
-  },
-  {
-    "brand": "Geely",
-    "model": "OKAVANGO",
-    "price": 2822000,
-    "benefit": 1178990
-  },
-  {
-    "brand": "Geely",
-    "model": "Preface",
-    "price": 2774000,
-    "benefit": 660990
   }
 ]
