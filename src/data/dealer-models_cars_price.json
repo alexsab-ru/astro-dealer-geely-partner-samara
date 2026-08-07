@@ -2,19 +2,31 @@
   {
     "brand": "Geely",
     "model": "Atlas",
-    "price": 2980990,
-    "benefit": 830000
+    "price": 2590000,
+    "benefit": 859990
   },
   {
     "brand": "Geely",
     "model": "Cityray",
-    "price": 2250000,
+    "price": 2000000,
     "benefit": 869990
   },
   {
     "brand": "Geely",
     "model": "Monjaro",
-    "price": 3880000,
-    "benefit": 1024990
+    "price": 3550000,
+    "benefit": 1074990
+  },
+  {
+    "brand": "Geely",
+    "model": "OKAVANGO",
+    "price": 2822000,
+    "benefit": 1178990
+  },
+  {
+    "brand": "Geely",
+    "model": "Preface",
+    "price": 2550000,
+    "benefit": 884990
   }
 ]
