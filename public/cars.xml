@@ -1,5 +1,815 @@
 <?xml version='1.0' encoding='utf-8'?>
-<data><cars><car><availability>в наличии</availability><body_type>Седан</body_type><color>БЕЛЫЙ</color><complectation_name>Флагман</complectation_name><credit_discount>0</credit_discount><description>Партнер-Авто Самара официальный дилер GEELY
+<data><cars><car><availability>В пути</availability><color>Чёрный</color><complectation_name>Флагман</complectation_name><credit_discount>0</credit_discount><description>Партнер-Авто Самара официальный дилер GEELY
+
+🚩 Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
+
+Услуги сервисного центра:
+ сервисное обслуживание
+⚡ «шинный отель» 
+⚡ установка дополнительного оборудования и аксессуаров
+⚡ предоставляется гарантия качества 
+
+Услуги отдела продаж: 
+⚡ обмен Вашего автомобиля с пробегом на новый
+⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
+
+Предоставляем нашим клиентам следующие возможности:
+⚡ приобрести автомобиль в Кредит или в Лизинг
+⚡ заключить договоры Страхования
+
+📞   Позвоните прямо сейчас и получите индивидуальные условия приобретения   📞
+ ❗     GEELY Monjaro Флагман  с  гарантией качества до 5 лет или до 150 000 км  ❗
+
+💲
+Цена 3’880 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
+💲
+
+☝️ На цену нового автомобиля в договоре купли-продажи влияют:
+1)        срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
+2)        перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
+3)        стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
+
+В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 620 т.р. :
+- защита картера двигателя
+- защитная сетка радиатора
+- коврики
+- брызговики
+- полная антикоррозионная обработка арок и дна автомобиля
+- сигнализация с автозапуском и управлением со смартфона
+❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
+
+💲
+При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 4’760 т.р.
+
+Выгоды:
+1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 580 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
+2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 250 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
+3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 50 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
+💲
+
+☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 📞
+
+☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
+
+☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 📞
+
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description><folder_id>Monjaro, I</folder_id><images><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS379554/0/full.webp?v=4486fdb0389b</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS379554/1/full.webp?v=1cd8c41f873b</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS379554/2/full.webp?v=9496afffd5eb</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS379554/3/full.webp?v=31d0a885fcaa</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS379554/4/full.webp?v=39f66303581b</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS379554/5/full.webp?v=1b50a23c1bfa</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS379554/6/full.webp?v=233551b968c2</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS379554/7/full.webp?v=43ceeb97f6b0</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS379554/8/full.webp?v=b4f7831af548</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS379554/9/full.webp?v=3444a8222f39</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS379554/10/full.webp?v=03adfa5c25ef</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS379554/11/full.webp?v=738772de2bab</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS379554/12/full.webp?v=653b27d7fc10</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS379554/13/full.webp?v=4fc8c679ff29</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS379554/14/full.webp?v=50908ce483d3</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS379554/15/full.webp?v=031f5f7b6c0a</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS379554/16/full.webp?v=7a603d4a5a27</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS379554/17/full.webp?v=20c401a8389a</image></images><insurance_discount>0</insurance_discount><mark_id>Geely</mark_id><max_discount>1074990</max_discount><modification_id>2.0 4WD AT (238 л.с.)</modification_id><optional_discount>0</optional_discount><price>4954990</price><priceWithDiscount>3880000</priceWithDiscount><sale_price>3880000</sale_price><tradein_discount>0</tradein_discount><vin>LB37852D1TS379554</vin><wheel>Левый</wheel><year>2026</year><color_rus>Черный металлик</color_rus><color_eng>black</color_eng><currency>RUR</currency><url>https://geely-partner-samara.ru/cars/geely-monjaro-i-20-4wd-at-238-hp-flagship-black-2026/</url><model_name>Monjaro</model_name><model_id>monjaro</model_id><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS379554/0/full.webp?v=4486fdb0389b</image></car><car><availability>В пути</availability><color>Серебряный</color><complectation_name>Люкс</complectation_name><credit_discount>0</credit_discount><description>Партнер-Авто Самара официальный дилер GEELY
+
+🚩 Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
+
+Услуги сервисного центра:
+ сервисное обслуживание
+⚡ «шинный отель» 
+⚡ установка дополнительного оборудования и аксессуаров
+⚡ предоставляется гарантия качества 
+
+Услуги отдела продаж: 
+⚡ обмен Вашего автомобиля с пробегом на новый
+⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
+
+Предоставляем нашим клиентам следующие возможности:
+⚡ приобрести автомобиль в Кредит или в Лизинг
+⚡ заключить договоры Страхования
+
+📞   Позвоните прямо сейчас и получите индивидуальные условия приобретения   📞
+ ❗     GEELY Monjaro Люкс  с  гарантией качества до 5 лет или до 150 000 км  ❗
+
+💲
+Цена 3’550 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
+💲
+
+☝️ На цену нового автомобиля в договоре купли-продажи влияют:
+1)        срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
+2)        перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
+3)        стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
+
+В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 620 т.р. :
+- защита картера двигателя
+- защитная сетка радиатора
+- коврики
+- брызговики
+- полная антикоррозионная обработка арок и дна автомобиля
+- сигнализация с автозапуском и управлением со смартфона
+❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
+
+💲
+При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 4’450 т.р.
+
+Выгоды:
+1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 580 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
+2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 270 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
+3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 50 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
+💲
+
+☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 📞
+
+☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
+
+☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 📞
+
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description><folder_id>Monjaro, I</folder_id><images><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS584631/0/full.webp?v=61f968c8d9f0</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS584631/1/full.webp?v=78cf6794995e</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS584631/2/full.webp?v=c8293f0bfd12</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS584631/3/full.webp?v=109f92ee8d53</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS584631/4/full.webp?v=9bf1fe3e8f0c</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS584631/5/full.webp?v=01b0d768e8f6</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS584631/6/full.webp?v=712a4e983ddf</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS584631/7/full.webp?v=4cbda9621d43</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS584631/8/full.webp?v=06af57aaaaa8</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS584631/9/full.webp?v=cb1402c48a95</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS584631/10/full.webp?v=d70c39fffdba</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS584631/11/full.webp?v=d454a147c393</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS584631/12/full.webp?v=b75ade4c5043</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS584631/13/full.webp?v=8061315bd90a</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS584631/14/full.webp?v=a00156e56501</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS584631/15/full.webp?v=8f63dacd0ee3</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS584631/16/full.webp?v=cdb5b20a2802</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS584631/17/full.webp?v=f4deb119fe9c</image></images><insurance_discount>0</insurance_discount><mark_id>Geely</mark_id><max_discount>1049990</max_discount><modification_id>2.0 4WD AT (238 л.с.)</modification_id><optional_discount>0</optional_discount><price>4599990</price><priceWithDiscount>3550000</priceWithDiscount><sale_price>3550000</sale_price><tradein_discount>0</tradein_discount><vin>LB37852D1TS584631</vin><wheel>Левый</wheel><year>2026</year><color_rus>Серебристый металлик</color_rus><color_eng>silver</color_eng><currency>RUR</currency><url>https://geely-partner-samara.ru/cars/geely-monjaro-i-20-4wd-at-238-hp-luxury-silver-2026/</url><model_name>Monjaro</model_name><model_id>monjaro</model_id><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS584631/0/full.webp?v=61f968c8d9f0</image></car><car><availability>В пути</availability><color>Серый</color><complectation_name>Люкс</complectation_name><credit_discount>0</credit_discount><description>Партнер-Авто Самара официальный дилер GEELY
+
+🚩 Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
+
+Услуги сервисного центра:
+ сервисное обслуживание
+⚡ «шинный отель» 
+⚡ установка дополнительного оборудования и аксессуаров
+⚡ предоставляется гарантия качества 
+
+Услуги отдела продаж: 
+⚡ обмен Вашего автомобиля с пробегом на новый
+⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
+
+Предоставляем нашим клиентам следующие возможности:
+⚡ приобрести автомобиль в Кредит или в Лизинг
+⚡ заключить договоры Страхования
+
+📞   Позвоните прямо сейчас и получите индивидуальные условия приобретения   📞
+ ❗     GEELY Monjaro Люкс  с  гарантией качества до 5 лет или до 150 000 км  ❗
+
+💲
+Цена 3’550 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
+💲
+
+☝️ На цену нового автомобиля в договоре купли-продажи влияют:
+1)        срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
+2)        перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
+3)        стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
+
+В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 620 т.р. :
+- защита картера двигателя
+- защитная сетка радиатора
+- коврики
+- брызговики
+- полная антикоррозионная обработка арок и дна автомобиля
+- сигнализация с автозапуском и управлением со смартфона
+❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
+
+💲
+При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 4’450 т.р.
+
+Выгоды:
+1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 580 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
+2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 270 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
+3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 50 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
+💲
+
+☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 📞
+
+☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
+
+☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 📞
+
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description><folder_id>Monjaro, I</folder_id><images><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS695578/0/full.webp?v=bec373fcc278</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS695578/1/full.webp?v=68670db9a8ce</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS695578/2/full.webp?v=fa3d4dd333d6</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS695578/3/full.webp?v=4e706c88b426</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS695578/4/full.webp?v=df3c52bffa26</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS695578/5/full.webp?v=6244430141a0</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS695578/6/full.webp?v=dd5d9a0fe6e3</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS695578/7/full.webp?v=8bf430cde3c6</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS695578/8/full.webp?v=64f5f458cf18</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS695578/9/full.webp?v=a206a40d92e0</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS695578/10/full.webp?v=94610a760425</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS695578/11/full.webp?v=ce2409511435</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS695578/12/full.webp?v=0ca63b535e34</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS695578/13/full.webp?v=a514fb14b6de</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS695578/14/full.webp?v=834089fafff7</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS695578/15/full.webp?v=9578ed24a245</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS695578/16/full.webp?v=eda669ab8fcf</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS695578/17/full.webp?v=4f7835c682b6</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS695578/18/full.webp?v=fb7d3a1e7fde</image></images><insurance_discount>0</insurance_discount><mark_id>Geely</mark_id><max_discount>1049990</max_discount><modification_id>2.0 4WD AT (238 л.с.)</modification_id><optional_discount>0</optional_discount><price>4599990</price><priceWithDiscount>3550000</priceWithDiscount><sale_price>3550000</sale_price><tradein_discount>0</tradein_discount><vin>LB37852D1TS695578</vin><wheel>Левый</wheel><year>2026</year><color_rus>Серый металлик</color_rus><color_eng>gray</color_eng><currency>RUR</currency><url>https://geely-partner-samara.ru/cars/geely-monjaro-i-20-4wd-at-238-hp-luxury-gray-2026/</url><model_name>Monjaro</model_name><model_id>monjaro</model_id><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS695578/0/full.webp?v=bec373fcc278</image></car><car><availability>В пути</availability><color>Зелёный</color><complectation_name>Флагман</complectation_name><credit_discount>0</credit_discount><description>Партнер-Авто Самара официальный дилер GEELY
+
+🚩 Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
+
+Услуги сервисного центра:
+ сервисное обслуживание
+⚡ «шинный отель» 
+⚡ установка дополнительного оборудования и аксессуаров
+⚡ предоставляется гарантия качества 
+
+Услуги отдела продаж: 
+⚡ обмен Вашего автомобиля с пробегом на новый
+⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
+
+Предоставляем нашим клиентам следующие возможности:
+⚡ приобрести автомобиль в Кредит или в Лизинг
+⚡ заключить договоры Страхования
+
+📞   Позвоните прямо сейчас и получите индивидуальные условия приобретения   📞
+ ❗     GEELY Monjaro Флагман  с  гарантией качества до 5 лет или до 150 000 км  ❗
+
+💲
+Цена 3’880 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
+💲
+
+☝️ На цену нового автомобиля в договоре купли-продажи влияют:
+1)        срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
+2)        перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
+3)        стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
+
+В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 620 т.р. :
+- защита картера двигателя
+- защитная сетка радиатора
+- коврики
+- брызговики
+- полная антикоррозионная обработка арок и дна автомобиля
+- сигнализация с автозапуском и управлением со смартфона
+❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
+
+💲
+При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 4’760 т.р.
+
+Выгоды:
+1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 580 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
+2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 250 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
+3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 50 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
+💲
+
+☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 📞
+
+☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
+
+☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 📞
+
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description><folder_id>Monjaro, I</folder_id><images><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS236945/0/full.webp?v=b841de1fc758</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS236945/1/full.webp?v=6242cf758a81</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS236945/2/full.webp?v=3fcc9bdfdd4a</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS236945/3/full.webp?v=6825e39342dd</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS236945/4/full.webp?v=d60f3dfc62d6</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS236945/5/full.webp?v=9d5fc393a1b4</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS236945/6/full.webp?v=bec008f0c467</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS236945/7/full.webp?v=079e320463a4</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS236945/8/full.webp?v=781944549490</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS236945/9/full.webp?v=630754c00e8b</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS236945/10/full.webp?v=8b3ddeb181ae</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS236945/11/full.webp?v=940eea04e95d</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS236945/12/full.webp?v=7ec8f29c506c</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS236945/13/full.webp?v=e6bf65020d9c</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS236945/14/full.webp?v=3992bf263a56</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS236945/15/full.webp?v=dd61c3a020e9</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS236945/16/full.webp?v=04b61fa66fae</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS236945/17/full.webp?v=7917e850747b</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS236945/18/full.webp?v=114e80ec3836</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS236945/19/full.webp?v=ca76e13e0478</image></images><insurance_discount>0</insurance_discount><mark_id>Geely</mark_id><max_discount>1074990</max_discount><modification_id>2.0 4WD AT (238 л.с.)</modification_id><optional_discount>0</optional_discount><price>4954990</price><priceWithDiscount>3880000</priceWithDiscount><sale_price>3880000</sale_price><tradein_discount>0</tradein_discount><vin>LB37852D7SS236945</vin><wheel>Левый</wheel><year>2026</year><color_rus>Изумрудный металлик</color_rus><color_eng>emerald</color_eng><currency>RUR</currency><url>https://geely-partner-samara.ru/cars/geely-monjaro-i-20-4wd-at-238-hp-flagship-emerald-2026/</url><model_name>Monjaro</model_name><model_id>monjaro</model_id><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS236945/0/full.webp?v=b841de1fc758</image></car><car><availability>В пути</availability><color>Зелёный</color><complectation_name>Флагман</complectation_name><credit_discount>0</credit_discount><description>Партнер-Авто Самара официальный дилер GEELY
+
+🚩 Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
+
+Услуги сервисного центра:
+ сервисное обслуживание
+⚡ «шинный отель» 
+⚡ установка дополнительного оборудования и аксессуаров
+⚡ предоставляется гарантия качества 
+
+Услуги отдела продаж: 
+⚡ обмен Вашего автомобиля с пробегом на новый
+⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
+
+Предоставляем нашим клиентам следующие возможности:
+⚡ приобрести автомобиль в Кредит или в Лизинг
+⚡ заключить договоры Страхования
+
+📞   Позвоните прямо сейчас и получите индивидуальные условия приобретения   📞
+ ❗     GEELY Monjaro Флагман  с  гарантией качества до 5 лет или до 150 000 км  ❗
+
+💲
+Цена 3’880 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
+💲
+
+☝️ На цену нового автомобиля в договоре купли-продажи влияют:
+1)        срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
+2)        перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
+3)        стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
+
+В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 620 т.р. :
+- защита картера двигателя
+- защитная сетка радиатора
+- коврики
+- брызговики
+- полная антикоррозионная обработка арок и дна автомобиля
+- сигнализация с автозапуском и управлением со смартфона
+❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
+
+💲
+При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 4’760 т.р.
+
+Выгоды:
+1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 580 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
+2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 250 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
+3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 50 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
+💲
+
+☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 📞
+
+☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
+
+☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 📞
+
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description><folder_id>Monjaro, I</folder_id><images><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS275879/0/full.webp?v=b841de1fc758</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS275879/1/full.webp?v=6242cf758a81</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS275879/2/full.webp?v=3fcc9bdfdd4a</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS275879/3/full.webp?v=6825e39342dd</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS275879/4/full.webp?v=d60f3dfc62d6</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS275879/5/full.webp?v=9d5fc393a1b4</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS275879/6/full.webp?v=bec008f0c467</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS275879/7/full.webp?v=079e320463a4</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS275879/8/full.webp?v=781944549490</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS275879/9/full.webp?v=630754c00e8b</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS275879/10/full.webp?v=8b3ddeb181ae</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS275879/11/full.webp?v=940eea04e95d</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS275879/12/full.webp?v=7ec8f29c506c</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS275879/13/full.webp?v=e6bf65020d9c</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS275879/14/full.webp?v=3992bf263a56</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS275879/15/full.webp?v=dd61c3a020e9</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS275879/16/full.webp?v=04b61fa66fae</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS275879/17/full.webp?v=7917e850747b</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS275879/18/full.webp?v=114e80ec3836</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS275879/19/full.webp?v=ca76e13e0478</image></images><insurance_discount>0</insurance_discount><mark_id>Geely</mark_id><max_discount>1074990</max_discount><modification_id>2.0 4WD AT (238 л.с.)</modification_id><optional_discount>0</optional_discount><price>4954990</price><priceWithDiscount>3880000</priceWithDiscount><sale_price>3880000</sale_price><tradein_discount>0</tradein_discount><vin>LB37852D7SS275879</vin><wheel>Левый</wheel><year>2026</year><color_rus>Изумрудный металлик</color_rus><color_eng>emerald</color_eng><currency>RUR</currency><url>https://geely-partner-samara.ru/cars/geely-monjaro-i-20-4wd-at-238-hp-flagship-emerald-2026/</url><model_name>Monjaro</model_name><model_id>monjaro</model_id><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS275879/0/full.webp?v=b841de1fc758</image></car><car><availability>В пути</availability><color>Чёрный</color><complectation_name>Флагман</complectation_name><credit_discount>0</credit_discount><description>Партнер-Авто Самара официальный дилер GEELY
+
+🚩 Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
+
+Услуги сервисного центра:
+ сервисное обслуживание
+⚡ «шинный отель» 
+⚡ установка дополнительного оборудования и аксессуаров
+⚡ предоставляется гарантия качества 
+
+Услуги отдела продаж: 
+⚡ обмен Вашего автомобиля с пробегом на новый
+⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
+
+Предоставляем нашим клиентам следующие возможности:
+⚡ приобрести автомобиль в Кредит или в Лизинг
+⚡ заключить договоры Страхования
+
+📞   Позвоните прямо сейчас и получите индивидуальные условия приобретения   📞
+ ❗     GEELY Monjaro Флагман  с  гарантией качества до 5 лет или до 150 000 км  ❗
+
+💲
+Цена 3’880 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
+💲
+
+☝️ На цену нового автомобиля в договоре купли-продажи влияют:
+1)        срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
+2)        перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
+3)        стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
+
+В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 620 т.р. :
+- защита картера двигателя
+- защитная сетка радиатора
+- коврики
+- брызговики
+- полная антикоррозионная обработка арок и дна автомобиля
+- сигнализация с автозапуском и управлением со смартфона
+❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
+
+💲
+При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 4’760 т.р.
+
+Выгоды:
+1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 580 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
+2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 250 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
+3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 50 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
+💲
+
+☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 📞
+
+☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
+
+☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 📞
+
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description><folder_id>Monjaro, I</folder_id><images><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS279674/0/full.webp?v=4486fdb0389b</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS279674/1/full.webp?v=1cd8c41f873b</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS279674/2/full.webp?v=9496afffd5eb</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS279674/3/full.webp?v=31d0a885fcaa</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS279674/4/full.webp?v=39f66303581b</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS279674/5/full.webp?v=1b50a23c1bfa</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS279674/6/full.webp?v=233551b968c2</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS279674/7/full.webp?v=43ceeb97f6b0</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS279674/8/full.webp?v=b4f7831af548</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS279674/9/full.webp?v=3444a8222f39</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS279674/10/full.webp?v=03adfa5c25ef</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS279674/11/full.webp?v=738772de2bab</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS279674/12/full.webp?v=653b27d7fc10</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS279674/13/full.webp?v=4fc8c679ff29</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS279674/14/full.webp?v=50908ce483d3</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS279674/15/full.webp?v=031f5f7b6c0a</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS279674/16/full.webp?v=7a603d4a5a27</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS279674/17/full.webp?v=20c401a8389a</image></images><insurance_discount>0</insurance_discount><mark_id>Geely</mark_id><max_discount>1074990</max_discount><modification_id>2.0 4WD AT (238 л.с.)</modification_id><optional_discount>0</optional_discount><price>4954990</price><priceWithDiscount>3880000</priceWithDiscount><sale_price>3880000</sale_price><tradein_discount>0</tradein_discount><vin>LB37852D7SS279674</vin><wheel>Левый</wheel><year>2026</year><color_rus>Черный металлик</color_rus><color_eng>black</color_eng><currency>RUR</currency><url>https://geely-partner-samara.ru/cars/geely-monjaro-i-20-4wd-at-238-hp-flagship-black-2026/</url><model_name>Monjaro</model_name><model_id>monjaro</model_id><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS279674/0/full.webp?v=4486fdb0389b</image></car><car><availability>В пути</availability><color>Чёрный</color><complectation_name>Флагман</complectation_name><credit_discount>0</credit_discount><description>Партнер-Авто Самара официальный дилер GEELY
+
+🚩 Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
+
+Услуги сервисного центра:
+ сервисное обслуживание
+⚡ «шинный отель» 
+⚡ установка дополнительного оборудования и аксессуаров
+⚡ предоставляется гарантия качества 
+
+Услуги отдела продаж: 
+⚡ обмен Вашего автомобиля с пробегом на новый
+⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
+
+Предоставляем нашим клиентам следующие возможности:
+⚡ приобрести автомобиль в Кредит или в Лизинг
+⚡ заключить договоры Страхования
+
+📞   Позвоните прямо сейчас и получите индивидуальные условия приобретения   📞
+ ❗     GEELY Monjaro Флагман  с  гарантией качества до 5 лет или до 150 000 км  ❗
+
+💲
+Цена 3’880 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
+💲
+
+☝️ На цену нового автомобиля в договоре купли-продажи влияют:
+1)        срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
+2)        перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
+3)        стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
+
+В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 620 т.р. :
+- защита картера двигателя
+- защитная сетка радиатора
+- коврики
+- брызговики
+- полная антикоррозионная обработка арок и дна автомобиля
+- сигнализация с автозапуском и управлением со смартфона
+❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
+
+💲
+При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 4’760 т.р.
+
+Выгоды:
+1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 580 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
+2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 250 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
+3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 50 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
+💲
+
+☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 📞
+
+☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
+
+☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 📞
+
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description><folder_id>Monjaro, I</folder_id><images><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS859712/0/full.webp?v=4486fdb0389b</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS859712/1/full.webp?v=1cd8c41f873b</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS859712/2/full.webp?v=9496afffd5eb</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS859712/3/full.webp?v=31d0a885fcaa</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS859712/4/full.webp?v=39f66303581b</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS859712/5/full.webp?v=1b50a23c1bfa</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS859712/6/full.webp?v=233551b968c2</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS859712/7/full.webp?v=43ceeb97f6b0</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS859712/8/full.webp?v=b4f7831af548</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS859712/9/full.webp?v=3444a8222f39</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS859712/10/full.webp?v=03adfa5c25ef</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS859712/11/full.webp?v=738772de2bab</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS859712/12/full.webp?v=653b27d7fc10</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS859712/13/full.webp?v=4fc8c679ff29</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS859712/14/full.webp?v=50908ce483d3</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS859712/15/full.webp?v=031f5f7b6c0a</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS859712/16/full.webp?v=7a603d4a5a27</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS859712/17/full.webp?v=20c401a8389a</image></images><insurance_discount>0</insurance_discount><mark_id>Geely</mark_id><max_discount>1074990</max_discount><modification_id>2.0 4WD AT (238 л.с.)</modification_id><optional_discount>0</optional_discount><price>4954990</price><priceWithDiscount>3880000</priceWithDiscount><sale_price>3880000</sale_price><tradein_discount>0</tradein_discount><vin>LB37852D7SS859712</vin><wheel>Левый</wheel><year>2026</year><color_rus>Черный металлик</color_rus><color_eng>black</color_eng><currency>RUR</currency><url>https://geely-partner-samara.ru/cars/geely-monjaro-i-20-4wd-at-238-hp-flagship-black-2026/</url><model_name>Monjaro</model_name><model_id>monjaro</model_id><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS859712/0/full.webp?v=4486fdb0389b</image></car><car><availability>В пути</availability><color>Серебряный</color><complectation_name>Флагман</complectation_name><credit_discount>0</credit_discount><description>Партнер-Авто Самара официальный дилер GEELY
+
+ Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
+
+Услуги сервисного центра:
+ сервисное обслуживание
+⚡ «шинный отель» 
+⚡ установка дополнительного оборудования и аксессуаров
+⚡ предоставляется гарантия качества 
+
+Услуги отдела продаж: 
+⚡ обмен Вашего автомобиля с пробегом на новый
+⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
+
+Предоставляем нашим клиентам следующие возможности:
+⚡ приобрести автомобиль в Кредит или в Лизинг
+⚡ заключить договоры Страхования
+
+   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
+ ❗     GEELY Atlas Флагман  с  гарантией качества до 5 лет или до 150 000 км  ❗
+
+
+Цена 3’400 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
+
+
+☝️ На цену нового автомобиля в договоре купли-продажи влияют:
+1)        срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
+2)        перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
+3)        стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
+
+В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 500 т.р. :
+- защита картера двигателя
+- защитная сетка радиатора
+- коврики
+- брызговики
+- полная антикоррозионная обработка арок и дна автомобиля
+- сигнализация с автозапуском и управлением со смартфона
+❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
+
+
+При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 4’050 т.р.
+
+Выгоды:
+1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 460 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
+2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 160 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
+3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
+
+
+☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
+
+☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
+
+☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
+
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description><folder_id>Atlas, II</folder_id><images><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB345897/0/full.webp?v=59e5b3d32ea9</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB345897/1/full.webp?v=19555209b60d</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB345897/2/full.webp?v=2ff6d70b9f91</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB345897/3/full.webp?v=d74981028aff</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB345897/4/full.webp?v=9dc477dbc816</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB345897/5/full.webp?v=1e1f290d46d8</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB345897/6/full.webp?v=801bb4b80604</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB345897/7/full.webp?v=412dd6fee872</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB345897/8/full.webp?v=385fb8a04b04</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB345897/9/full.webp?v=6b9fc3d84fd1</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB345897/10/full.webp?v=f6cbd0e48d40</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB345897/11/full.webp?v=e3bad67af76a</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB345897/12/full.webp?v=69401b95fe20</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB345897/13/full.webp?v=8b9e8272a0aa</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB345897/14/full.webp?v=4687a51cce01</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB345897/15/full.webp?v=25e3b06bb7c3</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB345897/16/full.webp?v=684b86bb2036</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB345897/17/full.webp?v=3f69ab8e6893</image></images><insurance_discount>0</insurance_discount><mark_id>Geely</mark_id><max_discount>719990</max_discount><modification_id>2.0T 4WD AT (200 л.с.)</modification_id><optional_discount>0</optional_discount><price>4119990</price><priceWithDiscount>3400000</priceWithDiscount><sale_price>3400000</sale_price><tradein_discount>0</tradein_discount><vin>LB3FX1S18SB345897</vin><wheel>Левый</wheel><year>2026</year><color_rus>Серебристый металлик</color_rus><color_eng>silver</color_eng><currency>RUR</currency><url>https://geely-partner-samara.ru/cars/geely-atlas-ii-20t-4wd-at-200-hp-flagship-silver-2026/</url><model_name>Atlas</model_name><model_id>geely-atlas-2024</model_id><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB345897/0/full.webp?v=59e5b3d32ea9</image></car><car><availability>В пути</availability><color>Белый</color><complectation_name>Люкс</complectation_name><credit_discount>0</credit_discount><description>Партнер-Авто Самара официальный дилер GEELY
+
+ Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
+
+Услуги сервисного центра:
+ сервисное обслуживание
+⚡ «шинный отель» 
+⚡ установка дополнительного оборудования и аксессуаров
+⚡ предоставляется гарантия качества 
+
+Услуги отдела продаж: 
+⚡ обмен Вашего автомобиля с пробегом на новый
+⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
+
+Предоставляем нашим клиентам следующие возможности:
+⚡ приобрести автомобиль в Кредит или в Лизинг
+⚡ заключить договоры Страхования
+
+   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
+ ❗     GEELY Atlas Люкс  с  гарантией качества до 5 лет или до 150 000 км  ❗
+
+
+Цена 3’300 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
+
+
+☝️ На цену нового автомобиля в договоре купли-продажи влияют:
+1)        срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
+2)        перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
+3)        стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
+
+В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 400 т.р. :
+- защита картера двигателя
+- защитная сетка радиатора
+- коврики
+- брызговики
+- полная антикоррозионная обработка арок и дна автомобиля
+- сигнализация с автозапуском и управлением со смартфона
+❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
+
+
+При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 3’850 т.р.
+
+Выгоды:
+1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 360 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
+2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 160 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
+3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
+
+
+☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
+
+☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
+
+☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
+
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description><folder_id>Atlas, II</folder_id><images><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB36589/0/full.webp?v=a2bcfd95d28b</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB36589/1/full.webp?v=eb0ce790926f</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB36589/2/full.webp?v=f9a91e1a6870</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB36589/3/full.webp?v=5285203c0109</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB36589/4/full.webp?v=727d3fbf33d2</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB36589/5/full.webp?v=88dc540aa15f</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB36589/6/full.webp?v=c8a498de8bce</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB36589/7/full.webp?v=909d1665cc9a</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB36589/8/full.webp?v=39ec52e4691d</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB36589/9/full.webp?v=3a758df3c951</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB36589/10/full.webp?v=ab24d163d34c</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB36589/11/full.webp?v=6e0da008233e</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB36589/12/full.webp?v=bb0dbd6d4814</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB36589/13/full.webp?v=1898a68eabd7</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB36589/14/full.webp?v=09bc3d459f2e</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB36589/15/full.webp?v=a0da2945b6cf</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB36589/16/full.webp?v=a28458ab3591</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB36589/17/full.webp?v=f33c23431386</image></images><insurance_discount>0</insurance_discount><mark_id>Geely</mark_id><max_discount>609990</max_discount><modification_id>2.0T 4WD AT (200 л.с.)</modification_id><optional_discount>0</optional_discount><price>3909990</price><priceWithDiscount>3300000</priceWithDiscount><sale_price>3300000</sale_price><tradein_discount>0</tradein_discount><vin>LB3FX1S18SB36589</vin><wheel>Левый</wheel><year>2026</year><color_rus>Белый</color_rus><color_eng>white</color_eng><currency>RUR</currency><url>https://geely-partner-samara.ru/cars/geely-atlas-ii-20t-4wd-at-200-hp-luxury-white-2026/</url><model_name>Atlas</model_name><model_id>geely-atlas-2024</model_id><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB36589/0/full.webp?v=a2bcfd95d28b</image></car><car><availability>В пути</availability><color>Белый</color><complectation_name>Флагман</complectation_name><credit_discount>0</credit_discount><description>Партнер-Авто Самара официальный дилер GEELY
+
+ Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
+
+Услуги сервисного центра:
+ сервисное обслуживание
+⚡ «шинный отель» 
+⚡ установка дополнительного оборудования и аксессуаров
+⚡ предоставляется гарантия качества 
+
+Услуги отдела продаж: 
+⚡ обмен Вашего автомобиля с пробегом на новый
+⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
+
+Предоставляем нашим клиентам следующие возможности:
+⚡ приобрести автомобиль в Кредит или в Лизинг
+⚡ заключить договоры Страхования
+
+   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
+ ❗     GEELY Atlas Флагман  с  гарантией качества до 5 лет или до 150 000 км  ❗
+
+
+Цена 3’400 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
+
+
+☝️ На цену нового автомобиля в договоре купли-продажи влияют:
+1)        срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
+2)        перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
+3)        стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
+
+В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 500 т.р. :
+- защита картера двигателя
+- защитная сетка радиатора
+- коврики
+- брызговики
+- полная антикоррозионная обработка арок и дна автомобиля
+- сигнализация с автозапуском и управлением со смартфона
+❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
+
+
+При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 4’050 т.р.
+
+Выгоды:
+1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 460 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
+2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 160 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
+3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
+
+
+☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
+
+☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
+
+☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
+
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description><folder_id>Atlas, II</folder_id><images><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB512256/0/full.webp?v=a2bcfd95d28b</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB512256/1/full.webp?v=eb0ce790926f</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB512256/2/full.webp?v=f9a91e1a6870</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB512256/3/full.webp?v=5285203c0109</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB512256/4/full.webp?v=727d3fbf33d2</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB512256/5/full.webp?v=88dc540aa15f</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB512256/6/full.webp?v=c8a498de8bce</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB512256/7/full.webp?v=909d1665cc9a</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB512256/8/full.webp?v=39ec52e4691d</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB512256/9/full.webp?v=3a758df3c951</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB512256/10/full.webp?v=ab24d163d34c</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB512256/11/full.webp?v=6e0da008233e</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB512256/12/full.webp?v=bb0dbd6d4814</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB512256/13/full.webp?v=1898a68eabd7</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB512256/14/full.webp?v=09bc3d459f2e</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB512256/15/full.webp?v=a0da2945b6cf</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB512256/16/full.webp?v=a28458ab3591</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB512256/17/full.webp?v=f33c23431386</image></images><insurance_discount>0</insurance_discount><mark_id>Geely</mark_id><max_discount>719990</max_discount><modification_id>2.0T 4WD AT (200 л.с.)</modification_id><optional_discount>0</optional_discount><price>4119990</price><priceWithDiscount>3400000</priceWithDiscount><sale_price>3400000</sale_price><tradein_discount>0</tradein_discount><vin>LB3FX1S18SB512256</vin><wheel>Левый</wheel><year>2026</year><color_rus>Белый</color_rus><color_eng>white</color_eng><currency>RUR</currency><url>https://geely-partner-samara.ru/cars/geely-atlas-ii-20t-4wd-at-200-hp-flagship-white-2026/</url><model_name>Atlas</model_name><model_id>geely-atlas-2024</model_id><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB512256/0/full.webp?v=a2bcfd95d28b</image></car><car><availability>В пути</availability><color>Серый</color><complectation_name>Флагман</complectation_name><credit_discount>0</credit_discount><description>Партнер-Авто Самара официальный дилер GEELY
+
+ Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
+
+Услуги сервисного центра:
+ сервисное обслуживание
+⚡ «шинный отель» 
+⚡ установка дополнительного оборудования и аксессуаров
+⚡ предоставляется гарантия качества 
+
+Услуги отдела продаж: 
+⚡ обмен Вашего автомобиля с пробегом на новый
+⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
+
+Предоставляем нашим клиентам следующие возможности:
+⚡ приобрести автомобиль в Кредит или в Лизинг
+⚡ заключить договоры Страхования
+
+   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
+ ❗     GEELY Cityray Флагман  с  гарантией качества до 5 лет или до 150 000 км  ❗
+
+
+Цена 2’400 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
+
+
+☝️ На цену нового автомобиля в договоре купли-продажи влияют:
+1)        срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
+2)        перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
+3)        стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
+
+В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 480 т.р. :
+- защита картера двигателя
+- защитная сетка радиатора
+- коврики
+- брызговики
+- полная антикоррозионная обработка арок и дна автомобиля
+- сигнализация с автозапуском и управлением со смартфона
+❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
+
+
+При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 3’170 т.р.
+
+Выгоды:
+1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 440 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
+2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 300 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
+3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
+
+
+☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
+
+☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
+
+☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
+
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description><folder_id>Cityray</folder_id><insurance_discount>0</insurance_discount><mark_id>Geely</mark_id><max_discount>859990</max_discount><modification_id>1.5T DCT (147 л.с.)</modification_id><optional_discount>0</optional_discount><price>3259990</price><priceWithDiscount>2400000</priceWithDiscount><sale_price>2400000</sale_price><tradein_discount>0</tradein_discount><vin>LB3G43S97SX592987</vin><wheel>Левый</wheel><year>2026</year><color_rus>Серый металлик</color_rus><color_eng>gray</color_eng><currency>RUR</currency><url>https://geely-partner-samara.ru/cars/geely-cityray-15t-dct-147-hp-flagship-gray-2026/</url><model_name>Cityray</model_name><model_id>cityray</model_id></car><car><availability>В пути</availability><color>Белый</color><complectation_name>Флагман</complectation_name><credit_discount>0</credit_discount><description>Партнер-Авто Самара официальный дилер GEELY
+
+ Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
+
+Услуги сервисного центра:
+ сервисное обслуживание
+⚡ «шинный отель» 
+⚡ установка дополнительного оборудования и аксессуаров
+⚡ предоставляется гарантия качества 
+
+Услуги отдела продаж: 
+⚡ обмен Вашего автомобиля с пробегом на новый
+⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
+
+Предоставляем нашим клиентам следующие возможности:
+⚡ приобрести автомобиль в Кредит или в Лизинг
+⚡ заключить договоры Страхования
+
+   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
+ ❗     GEELY Cityray Флагман  с  гарантией качества до 5 лет или до 150 000 км  ❗
+
+
+Цена 2’400 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
+
+
+☝️ На цену нового автомобиля в договоре купли-продажи влияют:
+1)        срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
+2)        перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
+3)        стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
+
+В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 480 т.р. :
+- защита картера двигателя
+- защитная сетка радиатора
+- коврики
+- брызговики
+- полная антикоррозионная обработка арок и дна автомобиля
+- сигнализация с автозапуском и управлением со смартфона
+❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
+
+
+При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 3’170 т.р.
+
+Выгоды:
+1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 440 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
+2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 300 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
+3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
+
+
+☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
+
+☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
+
+☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
+
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description><folder_id>Cityray</folder_id><images><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX603508/0/full.webp?v=8f91c7e8cb80</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX603508/1/full.webp?v=f8f69a0d4926</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX603508/2/full.webp?v=9e91fda18499</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX603508/3/full.webp?v=7fab89ed9c99</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX603508/4/full.webp?v=3664547d6226</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX603508/5/full.webp?v=c365090ac3d1</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX603508/6/full.webp?v=e100409fa02c</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX603508/7/full.webp?v=d553c0b203d1</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX603508/8/full.webp?v=b0d64db5b39d</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX603508/9/full.webp?v=59c4d3a5b1f7</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX603508/10/full.webp?v=767e02de6586</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX603508/11/full.webp?v=44348311df32</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX603508/12/full.webp?v=1da1896a71c1</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX603508/13/full.webp?v=bfc615b77598</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX603508/14/full.webp?v=228334ea7c97</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX603508/15/full.webp?v=0df81478d8f1</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX603508/16/full.webp?v=ce62ddfdae3d</image></images><insurance_discount>0</insurance_discount><mark_id>Geely</mark_id><max_discount>859990</max_discount><modification_id>1.5T DCT (147 л.с.)</modification_id><optional_discount>0</optional_discount><price>3259990</price><priceWithDiscount>2400000</priceWithDiscount><sale_price>2400000</sale_price><tradein_discount>0</tradein_discount><vin>LB3G43S97SX603508</vin><wheel>Левый</wheel><year>2026</year><color_rus>Белый</color_rus><color_eng>white</color_eng><currency>RUR</currency><url>https://geely-partner-samara.ru/cars/geely-cityray-15t-dct-147-hp-flagship-white-2026/</url><model_name>Cityray</model_name><model_id>cityray</model_id><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX603508/0/full.webp?v=8f91c7e8cb80</image></car><car><availability>В пути</availability><color>Белый</color><complectation_name>Комфорт</complectation_name><credit_discount>0</credit_discount><description>Партнер-Авто Самара официальный дилер GEELY
+
+ Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
+
+Услуги сервисного центра:
+ сервисное обслуживание
+⚡ «шинный отель» 
+⚡ установка дополнительного оборудования и аксессуаров
+⚡ предоставляется гарантия качества 
+
+Услуги отдела продаж: 
+⚡ обмен Вашего автомобиля с пробегом на новый
+⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
+
+Предоставляем нашим клиентам следующие возможности:
+⚡ приобрести автомобиль в Кредит или в Лизинг
+⚡ заключить договоры Страхования
+
+   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
+ ❗     GEELY Cityray Комфорт  с  гарантией качества до 5 лет или до 150 000 км  ❗
+
+
+Цена 2’100 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
+
+
+☝️ На цену нового автомобиля в договоре купли-продажи влияют:
+1)        срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
+2)        перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
+3)        стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
+
+В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 420 т.р. :
+- защита картера двигателя
+- защитная сетка радиатора
+- коврики
+- брызговики
+- полная антикоррозионная обработка арок и дна автомобиля
+- сигнализация с автозапуском и управлением со смартфона
+❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
+
+
+При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 2’810 т.р.
+
+Выгоды:
+1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 380 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
+2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 300 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
+3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
+
+
+☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
+
+☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
+
+☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
+
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description><folder_id>Cityray</folder_id><images><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611589/0/full.webp?v=d380ea9c5e54</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611589/1/full.webp?v=4621eed409c7</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611589/2/full.webp?v=20d6348634e6</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611589/3/full.webp?v=c6111836ba02</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611589/4/full.webp?v=c4f982a6dc7d</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611589/5/full.webp?v=850b276d7557</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611589/6/full.webp?v=f09eca7c091c</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611589/7/full.webp?v=d538701f8056</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611589/8/full.webp?v=fe2da85e10e3</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611589/9/full.webp?v=805817ef0e4e</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611589/10/full.webp?v=d60e2b7d9007</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611589/11/full.webp?v=b04c2b2d63f0</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611589/12/full.webp?v=462059671d31</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611589/13/full.webp?v=3c0450791a05</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611589/14/full.webp?v=d9abb9ee2125</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611589/15/full.webp?v=8a241af6216f</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611589/16/full.webp?v=0ad424cabc5c</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611589/17/full.webp?v=d5bc2f3ef5c5</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611589/18/full.webp?v=515fbce4c0d1</image></images><insurance_discount>0</insurance_discount><mark_id>Geely</mark_id><max_discount>769990</max_discount><modification_id>1.5T DCT (147 л.с.)</modification_id><optional_discount>0</optional_discount><price>2869990</price><priceWithDiscount>2100000</priceWithDiscount><sale_price>2100000</sale_price><tradein_discount>0</tradein_discount><vin>LB3G43S97SX611589</vin><wheel>Левый</wheel><year>2026</year><color_rus>Белый</color_rus><color_eng>white</color_eng><currency>RUR</currency><url>https://geely-partner-samara.ru/cars/geely-cityray-15t-dct-147-hp-comfort-white-2026/</url><model_name>Cityray</model_name><model_id>cityray</model_id><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611589/0/full.webp?v=d380ea9c5e54</image></car><car><availability>В пути</availability><color>Серый</color><complectation_name>Люкс</complectation_name><credit_discount>0</credit_discount><description>Партнер-Авто Самара официальный дилер GEELY
+
+ Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
+
+Услуги сервисного центра:
+ сервисное обслуживание
+⚡ «шинный отель» 
+⚡ установка дополнительного оборудования и аксессуаров
+⚡ предоставляется гарантия качества 
+
+Услуги отдела продаж: 
+⚡ обмен Вашего автомобиля с пробегом на новый
+⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
+
+Предоставляем нашим клиентам следующие возможности:
+⚡ приобрести автомобиль в Кредит или в Лизинг
+⚡ заключить договоры Страхования
+
+   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
+ ❗     GEELY Cityray Люкс  с  гарантией качества до 5 лет или до 150 000 км  ❗
+
+
+Цена 2’350 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
+
+
+☝️ На цену нового автомобиля в договоре купли-продажи влияют:
+1)        срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
+2)        перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
+3)        стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
+
+В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 420 т.р. :
+- защита картера двигателя
+- защитная сетка радиатора
+- коврики
+- брызговики
+- полная антикоррозионная обработка арок и дна автомобиля
+- сигнализация с автозапуском и управлением со смартфона
+❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
+
+
+При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 3’060 т.р.
+
+Выгоды:
+1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 380 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
+2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 300 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
+3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
+
+
+☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
+
+☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
+
+☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
+
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description><folder_id>Cityray</folder_id><images><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611874/0/full.webp?v=c4f93af48028</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611874/1/full.webp?v=4eff5c364590</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611874/2/full.webp?v=3cc7dcde15d7</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611874/3/full.webp?v=dd2d8de0cac7</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611874/4/full.webp?v=00d5a2d98cbd</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611874/5/full.webp?v=f9c4768c2c89</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611874/6/full.webp?v=67c618ffada2</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611874/7/full.webp?v=5b161ac95c95</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611874/8/full.webp?v=c495b844ba8b</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611874/9/full.webp?v=46dd5b87bbaa</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611874/10/full.webp?v=8a53b12e367c</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611874/11/full.webp?v=93a011d3956c</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611874/12/full.webp?v=c49c371ca20c</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611874/13/full.webp?v=57715490e5a9</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611874/14/full.webp?v=ad58b99b4ae5</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611874/15/full.webp?v=9d5970461035</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611874/16/full.webp?v=45fcf9f8c7f4</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611874/17/full.webp?v=01d4a7dca1ee</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611874/18/full.webp?v=5b873d6cf6f0</image></images><insurance_discount>0</insurance_discount><mark_id>Geely</mark_id><max_discount>769990</max_discount><modification_id>1.5T DCT (147 л.с.)</modification_id><optional_discount>0</optional_discount><price>3119990</price><priceWithDiscount>2350000</priceWithDiscount><sale_price>2350000</sale_price><tradein_discount>0</tradein_discount><vin>LB3G43S97SX611874</vin><wheel>Левый</wheel><year>2026</year><color_rus>Серый металлик</color_rus><color_eng>gray</color_eng><currency>RUR</currency><url>https://geely-partner-samara.ru/cars/geely-cityray-15t-dct-147-hp-luxury-gray-2026/</url><model_name>Cityray</model_name><model_id>cityray</model_id><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611874/0/full.webp?v=c4f93af48028</image></car><car><availability>В пути</availability><color>Серый</color><complectation_name>Люкс</complectation_name><credit_discount>0</credit_discount><description>Партнер-Авто Самара официальный дилер GEELY
+
+ Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
+
+Услуги сервисного центра:
+ сервисное обслуживание
+⚡ «шинный отель» 
+⚡ установка дополнительного оборудования и аксессуаров
+⚡ предоставляется гарантия качества 
+
+Услуги отдела продаж: 
+⚡ обмен Вашего автомобиля с пробегом на новый
+⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
+
+Предоставляем нашим клиентам следующие возможности:
+⚡ приобрести автомобиль в Кредит или в Лизинг
+⚡ заключить договоры Страхования
+
+   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
+ ❗     GEELY Cityray Люкс  с  гарантией качества до 5 лет или до 150 000 км  ❗
+
+
+Цена 2’350 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
+
+
+☝️ На цену нового автомобиля в договоре купли-продажи влияют:
+1)        срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
+2)        перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
+3)        стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
+
+В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 420 т.р. :
+- защита картера двигателя
+- защитная сетка радиатора
+- коврики
+- брызговики
+- полная антикоррозионная обработка арок и дна автомобиля
+- сигнализация с автозапуском и управлением со смартфона
+❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
+
+
+При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 3’060 т.р.
+
+Выгоды:
+1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 380 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
+2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 300 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
+3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
+
+
+☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
+
+☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
+
+☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
+
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description><folder_id>Cityray</folder_id><images><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX615844/0/full.webp?v=b4235fba5fcc</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX615844/1/full.webp?v=5fa1e554189a</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX615844/2/full.webp?v=842b2b2add20</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX615844/3/full.webp?v=e29d246329cb</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX615844/4/full.webp?v=138cfc71e863</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX615844/5/full.webp?v=afc8518d5172</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX615844/6/full.webp?v=bb50604c55c4</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX615844/7/full.webp?v=d5cf07345be1</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX615844/8/full.webp?v=86159b21001d</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX615844/9/full.webp?v=ac7eeb8d0168</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX615844/10/full.webp?v=9bb63799ba3f</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX615844/11/full.webp?v=8fea99a020c7</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX615844/12/full.webp?v=d332a03746b8</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX615844/13/full.webp?v=e7e51f828079</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX615844/14/full.webp?v=d49f614f1cca</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX615844/15/full.webp?v=fea69b549b72</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX615844/16/full.webp?v=08a0136a5dbb</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX615844/17/full.webp?v=dc9f410f344a</image></images><insurance_discount>0</insurance_discount><mark_id>Geely</mark_id><max_discount>769990</max_discount><modification_id>1.5T DCT (147 л.с.)</modification_id><optional_discount>0</optional_discount><price>3119990</price><priceWithDiscount>2350000</priceWithDiscount><sale_price>2350000</sale_price><tradein_discount>0</tradein_discount><vin>LB3G43S97SX615844</vin><wheel>Левый</wheel><year>2026</year><color_rus>Серый металлик</color_rus><color_eng>gray</color_eng><currency>RUR</currency><url>https://geely-partner-samara.ru/cars/geely-cityray-15t-dct-147-hp-luxury-gray-2026/</url><model_name>Cityray</model_name><model_id>cityray</model_id><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX615844/0/full.webp?v=b4235fba5fcc</image></car><car><availability>в наличии</availability><body_type>Седан</body_type><color>БЕЛЫЙ</color><complectation_name>Флагман</complectation_name><credit_discount>0</credit_discount><description>Партнер-Авто Самара официальный дилер GEELY
 
  Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
 
@@ -1003,814 +1813,4 @@
 
 ☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
 
-☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description><folder_id>Cityray</folder_id><images><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S9XTX411164/0/full.webp?v=71e1f846e51c</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S9XTX411164/1/full.webp?v=9044bb304e5c</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S9XTX411164/2/full.webp?v=6374a7191c48</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S9XTX411164/3/full.webp?v=25a54ad80acc</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S9XTX411164/4/full.webp?v=2e34f46338d6</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S9XTX411164/5/full.webp?v=b9a471519fff</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S9XTX411164/6/full.webp?v=3d9c54b1c04c</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S9XTX411164/7/full.webp?v=fcb632a9a008</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S9XTX411164/8/full.webp?v=88c7f71dd698</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S9XTX411164/9/full.webp?v=87a58a32c107</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S9XTX411164/10/full.webp?v=6cceb88349eb</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S9XTX411164/11/full.webp?v=27a8df8dd10d</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S9XTX411164/12/full.webp?v=0b4116a5aa80</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S9XTX411164/13/full.webp?v=19be0fa1f81d</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S9XTX411164/14/full.webp?v=b7bc4b13e0bb</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S9XTX411164/15/full.webp?v=b1cd5c0cd3c2</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S9XTX411164/16/full.webp?v=612fdfbc91fa</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S9XTX411164/17/full.webp?v=9612e7233694</image></images><insurance_discount>29990</insurance_discount><mark_id>Geely</mark_id><max_discount>849990</max_discount><modification_id>1.5 AMT (147 л.с.)</modification_id><optional_discount>460000</optional_discount><price>3339990</price><run>3</run><tradein_discount>260000</tradein_discount><vin>LB3G43S9XTX411164</vin><wheel>левый</wheel><year>2026</year><color_rus>Серый металлик</color_rus><color_eng>gray</color_eng><priceWithDiscount>2490000</priceWithDiscount><sale_price>2490000</sale_price><currency>RUR</currency><url>https://geely-partner-samara.ru/cars/geely-cityray-15-amt-147-hp-sport-gray-2026/</url><model_name>Cityray</model_name><model_id>cityray</model_id><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S9XTX411164/0/full.webp?v=71e1f846e51c</image></car><car><availability>В пути</availability><color>Чёрный</color><complectation_name>Флагман</complectation_name><credit_discount>0</credit_discount><description>Партнер-Авто Самара официальный дилер GEELY
-
-🚩 Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
-
-Услуги сервисного центра:
- сервисное обслуживание
-⚡ «шинный отель» 
-⚡ установка дополнительного оборудования и аксессуаров
-⚡ предоставляется гарантия качества 
-
-Услуги отдела продаж: 
-⚡ обмен Вашего автомобиля с пробегом на новый
-⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
-
-Предоставляем нашим клиентам следующие возможности:
-⚡ приобрести автомобиль в Кредит или в Лизинг
-⚡ заключить договоры Страхования
-
-📞   Позвоните прямо сейчас и получите индивидуальные условия приобретения   📞
- ❗     GEELY Monjaro Флагман  с  гарантией качества до 5 лет или до 150 000 км  ❗
-
-💲
-Цена 3’880 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
-💲
-
-☝️ На цену нового автомобиля в договоре купли-продажи влияют:
-1)        срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
-2)        перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
-3)        стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
-
-В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 620 т.р. :
-- защита картера двигателя
-- защитная сетка радиатора
-- коврики
-- брызговики
-- полная антикоррозионная обработка арок и дна автомобиля
-- сигнализация с автозапуском и управлением со смартфона
-❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
-
-💲
-При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 4’760 т.р.
-
-Выгоды:
-1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 580 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
-2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 250 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
-3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 50 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
-💲
-
-☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 📞
-
-☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
-
-☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 📞
-
-☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description><folder_id>Monjaro, I</folder_id><images><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS379554/0/full.webp?v=4486fdb0389b</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS379554/1/full.webp?v=1cd8c41f873b</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS379554/2/full.webp?v=9496afffd5eb</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS379554/3/full.webp?v=31d0a885fcaa</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS379554/4/full.webp?v=39f66303581b</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS379554/5/full.webp?v=1b50a23c1bfa</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS379554/6/full.webp?v=233551b968c2</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS379554/7/full.webp?v=43ceeb97f6b0</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS379554/8/full.webp?v=b4f7831af548</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS379554/9/full.webp?v=3444a8222f39</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS379554/10/full.webp?v=03adfa5c25ef</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS379554/11/full.webp?v=738772de2bab</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS379554/12/full.webp?v=653b27d7fc10</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS379554/13/full.webp?v=4fc8c679ff29</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS379554/14/full.webp?v=50908ce483d3</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS379554/15/full.webp?v=031f5f7b6c0a</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS379554/16/full.webp?v=7a603d4a5a27</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS379554/17/full.webp?v=20c401a8389a</image></images><insurance_discount>0</insurance_discount><mark_id>Geely</mark_id><max_discount>1074990</max_discount><modification_id>2.0 4WD AT (238 л.с.)</modification_id><optional_discount>0</optional_discount><price>4954990</price><priceWithDiscount>3880000</priceWithDiscount><sale_price>3880000</sale_price><tradein_discount>0</tradein_discount><vin>LB37852D1TS379554</vin><wheel>Левый</wheel><year>2026</year><color_rus>Черный металлик</color_rus><color_eng>black</color_eng><currency>RUR</currency><url>https://geely-partner-samara.ru/cars/geely-monjaro-i-20-4wd-at-238-hp-flagship-black-2026/</url><model_name>Monjaro</model_name><model_id>monjaro</model_id><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS379554/0/full.webp?v=4486fdb0389b</image></car><car><availability>В пути</availability><color>Серебряный</color><complectation_name>Люкс</complectation_name><credit_discount>0</credit_discount><description>Партнер-Авто Самара официальный дилер GEELY
-
-🚩 Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
-
-Услуги сервисного центра:
- сервисное обслуживание
-⚡ «шинный отель» 
-⚡ установка дополнительного оборудования и аксессуаров
-⚡ предоставляется гарантия качества 
-
-Услуги отдела продаж: 
-⚡ обмен Вашего автомобиля с пробегом на новый
-⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
-
-Предоставляем нашим клиентам следующие возможности:
-⚡ приобрести автомобиль в Кредит или в Лизинг
-⚡ заключить договоры Страхования
-
-📞   Позвоните прямо сейчас и получите индивидуальные условия приобретения   📞
- ❗     GEELY Monjaro Люкс  с  гарантией качества до 5 лет или до 150 000 км  ❗
-
-💲
-Цена 3’550 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
-💲
-
-☝️ На цену нового автомобиля в договоре купли-продажи влияют:
-1)        срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
-2)        перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
-3)        стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
-
-В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 620 т.р. :
-- защита картера двигателя
-- защитная сетка радиатора
-- коврики
-- брызговики
-- полная антикоррозионная обработка арок и дна автомобиля
-- сигнализация с автозапуском и управлением со смартфона
-❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
-
-💲
-При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 4’450 т.р.
-
-Выгоды:
-1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 580 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
-2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 270 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
-3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 50 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
-💲
-
-☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 📞
-
-☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
-
-☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 📞
-
-☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description><folder_id>Monjaro, I</folder_id><images><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS584631/0/full.webp?v=61f968c8d9f0</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS584631/1/full.webp?v=78cf6794995e</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS584631/2/full.webp?v=c8293f0bfd12</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS584631/3/full.webp?v=109f92ee8d53</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS584631/4/full.webp?v=9bf1fe3e8f0c</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS584631/5/full.webp?v=01b0d768e8f6</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS584631/6/full.webp?v=712a4e983ddf</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS584631/7/full.webp?v=4cbda9621d43</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS584631/8/full.webp?v=06af57aaaaa8</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS584631/9/full.webp?v=cb1402c48a95</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS584631/10/full.webp?v=d70c39fffdba</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS584631/11/full.webp?v=d454a147c393</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS584631/12/full.webp?v=b75ade4c5043</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS584631/13/full.webp?v=8061315bd90a</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS584631/14/full.webp?v=a00156e56501</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS584631/15/full.webp?v=8f63dacd0ee3</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS584631/16/full.webp?v=cdb5b20a2802</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS584631/17/full.webp?v=f4deb119fe9c</image></images><insurance_discount>0</insurance_discount><mark_id>Geely</mark_id><max_discount>1049990</max_discount><modification_id>2.0 4WD AT (238 л.с.)</modification_id><optional_discount>0</optional_discount><price>4599990</price><priceWithDiscount>3550000</priceWithDiscount><sale_price>3550000</sale_price><tradein_discount>0</tradein_discount><vin>LB37852D1TS584631</vin><wheel>Левый</wheel><year>2026</year><color_rus>Серебристый металлик</color_rus><color_eng>silver</color_eng><currency>RUR</currency><url>https://geely-partner-samara.ru/cars/geely-monjaro-i-20-4wd-at-238-hp-luxury-silver-2026/</url><model_name>Monjaro</model_name><model_id>monjaro</model_id><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS584631/0/full.webp?v=61f968c8d9f0</image></car><car><availability>В пути</availability><color>Серый</color><complectation_name>Люкс</complectation_name><credit_discount>0</credit_discount><description>Партнер-Авто Самара официальный дилер GEELY
-
-🚩 Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
-
-Услуги сервисного центра:
- сервисное обслуживание
-⚡ «шинный отель» 
-⚡ установка дополнительного оборудования и аксессуаров
-⚡ предоставляется гарантия качества 
-
-Услуги отдела продаж: 
-⚡ обмен Вашего автомобиля с пробегом на новый
-⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
-
-Предоставляем нашим клиентам следующие возможности:
-⚡ приобрести автомобиль в Кредит или в Лизинг
-⚡ заключить договоры Страхования
-
-📞   Позвоните прямо сейчас и получите индивидуальные условия приобретения   📞
- ❗     GEELY Monjaro Люкс  с  гарантией качества до 5 лет или до 150 000 км  ❗
-
-💲
-Цена 3’550 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
-💲
-
-☝️ На цену нового автомобиля в договоре купли-продажи влияют:
-1)        срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
-2)        перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
-3)        стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
-
-В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 620 т.р. :
-- защита картера двигателя
-- защитная сетка радиатора
-- коврики
-- брызговики
-- полная антикоррозионная обработка арок и дна автомобиля
-- сигнализация с автозапуском и управлением со смартфона
-❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
-
-💲
-При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 4’450 т.р.
-
-Выгоды:
-1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 580 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
-2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 270 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
-3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 50 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
-💲
-
-☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 📞
-
-☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
-
-☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 📞
-
-☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description><folder_id>Monjaro, I</folder_id><images><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS695578/0/full.webp?v=bec373fcc278</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS695578/1/full.webp?v=68670db9a8ce</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS695578/2/full.webp?v=fa3d4dd333d6</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS695578/3/full.webp?v=4e706c88b426</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS695578/4/full.webp?v=df3c52bffa26</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS695578/5/full.webp?v=6244430141a0</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS695578/6/full.webp?v=dd5d9a0fe6e3</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS695578/7/full.webp?v=8bf430cde3c6</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS695578/8/full.webp?v=64f5f458cf18</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS695578/9/full.webp?v=a206a40d92e0</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS695578/10/full.webp?v=94610a760425</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS695578/11/full.webp?v=ce2409511435</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS695578/12/full.webp?v=0ca63b535e34</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS695578/13/full.webp?v=a514fb14b6de</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS695578/14/full.webp?v=834089fafff7</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS695578/15/full.webp?v=9578ed24a245</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS695578/16/full.webp?v=eda669ab8fcf</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS695578/17/full.webp?v=4f7835c682b6</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS695578/18/full.webp?v=fb7d3a1e7fde</image></images><insurance_discount>0</insurance_discount><mark_id>Geely</mark_id><max_discount>1049990</max_discount><modification_id>2.0 4WD AT (238 л.с.)</modification_id><optional_discount>0</optional_discount><price>4599990</price><priceWithDiscount>3550000</priceWithDiscount><sale_price>3550000</sale_price><tradein_discount>0</tradein_discount><vin>LB37852D1TS695578</vin><wheel>Левый</wheel><year>2026</year><color_rus>Серый металлик</color_rus><color_eng>gray</color_eng><currency>RUR</currency><url>https://geely-partner-samara.ru/cars/geely-monjaro-i-20-4wd-at-238-hp-luxury-gray-2026/</url><model_name>Monjaro</model_name><model_id>monjaro</model_id><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D1TS695578/0/full.webp?v=bec373fcc278</image></car><car><availability>В пути</availability><color>Зелёный</color><complectation_name>Флагман</complectation_name><credit_discount>0</credit_discount><description>Партнер-Авто Самара официальный дилер GEELY
-
-🚩 Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
-
-Услуги сервисного центра:
- сервисное обслуживание
-⚡ «шинный отель» 
-⚡ установка дополнительного оборудования и аксессуаров
-⚡ предоставляется гарантия качества 
-
-Услуги отдела продаж: 
-⚡ обмен Вашего автомобиля с пробегом на новый
-⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
-
-Предоставляем нашим клиентам следующие возможности:
-⚡ приобрести автомобиль в Кредит или в Лизинг
-⚡ заключить договоры Страхования
-
-📞   Позвоните прямо сейчас и получите индивидуальные условия приобретения   📞
- ❗     GEELY Monjaro Флагман  с  гарантией качества до 5 лет или до 150 000 км  ❗
-
-💲
-Цена 3’880 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
-💲
-
-☝️ На цену нового автомобиля в договоре купли-продажи влияют:
-1)        срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
-2)        перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
-3)        стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
-
-В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 620 т.р. :
-- защита картера двигателя
-- защитная сетка радиатора
-- коврики
-- брызговики
-- полная антикоррозионная обработка арок и дна автомобиля
-- сигнализация с автозапуском и управлением со смартфона
-❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
-
-💲
-При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 4’760 т.р.
-
-Выгоды:
-1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 580 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
-2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 250 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
-3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 50 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
-💲
-
-☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 📞
-
-☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
-
-☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 📞
-
-☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description><folder_id>Monjaro, I</folder_id><images><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS236945/0/full.webp?v=b841de1fc758</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS236945/1/full.webp?v=6242cf758a81</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS236945/2/full.webp?v=3fcc9bdfdd4a</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS236945/3/full.webp?v=6825e39342dd</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS236945/4/full.webp?v=d60f3dfc62d6</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS236945/5/full.webp?v=9d5fc393a1b4</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS236945/6/full.webp?v=bec008f0c467</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS236945/7/full.webp?v=079e320463a4</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS236945/8/full.webp?v=781944549490</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS236945/9/full.webp?v=630754c00e8b</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS236945/10/full.webp?v=8b3ddeb181ae</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS236945/11/full.webp?v=940eea04e95d</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS236945/12/full.webp?v=7ec8f29c506c</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS236945/13/full.webp?v=e6bf65020d9c</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS236945/14/full.webp?v=3992bf263a56</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS236945/15/full.webp?v=dd61c3a020e9</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS236945/16/full.webp?v=04b61fa66fae</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS236945/17/full.webp?v=7917e850747b</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS236945/18/full.webp?v=114e80ec3836</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS236945/19/full.webp?v=ca76e13e0478</image></images><insurance_discount>0</insurance_discount><mark_id>Geely</mark_id><max_discount>1074990</max_discount><modification_id>2.0 4WD AT (238 л.с.)</modification_id><optional_discount>0</optional_discount><price>4954990</price><priceWithDiscount>3880000</priceWithDiscount><sale_price>3880000</sale_price><tradein_discount>0</tradein_discount><vin>LB37852D7SS236945</vin><wheel>Левый</wheel><year>2026</year><color_rus>Изумрудный металлик</color_rus><color_eng>emerald</color_eng><currency>RUR</currency><url>https://geely-partner-samara.ru/cars/geely-monjaro-i-20-4wd-at-238-hp-flagship-emerald-2026/</url><model_name>Monjaro</model_name><model_id>monjaro</model_id><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS236945/0/full.webp?v=b841de1fc758</image></car><car><availability>В пути</availability><color>Зелёный</color><complectation_name>Флагман</complectation_name><credit_discount>0</credit_discount><description>Партнер-Авто Самара официальный дилер GEELY
-
-🚩 Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
-
-Услуги сервисного центра:
- сервисное обслуживание
-⚡ «шинный отель» 
-⚡ установка дополнительного оборудования и аксессуаров
-⚡ предоставляется гарантия качества 
-
-Услуги отдела продаж: 
-⚡ обмен Вашего автомобиля с пробегом на новый
-⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
-
-Предоставляем нашим клиентам следующие возможности:
-⚡ приобрести автомобиль в Кредит или в Лизинг
-⚡ заключить договоры Страхования
-
-📞   Позвоните прямо сейчас и получите индивидуальные условия приобретения   📞
- ❗     GEELY Monjaro Флагман  с  гарантией качества до 5 лет или до 150 000 км  ❗
-
-💲
-Цена 3’880 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
-💲
-
-☝️ На цену нового автомобиля в договоре купли-продажи влияют:
-1)        срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
-2)        перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
-3)        стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
-
-В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 620 т.р. :
-- защита картера двигателя
-- защитная сетка радиатора
-- коврики
-- брызговики
-- полная антикоррозионная обработка арок и дна автомобиля
-- сигнализация с автозапуском и управлением со смартфона
-❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
-
-💲
-При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 4’760 т.р.
-
-Выгоды:
-1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 580 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
-2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 250 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
-3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 50 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
-💲
-
-☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 📞
-
-☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
-
-☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 📞
-
-☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description><folder_id>Monjaro, I</folder_id><images><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS275879/0/full.webp?v=b841de1fc758</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS275879/1/full.webp?v=6242cf758a81</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS275879/2/full.webp?v=3fcc9bdfdd4a</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS275879/3/full.webp?v=6825e39342dd</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS275879/4/full.webp?v=d60f3dfc62d6</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS275879/5/full.webp?v=9d5fc393a1b4</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS275879/6/full.webp?v=bec008f0c467</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS275879/7/full.webp?v=079e320463a4</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS275879/8/full.webp?v=781944549490</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS275879/9/full.webp?v=630754c00e8b</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS275879/10/full.webp?v=8b3ddeb181ae</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS275879/11/full.webp?v=940eea04e95d</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS275879/12/full.webp?v=7ec8f29c506c</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS275879/13/full.webp?v=e6bf65020d9c</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS275879/14/full.webp?v=3992bf263a56</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS275879/15/full.webp?v=dd61c3a020e9</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS275879/16/full.webp?v=04b61fa66fae</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS275879/17/full.webp?v=7917e850747b</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS275879/18/full.webp?v=114e80ec3836</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS275879/19/full.webp?v=ca76e13e0478</image></images><insurance_discount>0</insurance_discount><mark_id>Geely</mark_id><max_discount>1074990</max_discount><modification_id>2.0 4WD AT (238 л.с.)</modification_id><optional_discount>0</optional_discount><price>4954990</price><priceWithDiscount>3880000</priceWithDiscount><sale_price>3880000</sale_price><tradein_discount>0</tradein_discount><vin>LB37852D7SS275879</vin><wheel>Левый</wheel><year>2026</year><color_rus>Изумрудный металлик</color_rus><color_eng>emerald</color_eng><currency>RUR</currency><url>https://geely-partner-samara.ru/cars/geely-monjaro-i-20-4wd-at-238-hp-flagship-emerald-2026/</url><model_name>Monjaro</model_name><model_id>monjaro</model_id><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS275879/0/full.webp?v=b841de1fc758</image></car><car><availability>В пути</availability><color>Чёрный</color><complectation_name>Флагман</complectation_name><credit_discount>0</credit_discount><description>Партнер-Авто Самара официальный дилер GEELY
-
-🚩 Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
-
-Услуги сервисного центра:
- сервисное обслуживание
-⚡ «шинный отель» 
-⚡ установка дополнительного оборудования и аксессуаров
-⚡ предоставляется гарантия качества 
-
-Услуги отдела продаж: 
-⚡ обмен Вашего автомобиля с пробегом на новый
-⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
-
-Предоставляем нашим клиентам следующие возможности:
-⚡ приобрести автомобиль в Кредит или в Лизинг
-⚡ заключить договоры Страхования
-
-📞   Позвоните прямо сейчас и получите индивидуальные условия приобретения   📞
- ❗     GEELY Monjaro Флагман  с  гарантией качества до 5 лет или до 150 000 км  ❗
-
-💲
-Цена 3’880 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
-💲
-
-☝️ На цену нового автомобиля в договоре купли-продажи влияют:
-1)        срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
-2)        перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
-3)        стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
-
-В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 620 т.р. :
-- защита картера двигателя
-- защитная сетка радиатора
-- коврики
-- брызговики
-- полная антикоррозионная обработка арок и дна автомобиля
-- сигнализация с автозапуском и управлением со смартфона
-❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
-
-💲
-При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 4’760 т.р.
-
-Выгоды:
-1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 580 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
-2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 250 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
-3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 50 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
-💲
-
-☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 📞
-
-☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
-
-☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 📞
-
-☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description><folder_id>Monjaro, I</folder_id><images><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS279674/0/full.webp?v=4486fdb0389b</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS279674/1/full.webp?v=1cd8c41f873b</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS279674/2/full.webp?v=9496afffd5eb</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS279674/3/full.webp?v=31d0a885fcaa</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS279674/4/full.webp?v=39f66303581b</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS279674/5/full.webp?v=1b50a23c1bfa</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS279674/6/full.webp?v=233551b968c2</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS279674/7/full.webp?v=43ceeb97f6b0</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS279674/8/full.webp?v=b4f7831af548</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS279674/9/full.webp?v=3444a8222f39</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS279674/10/full.webp?v=03adfa5c25ef</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS279674/11/full.webp?v=738772de2bab</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS279674/12/full.webp?v=653b27d7fc10</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS279674/13/full.webp?v=4fc8c679ff29</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS279674/14/full.webp?v=50908ce483d3</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS279674/15/full.webp?v=031f5f7b6c0a</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS279674/16/full.webp?v=7a603d4a5a27</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS279674/17/full.webp?v=20c401a8389a</image></images><insurance_discount>0</insurance_discount><mark_id>Geely</mark_id><max_discount>1074990</max_discount><modification_id>2.0 4WD AT (238 л.с.)</modification_id><optional_discount>0</optional_discount><price>4954990</price><priceWithDiscount>3880000</priceWithDiscount><sale_price>3880000</sale_price><tradein_discount>0</tradein_discount><vin>LB37852D7SS279674</vin><wheel>Левый</wheel><year>2026</year><color_rus>Черный металлик</color_rus><color_eng>black</color_eng><currency>RUR</currency><url>https://geely-partner-samara.ru/cars/geely-monjaro-i-20-4wd-at-238-hp-flagship-black-2026/</url><model_name>Monjaro</model_name><model_id>monjaro</model_id><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS279674/0/full.webp?v=4486fdb0389b</image></car><car><availability>В пути</availability><color>Чёрный</color><complectation_name>Флагман</complectation_name><credit_discount>0</credit_discount><description>Партнер-Авто Самара официальный дилер GEELY
-
-🚩 Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
-
-Услуги сервисного центра:
- сервисное обслуживание
-⚡ «шинный отель» 
-⚡ установка дополнительного оборудования и аксессуаров
-⚡ предоставляется гарантия качества 
-
-Услуги отдела продаж: 
-⚡ обмен Вашего автомобиля с пробегом на новый
-⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
-
-Предоставляем нашим клиентам следующие возможности:
-⚡ приобрести автомобиль в Кредит или в Лизинг
-⚡ заключить договоры Страхования
-
-📞   Позвоните прямо сейчас и получите индивидуальные условия приобретения   📞
- ❗     GEELY Monjaro Флагман  с  гарантией качества до 5 лет или до 150 000 км  ❗
-
-💲
-Цена 3’880 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
-💲
-
-☝️ На цену нового автомобиля в договоре купли-продажи влияют:
-1)        срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
-2)        перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
-3)        стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
-
-В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 620 т.р. :
-- защита картера двигателя
-- защитная сетка радиатора
-- коврики
-- брызговики
-- полная антикоррозионная обработка арок и дна автомобиля
-- сигнализация с автозапуском и управлением со смартфона
-❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
-
-💲
-При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 4’760 т.р.
-
-Выгоды:
-1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 580 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
-2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 250 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
-3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 50 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
-💲
-
-☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 📞
-
-☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
-
-☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 📞
-
-☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description><folder_id>Monjaro, I</folder_id><images><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS859712/0/full.webp?v=4486fdb0389b</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS859712/1/full.webp?v=1cd8c41f873b</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS859712/2/full.webp?v=9496afffd5eb</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS859712/3/full.webp?v=31d0a885fcaa</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS859712/4/full.webp?v=39f66303581b</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS859712/5/full.webp?v=1b50a23c1bfa</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS859712/6/full.webp?v=233551b968c2</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS859712/7/full.webp?v=43ceeb97f6b0</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS859712/8/full.webp?v=b4f7831af548</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS859712/9/full.webp?v=3444a8222f39</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS859712/10/full.webp?v=03adfa5c25ef</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS859712/11/full.webp?v=738772de2bab</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS859712/12/full.webp?v=653b27d7fc10</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS859712/13/full.webp?v=4fc8c679ff29</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS859712/14/full.webp?v=50908ce483d3</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS859712/15/full.webp?v=031f5f7b6c0a</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS859712/16/full.webp?v=7a603d4a5a27</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS859712/17/full.webp?v=20c401a8389a</image></images><insurance_discount>0</insurance_discount><mark_id>Geely</mark_id><max_discount>1074990</max_discount><modification_id>2.0 4WD AT (238 л.с.)</modification_id><optional_discount>0</optional_discount><price>4954990</price><priceWithDiscount>3880000</priceWithDiscount><sale_price>3880000</sale_price><tradein_discount>0</tradein_discount><vin>LB37852D7SS859712</vin><wheel>Левый</wheel><year>2026</year><color_rus>Черный металлик</color_rus><color_eng>black</color_eng><currency>RUR</currency><url>https://geely-partner-samara.ru/cars/geely-monjaro-i-20-4wd-at-238-hp-flagship-black-2026/</url><model_name>Monjaro</model_name><model_id>monjaro</model_id><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS859712/0/full.webp?v=4486fdb0389b</image></car><car><availability>В пути</availability><color>Серебряный</color><complectation_name>Флагман</complectation_name><credit_discount>0</credit_discount><description>Партнер-Авто Самара официальный дилер GEELY
-
- Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
-
-Услуги сервисного центра:
- сервисное обслуживание
-⚡ «шинный отель» 
-⚡ установка дополнительного оборудования и аксессуаров
-⚡ предоставляется гарантия качества 
-
-Услуги отдела продаж: 
-⚡ обмен Вашего автомобиля с пробегом на новый
-⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
-
-Предоставляем нашим клиентам следующие возможности:
-⚡ приобрести автомобиль в Кредит или в Лизинг
-⚡ заключить договоры Страхования
-
-   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
- ❗     GEELY Atlas Флагман  с  гарантией качества до 5 лет или до 150 000 км  ❗
-
-
-Цена 3’400 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
-
-
-☝️ На цену нового автомобиля в договоре купли-продажи влияют:
-1)        срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
-2)        перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
-3)        стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
-
-В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 500 т.р. :
-- защита картера двигателя
-- защитная сетка радиатора
-- коврики
-- брызговики
-- полная антикоррозионная обработка арок и дна автомобиля
-- сигнализация с автозапуском и управлением со смартфона
-❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
-
-
-При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 4’050 т.р.
-
-Выгоды:
-1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 460 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
-2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 160 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
-3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
-
-
-☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
-
-☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
-
-☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
-
-☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description><folder_id>Atlas, II</folder_id><images><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB345897/0/full.webp?v=59e5b3d32ea9</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB345897/1/full.webp?v=19555209b60d</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB345897/2/full.webp?v=2ff6d70b9f91</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB345897/3/full.webp?v=d74981028aff</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB345897/4/full.webp?v=9dc477dbc816</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB345897/5/full.webp?v=1e1f290d46d8</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB345897/6/full.webp?v=801bb4b80604</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB345897/7/full.webp?v=412dd6fee872</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB345897/8/full.webp?v=385fb8a04b04</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB345897/9/full.webp?v=6b9fc3d84fd1</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB345897/10/full.webp?v=f6cbd0e48d40</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB345897/11/full.webp?v=e3bad67af76a</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB345897/12/full.webp?v=69401b95fe20</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB345897/13/full.webp?v=8b9e8272a0aa</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB345897/14/full.webp?v=4687a51cce01</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB345897/15/full.webp?v=25e3b06bb7c3</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB345897/16/full.webp?v=684b86bb2036</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB345897/17/full.webp?v=3f69ab8e6893</image></images><insurance_discount>0</insurance_discount><mark_id>Geely</mark_id><max_discount>719990</max_discount><modification_id>2.0T 4WD AT (200 л.с.)</modification_id><optional_discount>0</optional_discount><price>4119990</price><priceWithDiscount>3400000</priceWithDiscount><sale_price>3400000</sale_price><tradein_discount>0</tradein_discount><vin>LB3FX1S18SB345897</vin><wheel>Левый</wheel><year>2026</year><color_rus>Серебристый металлик</color_rus><color_eng>silver</color_eng><currency>RUR</currency><url>https://geely-partner-samara.ru/cars/geely-atlas-ii-20t-4wd-at-200-hp-flagship-silver-2026/</url><model_name>Atlas</model_name><model_id>geely-atlas-2024</model_id><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB345897/0/full.webp?v=59e5b3d32ea9</image></car><car><availability>В пути</availability><color>Белый</color><complectation_name>Люкс</complectation_name><credit_discount>0</credit_discount><description>Партнер-Авто Самара официальный дилер GEELY
-
- Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
-
-Услуги сервисного центра:
- сервисное обслуживание
-⚡ «шинный отель» 
-⚡ установка дополнительного оборудования и аксессуаров
-⚡ предоставляется гарантия качества 
-
-Услуги отдела продаж: 
-⚡ обмен Вашего автомобиля с пробегом на новый
-⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
-
-Предоставляем нашим клиентам следующие возможности:
-⚡ приобрести автомобиль в Кредит или в Лизинг
-⚡ заключить договоры Страхования
-
-   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
- ❗     GEELY Atlas Люкс  с  гарантией качества до 5 лет или до 150 000 км  ❗
-
-
-Цена 3’300 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
-
-
-☝️ На цену нового автомобиля в договоре купли-продажи влияют:
-1)        срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
-2)        перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
-3)        стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
-
-В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 400 т.р. :
-- защита картера двигателя
-- защитная сетка радиатора
-- коврики
-- брызговики
-- полная антикоррозионная обработка арок и дна автомобиля
-- сигнализация с автозапуском и управлением со смартфона
-❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
-
-
-При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 3’850 т.р.
-
-Выгоды:
-1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 360 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
-2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 160 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
-3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
-
-
-☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
-
-☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
-
-☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
-
-☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description><folder_id>Atlas, II</folder_id><images><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB36589/0/full.webp?v=a2bcfd95d28b</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB36589/1/full.webp?v=eb0ce790926f</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB36589/2/full.webp?v=f9a91e1a6870</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB36589/3/full.webp?v=5285203c0109</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB36589/4/full.webp?v=727d3fbf33d2</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB36589/5/full.webp?v=88dc540aa15f</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB36589/6/full.webp?v=c8a498de8bce</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB36589/7/full.webp?v=909d1665cc9a</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB36589/8/full.webp?v=39ec52e4691d</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB36589/9/full.webp?v=3a758df3c951</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB36589/10/full.webp?v=ab24d163d34c</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB36589/11/full.webp?v=6e0da008233e</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB36589/12/full.webp?v=bb0dbd6d4814</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB36589/13/full.webp?v=1898a68eabd7</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB36589/14/full.webp?v=09bc3d459f2e</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB36589/15/full.webp?v=a0da2945b6cf</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB36589/16/full.webp?v=a28458ab3591</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB36589/17/full.webp?v=f33c23431386</image></images><insurance_discount>0</insurance_discount><mark_id>Geely</mark_id><max_discount>609990</max_discount><modification_id>2.0T 4WD AT (200 л.с.)</modification_id><optional_discount>0</optional_discount><price>3909990</price><priceWithDiscount>3300000</priceWithDiscount><sale_price>3300000</sale_price><tradein_discount>0</tradein_discount><vin>LB3FX1S18SB36589</vin><wheel>Левый</wheel><year>2026</year><color_rus>Белый</color_rus><color_eng>white</color_eng><currency>RUR</currency><url>https://geely-partner-samara.ru/cars/geely-atlas-ii-20t-4wd-at-200-hp-luxury-white-2026/</url><model_name>Atlas</model_name><model_id>geely-atlas-2024</model_id><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB36589/0/full.webp?v=a2bcfd95d28b</image></car><car><availability>В пути</availability><color>Белый</color><complectation_name>Флагман</complectation_name><credit_discount>0</credit_discount><description>Партнер-Авто Самара официальный дилер GEELY
-
- Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
-
-Услуги сервисного центра:
- сервисное обслуживание
-⚡ «шинный отель» 
-⚡ установка дополнительного оборудования и аксессуаров
-⚡ предоставляется гарантия качества 
-
-Услуги отдела продаж: 
-⚡ обмен Вашего автомобиля с пробегом на новый
-⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
-
-Предоставляем нашим клиентам следующие возможности:
-⚡ приобрести автомобиль в Кредит или в Лизинг
-⚡ заключить договоры Страхования
-
-   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
- ❗     GEELY Atlas Флагман  с  гарантией качества до 5 лет или до 150 000 км  ❗
-
-
-Цена 3’400 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
-
-
-☝️ На цену нового автомобиля в договоре купли-продажи влияют:
-1)        срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
-2)        перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
-3)        стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
-
-В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 500 т.р. :
-- защита картера двигателя
-- защитная сетка радиатора
-- коврики
-- брызговики
-- полная антикоррозионная обработка арок и дна автомобиля
-- сигнализация с автозапуском и управлением со смартфона
-❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
-
-
-При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 4’050 т.р.
-
-Выгоды:
-1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 460 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
-2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 160 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
-3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
-
-
-☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
-
-☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
-
-☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
-
-☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description><folder_id>Atlas, II</folder_id><images><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB512256/0/full.webp?v=a2bcfd95d28b</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB512256/1/full.webp?v=eb0ce790926f</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB512256/2/full.webp?v=f9a91e1a6870</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB512256/3/full.webp?v=5285203c0109</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB512256/4/full.webp?v=727d3fbf33d2</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB512256/5/full.webp?v=88dc540aa15f</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB512256/6/full.webp?v=c8a498de8bce</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB512256/7/full.webp?v=909d1665cc9a</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB512256/8/full.webp?v=39ec52e4691d</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB512256/9/full.webp?v=3a758df3c951</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB512256/10/full.webp?v=ab24d163d34c</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB512256/11/full.webp?v=6e0da008233e</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB512256/12/full.webp?v=bb0dbd6d4814</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB512256/13/full.webp?v=1898a68eabd7</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB512256/14/full.webp?v=09bc3d459f2e</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB512256/15/full.webp?v=a0da2945b6cf</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB512256/16/full.webp?v=a28458ab3591</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB512256/17/full.webp?v=f33c23431386</image></images><insurance_discount>0</insurance_discount><mark_id>Geely</mark_id><max_discount>719990</max_discount><modification_id>2.0T 4WD AT (200 л.с.)</modification_id><optional_discount>0</optional_discount><price>4119990</price><priceWithDiscount>3400000</priceWithDiscount><sale_price>3400000</sale_price><tradein_discount>0</tradein_discount><vin>LB3FX1S18SB512256</vin><wheel>Левый</wheel><year>2026</year><color_rus>Белый</color_rus><color_eng>white</color_eng><currency>RUR</currency><url>https://geely-partner-samara.ru/cars/geely-atlas-ii-20t-4wd-at-200-hp-flagship-white-2026/</url><model_name>Atlas</model_name><model_id>geely-atlas-2024</model_id><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB512256/0/full.webp?v=a2bcfd95d28b</image></car><car><availability>В пути</availability><color>Серый</color><complectation_name>Флагман</complectation_name><credit_discount>0</credit_discount><description>Партнер-Авто Самара официальный дилер GEELY
-
- Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
-
-Услуги сервисного центра:
- сервисное обслуживание
-⚡ «шинный отель» 
-⚡ установка дополнительного оборудования и аксессуаров
-⚡ предоставляется гарантия качества 
-
-Услуги отдела продаж: 
-⚡ обмен Вашего автомобиля с пробегом на новый
-⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
-
-Предоставляем нашим клиентам следующие возможности:
-⚡ приобрести автомобиль в Кредит или в Лизинг
-⚡ заключить договоры Страхования
-
-   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
- ❗     GEELY Cityray Флагман  с  гарантией качества до 5 лет или до 150 000 км  ❗
-
-
-Цена 2’400 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
-
-
-☝️ На цену нового автомобиля в договоре купли-продажи влияют:
-1)        срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
-2)        перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
-3)        стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
-
-В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 480 т.р. :
-- защита картера двигателя
-- защитная сетка радиатора
-- коврики
-- брызговики
-- полная антикоррозионная обработка арок и дна автомобиля
-- сигнализация с автозапуском и управлением со смартфона
-❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
-
-
-При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 3’170 т.р.
-
-Выгоды:
-1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 440 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
-2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 300 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
-3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
-
-
-☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
-
-☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
-
-☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
-
-☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description><folder_id>Cityray</folder_id><insurance_discount>0</insurance_discount><mark_id>Geely</mark_id><max_discount>859990</max_discount><modification_id>1.5T DCT (147 л.с.)</modification_id><optional_discount>0</optional_discount><price>3259990</price><priceWithDiscount>2400000</priceWithDiscount><sale_price>2400000</sale_price><tradein_discount>0</tradein_discount><vin>LB3G43S97SX592987</vin><wheel>Левый</wheel><year>2026</year><color_rus>Серый металлик</color_rus><color_eng>gray</color_eng><currency>RUR</currency><url>https://geely-partner-samara.ru/cars/geely-cityray-15t-dct-147-hp-flagship-gray-2026/</url><model_name>Cityray</model_name><model_id>cityray</model_id></car><car><availability>В пути</availability><color>Белый</color><complectation_name>Флагман</complectation_name><credit_discount>0</credit_discount><description>Партнер-Авто Самара официальный дилер GEELY
-
- Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
-
-Услуги сервисного центра:
- сервисное обслуживание
-⚡ «шинный отель» 
-⚡ установка дополнительного оборудования и аксессуаров
-⚡ предоставляется гарантия качества 
-
-Услуги отдела продаж: 
-⚡ обмен Вашего автомобиля с пробегом на новый
-⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
-
-Предоставляем нашим клиентам следующие возможности:
-⚡ приобрести автомобиль в Кредит или в Лизинг
-⚡ заключить договоры Страхования
-
-   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
- ❗     GEELY Cityray Флагман  с  гарантией качества до 5 лет или до 150 000 км  ❗
-
-
-Цена 2’400 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
-
-
-☝️ На цену нового автомобиля в договоре купли-продажи влияют:
-1)        срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
-2)        перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
-3)        стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
-
-В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 480 т.р. :
-- защита картера двигателя
-- защитная сетка радиатора
-- коврики
-- брызговики
-- полная антикоррозионная обработка арок и дна автомобиля
-- сигнализация с автозапуском и управлением со смартфона
-❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
-
-
-При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 3’170 т.р.
-
-Выгоды:
-1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 440 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
-2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 300 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
-3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
-
-
-☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
-
-☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
-
-☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
-
-☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description><folder_id>Cityray</folder_id><images><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX603508/0/full.webp?v=8f91c7e8cb80</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX603508/1/full.webp?v=f8f69a0d4926</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX603508/2/full.webp?v=9e91fda18499</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX603508/3/full.webp?v=7fab89ed9c99</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX603508/4/full.webp?v=3664547d6226</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX603508/5/full.webp?v=c365090ac3d1</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX603508/6/full.webp?v=e100409fa02c</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX603508/7/full.webp?v=d553c0b203d1</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX603508/8/full.webp?v=b0d64db5b39d</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX603508/9/full.webp?v=59c4d3a5b1f7</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX603508/10/full.webp?v=767e02de6586</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX603508/11/full.webp?v=44348311df32</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX603508/12/full.webp?v=1da1896a71c1</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX603508/13/full.webp?v=bfc615b77598</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX603508/14/full.webp?v=228334ea7c97</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX603508/15/full.webp?v=0df81478d8f1</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX603508/16/full.webp?v=ce62ddfdae3d</image></images><insurance_discount>0</insurance_discount><mark_id>Geely</mark_id><max_discount>859990</max_discount><modification_id>1.5T DCT (147 л.с.)</modification_id><optional_discount>0</optional_discount><price>3259990</price><priceWithDiscount>2400000</priceWithDiscount><sale_price>2400000</sale_price><tradein_discount>0</tradein_discount><vin>LB3G43S97SX603508</vin><wheel>Левый</wheel><year>2026</year><color_rus>Белый</color_rus><color_eng>white</color_eng><currency>RUR</currency><url>https://geely-partner-samara.ru/cars/geely-cityray-15t-dct-147-hp-flagship-white-2026/</url><model_name>Cityray</model_name><model_id>cityray</model_id><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX603508/0/full.webp?v=8f91c7e8cb80</image></car><car><availability>В пути</availability><color>Белый</color><complectation_name>Комфорт</complectation_name><credit_discount>0</credit_discount><description>Партнер-Авто Самара официальный дилер GEELY
-
- Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
-
-Услуги сервисного центра:
- сервисное обслуживание
-⚡ «шинный отель» 
-⚡ установка дополнительного оборудования и аксессуаров
-⚡ предоставляется гарантия качества 
-
-Услуги отдела продаж: 
-⚡ обмен Вашего автомобиля с пробегом на новый
-⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
-
-Предоставляем нашим клиентам следующие возможности:
-⚡ приобрести автомобиль в Кредит или в Лизинг
-⚡ заключить договоры Страхования
-
-   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
- ❗     GEELY Cityray Комфорт  с  гарантией качества до 5 лет или до 150 000 км  ❗
-
-
-Цена 2’100 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
-
-
-☝️ На цену нового автомобиля в договоре купли-продажи влияют:
-1)        срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
-2)        перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
-3)        стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
-
-В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 420 т.р. :
-- защита картера двигателя
-- защитная сетка радиатора
-- коврики
-- брызговики
-- полная антикоррозионная обработка арок и дна автомобиля
-- сигнализация с автозапуском и управлением со смартфона
-❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
-
-
-При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 2’810 т.р.
-
-Выгоды:
-1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 380 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
-2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 300 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
-3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
-
-
-☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
-
-☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
-
-☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
-
-☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description><folder_id>Cityray</folder_id><images><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611589/0/full.webp?v=d380ea9c5e54</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611589/1/full.webp?v=4621eed409c7</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611589/2/full.webp?v=20d6348634e6</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611589/3/full.webp?v=c6111836ba02</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611589/4/full.webp?v=c4f982a6dc7d</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611589/5/full.webp?v=850b276d7557</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611589/6/full.webp?v=f09eca7c091c</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611589/7/full.webp?v=d538701f8056</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611589/8/full.webp?v=fe2da85e10e3</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611589/9/full.webp?v=805817ef0e4e</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611589/10/full.webp?v=d60e2b7d9007</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611589/11/full.webp?v=b04c2b2d63f0</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611589/12/full.webp?v=462059671d31</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611589/13/full.webp?v=3c0450791a05</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611589/14/full.webp?v=d9abb9ee2125</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611589/15/full.webp?v=8a241af6216f</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611589/16/full.webp?v=0ad424cabc5c</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611589/17/full.webp?v=d5bc2f3ef5c5</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611589/18/full.webp?v=515fbce4c0d1</image></images><insurance_discount>0</insurance_discount><mark_id>Geely</mark_id><max_discount>769990</max_discount><modification_id>1.5T DCT (147 л.с.)</modification_id><optional_discount>0</optional_discount><price>2869990</price><priceWithDiscount>2100000</priceWithDiscount><sale_price>2100000</sale_price><tradein_discount>0</tradein_discount><vin>LB3G43S97SX611589</vin><wheel>Левый</wheel><year>2026</year><color_rus>Белый</color_rus><color_eng>white</color_eng><currency>RUR</currency><url>https://geely-partner-samara.ru/cars/geely-cityray-15t-dct-147-hp-comfort-white-2026/</url><model_name>Cityray</model_name><model_id>cityray</model_id><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611589/0/full.webp?v=d380ea9c5e54</image></car><car><availability>В пути</availability><color>Серый</color><complectation_name>Люкс</complectation_name><credit_discount>0</credit_discount><description>Партнер-Авто Самара официальный дилер GEELY
-
- Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
-
-Услуги сервисного центра:
- сервисное обслуживание
-⚡ «шинный отель» 
-⚡ установка дополнительного оборудования и аксессуаров
-⚡ предоставляется гарантия качества 
-
-Услуги отдела продаж: 
-⚡ обмен Вашего автомобиля с пробегом на новый
-⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
-
-Предоставляем нашим клиентам следующие возможности:
-⚡ приобрести автомобиль в Кредит или в Лизинг
-⚡ заключить договоры Страхования
-
-   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
- ❗     GEELY Cityray Люкс  с  гарантией качества до 5 лет или до 150 000 км  ❗
-
-
-Цена 2’350 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
-
-
-☝️ На цену нового автомобиля в договоре купли-продажи влияют:
-1)        срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
-2)        перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
-3)        стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
-
-В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 420 т.р. :
-- защита картера двигателя
-- защитная сетка радиатора
-- коврики
-- брызговики
-- полная антикоррозионная обработка арок и дна автомобиля
-- сигнализация с автозапуском и управлением со смартфона
-❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
-
-
-При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 3’060 т.р.
-
-Выгоды:
-1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 380 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
-2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 300 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
-3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
-
-
-☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
-
-☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
-
-☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
-
-☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description><folder_id>Cityray</folder_id><images><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611874/0/full.webp?v=c4f93af48028</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611874/1/full.webp?v=4eff5c364590</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611874/2/full.webp?v=3cc7dcde15d7</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611874/3/full.webp?v=dd2d8de0cac7</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611874/4/full.webp?v=00d5a2d98cbd</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611874/5/full.webp?v=f9c4768c2c89</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611874/6/full.webp?v=67c618ffada2</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611874/7/full.webp?v=5b161ac95c95</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611874/8/full.webp?v=c495b844ba8b</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611874/9/full.webp?v=46dd5b87bbaa</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611874/10/full.webp?v=8a53b12e367c</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611874/11/full.webp?v=93a011d3956c</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611874/12/full.webp?v=c49c371ca20c</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611874/13/full.webp?v=57715490e5a9</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611874/14/full.webp?v=ad58b99b4ae5</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611874/15/full.webp?v=9d5970461035</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611874/16/full.webp?v=45fcf9f8c7f4</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611874/17/full.webp?v=01d4a7dca1ee</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611874/18/full.webp?v=5b873d6cf6f0</image></images><insurance_discount>0</insurance_discount><mark_id>Geely</mark_id><max_discount>769990</max_discount><modification_id>1.5T DCT (147 л.с.)</modification_id><optional_discount>0</optional_discount><price>3119990</price><priceWithDiscount>2350000</priceWithDiscount><sale_price>2350000</sale_price><tradein_discount>0</tradein_discount><vin>LB3G43S97SX611874</vin><wheel>Левый</wheel><year>2026</year><color_rus>Серый металлик</color_rus><color_eng>gray</color_eng><currency>RUR</currency><url>https://geely-partner-samara.ru/cars/geely-cityray-15t-dct-147-hp-luxury-gray-2026/</url><model_name>Cityray</model_name><model_id>cityray</model_id><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX611874/0/full.webp?v=c4f93af48028</image></car><car><availability>В пути</availability><color>Серый</color><complectation_name>Люкс</complectation_name><credit_discount>0</credit_discount><description>Партнер-Авто Самара официальный дилер GEELY
-
- Наш адрес: Самара, 24 км. Московского шоссе, 3, стр. 1
-
-Услуги сервисного центра:
- сервисное обслуживание
-⚡ «шинный отель» 
-⚡ установка дополнительного оборудования и аксессуаров
-⚡ предоставляется гарантия качества 
-
-Услуги отдела продаж: 
-⚡ обмен Вашего автомобиля с пробегом на новый
-⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
-
-Предоставляем нашим клиентам следующие возможности:
-⚡ приобрести автомобиль в Кредит или в Лизинг
-⚡ заключить договоры Страхования
-
-   Позвоните прямо сейчас и получите индивидуальные условия приобретения   
- ❗     GEELY Cityray Люкс  с  гарантией качества до 5 лет или до 150 000 км  ❗
-
-
-Цена 2’350 т.р. в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
-
-
-☝️ На цену нового автомобиля в договоре купли-продажи влияют:
-1)        срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
-2)        перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
-3)        стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
-
-В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров стоимостью 420 т.р. :
-- защита картера двигателя
-- защитная сетка радиатора
-- коврики
-- брызговики
-- полная антикоррозионная обработка арок и дна автомобиля
-- сигнализация с автозапуском и управлением со смартфона
-❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
-
-
-При покупке нового автомобиля без вышеперечисленного дополнительного оборудования и аксессуаров, без заключения договора страхования КАСКО и без обмена вашего автомобиля на новый цена нового автомобиля составляет 3’060 т.р.
-
-Выгоды:
-1.   При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 380 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
-2.   При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 300 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
-3.   При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
-
-
-☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
-
-☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
-
-☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
-
-☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description><folder_id>Cityray</folder_id><images><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX615844/0/full.webp?v=b4235fba5fcc</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX615844/1/full.webp?v=5fa1e554189a</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX615844/2/full.webp?v=842b2b2add20</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX615844/3/full.webp?v=e29d246329cb</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX615844/4/full.webp?v=138cfc71e863</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX615844/5/full.webp?v=afc8518d5172</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX615844/6/full.webp?v=bb50604c55c4</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX615844/7/full.webp?v=d5cf07345be1</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX615844/8/full.webp?v=86159b21001d</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX615844/9/full.webp?v=ac7eeb8d0168</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX615844/10/full.webp?v=9bb63799ba3f</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX615844/11/full.webp?v=8fea99a020c7</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX615844/12/full.webp?v=d332a03746b8</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX615844/13/full.webp?v=e7e51f828079</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX615844/14/full.webp?v=d49f614f1cca</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX615844/15/full.webp?v=fea69b549b72</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX615844/16/full.webp?v=08a0136a5dbb</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX615844/17/full.webp?v=dc9f410f344a</image></images><insurance_discount>0</insurance_discount><mark_id>Geely</mark_id><max_discount>769990</max_discount><modification_id>1.5T DCT (147 л.с.)</modification_id><optional_discount>0</optional_discount><price>3119990</price><priceWithDiscount>2350000</priceWithDiscount><sale_price>2350000</sale_price><tradein_discount>0</tradein_discount><vin>LB3G43S97SX615844</vin><wheel>Левый</wheel><year>2026</year><color_rus>Серый металлик</color_rus><color_eng>gray</color_eng><currency>RUR</currency><url>https://geely-partner-samara.ru/cars/geely-cityray-15t-dct-147-hp-luxury-gray-2026/</url><model_name>Cityray</model_name><model_id>cityray</model_id><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX615844/0/full.webp?v=b4235fba5fcc</image></car></cars></data>
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description><folder_id>Cityray</folder_id><images><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S9XTX411164/0/full.webp?v=71e1f846e51c</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S9XTX411164/1/full.webp?v=9044bb304e5c</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S9XTX411164/2/full.webp?v=6374a7191c48</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S9XTX411164/3/full.webp?v=25a54ad80acc</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S9XTX411164/4/full.webp?v=2e34f46338d6</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S9XTX411164/5/full.webp?v=b9a471519fff</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S9XTX411164/6/full.webp?v=3d9c54b1c04c</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S9XTX411164/7/full.webp?v=fcb632a9a008</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S9XTX411164/8/full.webp?v=88c7f71dd698</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S9XTX411164/9/full.webp?v=87a58a32c107</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S9XTX411164/10/full.webp?v=6cceb88349eb</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S9XTX411164/11/full.webp?v=27a8df8dd10d</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S9XTX411164/12/full.webp?v=0b4116a5aa80</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S9XTX411164/13/full.webp?v=19be0fa1f81d</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S9XTX411164/14/full.webp?v=b7bc4b13e0bb</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S9XTX411164/15/full.webp?v=b1cd5c0cd3c2</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S9XTX411164/16/full.webp?v=612fdfbc91fa</image><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S9XTX411164/17/full.webp?v=9612e7233694</image></images><insurance_discount>29990</insurance_discount><mark_id>Geely</mark_id><max_discount>849990</max_discount><modification_id>1.5 AMT (147 л.с.)</modification_id><optional_discount>460000</optional_discount><price>3339990</price><run>3</run><tradein_discount>260000</tradein_discount><vin>LB3G43S9XTX411164</vin><wheel>левый</wheel><year>2026</year><color_rus>Серый металлик</color_rus><color_eng>gray</color_eng><priceWithDiscount>2490000</priceWithDiscount><sale_price>2490000</sale_price><currency>RUR</currency><url>https://geely-partner-samara.ru/cars/geely-cityray-15-amt-147-hp-sport-gray-2026/</url><model_name>Cityray</model_name><model_id>cityray</model_id><image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S9XTX411164/0/full.webp?v=71e1f846e51c</image></car></cars></data>
