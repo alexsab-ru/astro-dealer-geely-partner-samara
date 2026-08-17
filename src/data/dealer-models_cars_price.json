@@ -2,8 +2,8 @@
   {
     "brand": "Geely",
     "model": "Atlas",
-    "price": 2580000,
-    "benefit": 869990
+    "price": 3300000,
+    "benefit": 719990
   },
   {
     "brand": "Geely",
@@ -16,23 +16,5 @@
     "model": "Monjaro",
     "price": 3550000,
     "benefit": 1074990
-  },
-  {
-    "brand": "Geely",
-    "model": "OKAVANGO",
-    "price": 2910000,
-    "benefit": 1100990
-  },
-  {
-    "brand": "Geely",
-    "model": "Preface",
-    "price": 2550000,
-    "benefit": 884990
-  },
-  {
-    "brand": "Geely",
-    "model": "НОВЫЙ COOLRAY",
-    "price": 2335000,
-    "benefit": 594990
   }
 ]
