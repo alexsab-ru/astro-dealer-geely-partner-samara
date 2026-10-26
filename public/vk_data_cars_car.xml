@@ -1,0 +1,409 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <cars>
+    <car>
+      <unique_id>L6TFS1S82TD027597</unique_id>
+      <url>https://geely-partner-samara.ru/cars/geely-preface-20-dct-150-hp-flagship-white-2026/</url>
+      <mark_id>Geely</mark_id>
+      <folder_id>Preface</folder_id>
+      <year>2026</year>
+      <vin>L6TFS1S82TD027597</vin>
+      <price>3434990</price>
+      <sale_price>2550000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>884990</max_benefit>
+      <color>белый</color>
+      <availability>На заказ</availability>
+      <description>Автомобиль Geely Preface, Флагман, 2.0 DCT (150 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TFS1S82TD027597/0/full.webp?v=1f6fd9d47b61</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TFS1S82TD027597/1/full.webp?v=c280ec3c9dac</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TFS1S82TD027597/2/full.webp?v=ebced5c9c037</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TFS1S82TD027597/3/full.webp?v=7298405ac503</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TFS1S82TD027597/4/full.webp?v=5941aecbcc42</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TFS1S82TD027597/5/full.webp?v=12dc89b751a2</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TFS1S82TD027597/6/full.webp?v=53e3b32338b5</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TFS1S82TD027597/7/full.webp?v=a440b4c98c9f</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TFS1S82TD027597/8/full.webp?v=597b3b5effb6</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TFS1S82TD027597/9/full.webp?v=d798d359e875</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TFS1S82TD027597/10/full.webp?v=3ce23cf7bcf7</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TFS1S82TD027597/11/full.webp?v=28381a972172</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TFS1S82TD027597/12/full.webp?v=8cf57023691c</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TFS1S82TD027597/13/full.webp?v=ec7a3d40d0bd</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TFS1S82TD027597/14/full.webp?v=e0b3e55275c3</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TFS1S82TD027597/15/full.webp?v=e32f30e47cec</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TFS1S82TD027597/16/full.webp?v=2b427efff083</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TFS1S82TD027597/17/full.webp?v=b866d3d9ffcd</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>L6TFS1S82TD035264</unique_id>
+      <url>https://geely-partner-samara.ru/cars/geely-preface-20-dct-150-hp-luxury-white-2026/</url>
+      <mark_id>Geely</mark_id>
+      <folder_id>Preface</folder_id>
+      <year>2026</year>
+      <vin>L6TFS1S82TD035264</vin>
+      <price>3329990</price>
+      <sale_price>2500000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>829990</max_benefit>
+      <color>белый</color>
+      <availability>На заказ</availability>
+      <description>Автомобиль Geely Preface, Люкс, 2.0 DCT (150 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TFS1S82TD035264/0/full.webp?v=6a6c7f15d17c</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TFS1S82TD035264/1/full.webp?v=6065b4364ee7</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TFS1S82TD035264/2/full.webp?v=2f2c5358c16a</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TFS1S82TD035264/3/full.webp?v=22cf8b41ea6d</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TFS1S82TD035264/4/full.webp?v=1463ed6e0381</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TFS1S82TD035264/5/full.webp?v=2ae6525482a4</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TFS1S82TD035264/6/full.webp?v=98361415284f</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TFS1S82TD035264/7/full.webp?v=014cd71d2a1a</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TFS1S82TD035264/8/full.webp?v=8e58b4ca62c2</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TFS1S82TD035264/9/full.webp?v=92636b73e5b7</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TFS1S82TD035264/10/full.webp?v=ab1f77af2503</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TFS1S82TD035264/11/full.webp?v=18e11876fb01</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TFS1S82TD035264/12/full.webp?v=0c9d03177259</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TFS1S82TD035264/13/full.webp?v=a4e9514e3d80</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TFS1S82TD035264/14/full.webp?v=e1cabcc6f760</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TFS1S82TD035264/15/full.webp?v=a0b92e18b6ed</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TFS1S82TD035264/16/full.webp?v=38f2b3e242a6</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TFS1S82TD035264/17/full.webp?v=62abd2396c00</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TFS1S82TD035264/18/full.webp?v=efdde420a80d</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>L6TVX1S68TY901097</unique_id>
+      <url>https://geely-partner-samara.ru/cars/geely-monjaro-i-20-dct-200-hp-flagship-gray-2026/</url>
+      <mark_id>Geely</mark_id>
+      <folder_id>Monjaro, I</folder_id>
+      <year>2026</year>
+      <vin>L6TVX1S68TY901097</vin>
+      <price>4085990</price>
+      <sale_price>3000000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>1085990</max_benefit>
+      <color>серый</color>
+      <availability>На заказ</availability>
+      <description>Автомобиль Geely Monjaro, I, Флагман, 2.0 DCT (200 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TVX1S68TY901097/0/full.webp?v=a1f8c1d19e16</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TVX1S68TY901097/1/full.webp?v=acccf0a1a21f</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TVX1S68TY901097/2/full.webp?v=dd0e58c8a1cb</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TVX1S68TY901097/3/full.webp?v=52ce61d2038f</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TVX1S68TY901097/4/full.webp?v=8eb3f212ffbc</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TVX1S68TY901097/5/full.webp?v=bb60eb088586</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TVX1S68TY901097/6/full.webp?v=c382e80fd373</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TVX1S68TY901097/7/full.webp?v=9343376a9230</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TVX1S68TY901097/8/full.webp?v=a864e0c15320</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TVX1S68TY901097/9/full.webp?v=d51941d6a025</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TVX1S68TY901097/10/full.webp?v=61b8f66a27fc</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TVX1S68TY901097/11/full.webp?v=3cc159c8c83b</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TVX1S68TY901097/12/full.webp?v=2774dd2b0d72</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TVX1S68TY901097/13/full.webp?v=95bd3731b4a7</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TVX1S68TY901097/14/full.webp?v=ab39d491f25b</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TVX1S68TY901097/15/full.webp?v=447c258ad196</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TVX1S68TY901097/16/full.webp?v=4bec71b10eca</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TVX1S68TY901097/17/full.webp?v=5db144fb7caf</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/L6TVX1S68TY901097/18/full.webp?v=e993133298aa</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LB37622ZXTX578661</unique_id>
+      <url>https://geely-partner-samara.ru/cars/geely-coolray-15t-dct-147-hp-flagship-crystal-white-2026/</url>
+      <mark_id>Geely</mark_id>
+      <folder_id>Coolray</folder_id>
+      <year>2026</year>
+      <vin>LB37622ZXTX578661</vin>
+      <price>2964990</price>
+      <sale_price>2350000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>614990</max_benefit>
+      <color>белый</color>
+      <availability>На заказ</availability>
+      <description>Автомобиль Geely Coolray, Флагман, 1.5T DCT (147 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37622ZXTX578661/0/full.webp?v=0192508db67e</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37622ZXTX578661/1/full.webp?v=bbb9ef5c554e</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37622ZXTX578661/2/full.webp?v=cbed294b60b7</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37622ZXTX578661/3/full.webp?v=3b73d57b31f9</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37622ZXTX578661/4/full.webp?v=3a512fa81a34</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37622ZXTX578661/5/full.webp?v=508fc1f3bfe0</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37622ZXTX578661/6/full.webp?v=4b1470eb5ffa</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37622ZXTX578661/7/full.webp?v=86d5067a4f4d</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37622ZXTX578661/8/full.webp?v=5c425e412984</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37622ZXTX578661/9/full.webp?v=0edcbd3800be</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37622ZXTX578661/10/full.webp?v=8b853a718de0</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37622ZXTX578661/11/full.webp?v=a9438fb35bbe</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37622ZXTX578661/12/full.webp?v=4ef621e13274</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37622ZXTX578661/13/full.webp?v=310920e344c5</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37622ZXTX578661/14/full.webp?v=ccdfdce8e81d</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37622ZXTX578661/15/full.webp?v=8cff40314011</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37622ZXTX578661/16/full.webp?v=7555c55e236e</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37622ZXTX578661/17/full.webp?v=1ced47885594</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LB37622ZXTX589213</unique_id>
+      <url>https://geely-partner-samara.ru/cars/geely-coolray-15t-dct-147-hp-flagship-magnetic-grey-2026/</url>
+      <mark_id>Geely</mark_id>
+      <folder_id>Coolray</folder_id>
+      <year>2026</year>
+      <vin>LB37622ZXTX589213</vin>
+      <price>2964990</price>
+      <sale_price>2350000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>614990</max_benefit>
+      <color>серый</color>
+      <availability>На заказ</availability>
+      <description>Автомобиль Geely Coolray, Флагман, 1.5T DCT (147 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37622ZXTX589213/0/full.webp?v=9092d990855a</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37622ZXTX589213/1/full.webp?v=0ce2b35f57df</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37622ZXTX589213/2/full.webp?v=dfe5b0ff47c0</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37622ZXTX589213/3/full.webp?v=571cf23c4be1</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37622ZXTX589213/4/full.webp?v=97ab88cadfa5</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37622ZXTX589213/5/full.webp?v=47771f69f162</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37622ZXTX589213/6/full.webp?v=f4be6f9edefa</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37622ZXTX589213/7/full.webp?v=133891f19d4d</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37622ZXTX589213/8/full.webp?v=495cd5907be9</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37622ZXTX589213/9/full.webp?v=f3fa1ecd3e79</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37622ZXTX589213/10/full.webp?v=2842a2420327</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37622ZXTX589213/11/full.webp?v=b4932db24c84</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37622ZXTX589213/12/full.webp?v=d5c02ff3f8b1</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37622ZXTX589213/13/full.webp?v=21abe7dd7599</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37622ZXTX589213/14/full.webp?v=83814868723c</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37622ZXTX589213/15/full.webp?v=5e1282f33a22</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37622ZXTX589213/16/full.webp?v=75b77f6ab067</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37622ZXTX589213/17/full.webp?v=949686bbecc8</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37622ZXTX589213/18/full.webp?v=8ae7e448a0e4</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LB37852D7SS294334</unique_id>
+      <url>https://geely-partner-samara.ru/cars/geely-monjaro-i-20-4wd-at-238-hp-flagship-emerald-2026/</url>
+      <mark_id>Geely</mark_id>
+      <folder_id>Monjaro, I</folder_id>
+      <year>2026</year>
+      <vin>LB37852D7SS294334</vin>
+      <price>4954990</price>
+      <sale_price>3880000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>1074990</max_benefit>
+      <color>зеленый</color>
+      <availability>На заказ</availability>
+      <description>Автомобиль Geely Monjaro, I, Флагман, 2.0 4WD AT (238 л.с.), 2026 г., зеленый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS294334/0/full.webp?v=b841de1fc758</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS294334/1/full.webp?v=6242cf758a81</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS294334/2/full.webp?v=3fcc9bdfdd4a</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS294334/3/full.webp?v=6825e39342dd</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS294334/4/full.webp?v=d60f3dfc62d6</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS294334/5/full.webp?v=459aaedb41cb</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS294334/6/full.webp?v=2cb566eee69e</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS294334/7/full.webp?v=d1517a9f6567</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS294334/8/full.webp?v=73b0820b55d6</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS294334/9/full.webp?v=6dd09c7e23be</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS294334/10/full.webp?v=d281740e6a5e</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS294334/11/full.webp?v=5ad34248ba9e</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS294334/12/full.webp?v=aa49da42bfa3</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS294334/13/full.webp?v=e588e3ac5f57</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS294334/14/full.webp?v=508d0fc96e9a</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS294334/15/full.webp?v=1fe73a628951</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS294334/16/full.webp?v=ead9640cf2d7</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS294334/17/full.webp?v=6ece5662efb0</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS294334/18/full.webp?v=f0dc8c987016</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS294334/19/full.webp?v=b05d31cf16c2</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LB37852D7SS297153</unique_id>
+      <url>https://geely-partner-samara.ru/cars/geely-monjaro-i-20-4wd-at-238-hp-flagship-black-2026/</url>
+      <mark_id>Geely</mark_id>
+      <folder_id>Monjaro, I</folder_id>
+      <year>2026</year>
+      <vin>LB37852D7SS297153</vin>
+      <price>4954990</price>
+      <sale_price>3880000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>1074990</max_benefit>
+      <color>черный</color>
+      <availability>На заказ</availability>
+      <description>Автомобиль Geely Monjaro, I, Флагман, 2.0 4WD AT (238 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS297153/0/full.webp?v=e1b3f5daed21</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS297153/1/full.webp?v=e0ba362c3172</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS297153/2/full.webp?v=dddd93fd974a</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS297153/3/full.webp?v=0c9415c0cbab</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS297153/4/full.webp?v=5af84fd6186b</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS297153/5/full.webp?v=65290f4be24a</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS297153/6/full.webp?v=86e3f0308b41</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS297153/7/full.webp?v=c052c83a38a7</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS297153/8/full.webp?v=feda99efd153</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS297153/9/full.webp?v=9e696bd49677</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS297153/10/full.webp?v=f4e79ea4513f</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS297153/11/full.webp?v=72be247f15df</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS297153/12/full.webp?v=e5c8ba722033</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS297153/13/full.webp?v=8d827d628435</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS297153/14/full.webp?v=7d6b1d7382d4</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS297153/15/full.webp?v=fa1e0113457b</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS297153/16/full.webp?v=262fb7b710f4</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS297153/17/full.webp?v=e33a460f2a5e</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS297153/18/full.webp?v=84747acfa475</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LB37852D7SS298515</unique_id>
+      <url>https://geely-partner-samara.ru/cars/geely-monjaro-i-20-4wd-at-238-hp-flagship-white-2026/</url>
+      <mark_id>Geely</mark_id>
+      <folder_id>Monjaro, I</folder_id>
+      <year>2026</year>
+      <vin>LB37852D7SS298515</vin>
+      <price>4954990</price>
+      <sale_price>3880000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>1074990</max_benefit>
+      <color>белый</color>
+      <availability>На заказ</availability>
+      <description>Автомобиль Geely Monjaro, I, Флагман, 2.0 4WD AT (238 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS298515/0/full.webp?v=2acda5843674</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS298515/1/full.webp?v=4ead0665b5f2</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS298515/2/full.webp?v=0da3795bdb44</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS298515/3/full.webp?v=f8cf32b806fb</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS298515/4/full.webp?v=5e172850be42</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS298515/5/full.webp?v=ad516aa3816e</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS298515/6/full.webp?v=18a252eb8c51</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS298515/7/full.webp?v=d11ace71293f</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS298515/8/full.webp?v=23023b1ae4ad</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS298515/9/full.webp?v=94e27d46ba11</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS298515/10/full.webp?v=37cbec42b5ff</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS298515/11/full.webp?v=411cb3ea2819</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS298515/12/full.webp?v=a8ca710f9465</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS298515/13/full.webp?v=881f8639d175</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS298515/14/full.webp?v=5a04f52a7c5f</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS298515/15/full.webp?v=71513d731cb0</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS298515/16/full.webp?v=df8f256b0ae4</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS298515/17/full.webp?v=788ba42be890</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB37852D7SS298515/18/full.webp?v=a6361b14bbf7</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LB3FX1S18SB568945</unique_id>
+      <url>https://geely-partner-samara.ru/cars/geely-atlas-ii-20t-4wd-at-200-hp-flagship-silver-2026/</url>
+      <mark_id>Geely</mark_id>
+      <folder_id>Atlas, II</folder_id>
+      <year>2026</year>
+      <vin>LB3FX1S18SB568945</vin>
+      <price>4119990</price>
+      <sale_price>3400000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>719990</max_benefit>
+      <color>серебряный</color>
+      <availability>На заказ</availability>
+      <description>Автомобиль Geely Atlas, II, Флагман, 2.0T 4WD AT (200 л.с.), 2026 г., серебряный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB568945/0/full.webp?v=59e5b3d32ea9</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB568945/1/full.webp?v=19555209b60d</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB568945/2/full.webp?v=2ff6d70b9f91</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB568945/3/full.webp?v=d74981028aff</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB568945/4/full.webp?v=9dc477dbc816</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB568945/5/full.webp?v=287a9727ac8e</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB568945/6/full.webp?v=ad0782a5ce6c</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB568945/7/full.webp?v=961579ef9d38</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB568945/8/full.webp?v=a3eff3fd2424</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB568945/9/full.webp?v=154662ba6b22</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB568945/10/full.webp?v=b2241149ff10</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB568945/11/full.webp?v=c98363d81e34</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB568945/12/full.webp?v=ce3c170da02a</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB568945/13/full.webp?v=ddea14ba3d6f</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB568945/14/full.webp?v=488e0869356c</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB568945/15/full.webp?v=6653b83f664a</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB568945/16/full.webp?v=f4d97bf62e8f</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3FX1S18SB568945/17/full.webp?v=8582a1ade94a</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LB3G43S97SX635867</unique_id>
+      <url>https://geely-partner-samara.ru/cars/geely-cityray-15t-dct-147-hp-luxury-silver-metallic-2026/</url>
+      <mark_id>Geely</mark_id>
+      <folder_id>Cityray</folder_id>
+      <year>2026</year>
+      <vin>LB3G43S97SX635867</vin>
+      <price>3204990</price>
+      <sale_price>2450000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>754990</max_benefit>
+      <color>серебряный</color>
+      <availability>На заказ</availability>
+      <description>Автомобиль Geely Cityray, Люкс, 1.5T DCT (147 л.с.), 2026 г., серебряный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX635867/0/full.webp?v=f87d7987a1d0</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX635867/1/full.webp?v=5ab71bedd332</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX635867/2/full.webp?v=30e6badeae1c</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX635867/3/full.webp?v=e35a40abcf7c</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX635867/4/full.webp?v=c38fbed94510</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX635867/5/full.webp?v=d12d9abbef06</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX635867/6/full.webp?v=66e4b91902d3</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX635867/7/full.webp?v=5ed199d0a9ad</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX635867/8/full.webp?v=8053eebd2d59</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX635867/9/full.webp?v=fed25b07f9d6</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX635867/10/full.webp?v=f4147bc88e6b</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX635867/11/full.webp?v=44be3de7e9c9</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX635867/12/full.webp?v=72a8c5f94a75</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX635867/13/full.webp?v=0e66eb8ca800</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX635867/14/full.webp?v=bc3069d86f7a</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX635867/15/full.webp?v=58c0a7b2da46</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX635867/16/full.webp?v=8c313a7b8a66</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX635867/17/full.webp?v=bcabb629fd0d</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LB3G43S97SX639854</unique_id>
+      <url>https://geely-partner-samara.ru/cars/geely-cityray-15t-dct-147-hp-luxury-white-2026/</url>
+      <mark_id>Geely</mark_id>
+      <folder_id>Cityray</folder_id>
+      <year>2026</year>
+      <vin>LB3G43S97SX639854</vin>
+      <price>3204990</price>
+      <sale_price>2450000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>754990</max_benefit>
+      <color>белый</color>
+      <availability>На заказ</availability>
+      <description>Автомобиль Geely Cityray, Люкс, 1.5T DCT (147 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX639854/0/full.webp?v=a7a4cfd0ad5b</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX639854/1/full.webp?v=2e92f4df08d5</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX639854/2/full.webp?v=d78018bcf78c</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX639854/3/full.webp?v=506352797c0f</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX639854/4/full.webp?v=48d5cbaf1ab9</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX639854/5/full.webp?v=82e3cb60fa78</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX639854/6/full.webp?v=2aaf76db9bc0</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX639854/7/full.webp?v=5a058e3358cc</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX639854/8/full.webp?v=af94acb3e52a</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX639854/9/full.webp?v=56a7919d1a0d</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX639854/10/full.webp?v=b156d5e8ceeb</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX639854/11/full.webp?v=e442247d9333</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX639854/12/full.webp?v=efbc9c9a8176</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX639854/13/full.webp?v=60c77a81c265</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX639854/14/full.webp?v=7ba45bd0ca5e</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX639854/15/full.webp?v=abb81e0c0b07</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX639854/16/full.webp?v=8315380f21ec</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX639854/17/full.webp?v=fd11005e9d6e</image>
+        <image>https://cdn.alexsab.ru/cars/geely-partner-samara.ru/new/LB3G43S97SX639854/18/full.webp?v=46386f17f434</image>
+      </images>
+    </car>
+  </cars>
+</data>
